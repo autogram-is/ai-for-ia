@@ -43,7 +43,7 @@ await task('Project embeddings to 2d/3d', async ({ task, setStatus }) => {
       });
 
       bar.start();
-      await mapToSpace(model.id, true, 'tsne');
+      await mapToSpace(model.id, true, 'pca');
 
       await database.log(`Generated 2d/3d points for ${model}`);
     });
