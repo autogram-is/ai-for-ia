@@ -1,0 +1,65 @@
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+"Articles, videos & educational resources:","Career & Job Hunting",6
+"Articles, videos & educational resources:","Cluster 3",5
+"Articles, videos & educational resources:","Cluster 5",9
+"Articles, videos & educational resources:","Tools & Software",10
+"Articles, videos & educational resources:","UX Careers",25
+"Articles, videos & educational resources:","UX Discussion",60
+"Articles, videos & educational resources:","Visual & Interaction Design",19
+"Junior careers:","Career & Job Hunting",2
+"Junior careers:","Cluster 5",1
+"Junior careers:","UX Careers",1
+"Senior careers:","Career & Job Hunting",118
+"Senior careers:","Cluster 3",53
+"Senior careers:","Cluster 5",75
+"Senior careers:","Tools & Software",2
+"Senior careers:","UX Careers",108
+"Senior careers:","UX Discussion",2
+"Senior careers:","Visual & Interaction Design",4
+"Tools & apps:","Career & Job Hunting",9
+"Tools & apps:","Cluster 3",6
+"Tools & apps:","Cluster 5",8
+"Tools & apps:","Tools & Software",125
+"Tools & apps:","UX Careers",2
+"Tools & apps:","UX Discussion",25
+"Tools & apps:","Visual & Interaction Design",15
+"UI Design:","Career & Job Hunting",11
+"UI Design:","Cluster 3",16
+"UI Design:","Cluster 5",9
+"UI Design:","Tools & Software",45
+"UI Design:","UX Careers",20
+"UI Design:","UX Discussion",18
+"UI Design:","Visual & Interaction Design",119
+"UX Design:","Career & Job Hunting",18
+"UX Design:","Cluster 3",46
+"UX Design:","Cluster 5",28
+"UX Design:","Tools & Software",33
+"UX Design:","UX Careers",77
+"UX Design:","UX Discussion",56
+"UX Design:","Visual & Interaction Design",158
+"UX Research:","Career & Job Hunting",2
+"UX Research:","Cluster 3",9
+"UX Research:","Cluster 5",4
+"UX Research:","Tools & Software",11
+"UX Research:","UX Careers",9
+"UX Research:","UX Discussion",73
+"UX Research:","Visual & Interaction Design",48
+"UX Strategy & Management:","Career & Job Hunting",25
+"UX Strategy & Management:","Cluster 3",116
+"UX Strategy & Management:","Cluster 5",14
+"UX Strategy & Management:","Tools & Software",15
+"UX Strategy & Management:","UX Careers",40
+"UX Strategy & Management:","UX Discussion",42
+"UX Strategy & Management:","Visual & Interaction Design",25
+"UX Writing:","Career & Job Hunting",2
+"UX Writing:","Cluster 3",1
+"UX Writing:","Cluster 5",1
+"UX Writing:","Tools & Software",1
+"UX Writing:","UX Careers",1
+"UX Writing:","UX Discussion",7
+"UX Writing:","Visual & Interaction Design",9

@@ -1,0 +1,62 @@
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+"Articles, videos & educational resources:","Career & Industry",19
+"Articles, videos & educational resources:","Cluster 0",9
+"Articles, videos & educational resources:","Figma",4
+"Articles, videos & educational resources:","Job Searching",12
+"Articles, videos & educational resources:","UI/UX Critique",9
+"Articles, videos & educational resources:","UX Discussion",65
+"Articles, videos & educational resources:","UX Practice",16
+"Junior careers:","Job Searching",2
+"Junior careers:","UX Practice",2
+"Senior careers:","Career & Industry",102
+"Senior careers:","Cluster 0",56
+"Senior careers:","Figma",3
+"Senior careers:","Job Searching",151
+"Senior careers:","UI/UX Critique",3
+"Senior careers:","UX Discussion",2
+"Senior careers:","UX Practice",45
+"Tools & apps:","Career & Industry",6
+"Tools & apps:","Cluster 0",5
+"Tools & apps:","Figma",106
+"Tools & apps:","Job Searching",10
+"Tools & apps:","UI/UX Critique",13
+"Tools & apps:","UX Discussion",39
+"Tools & apps:","UX Practice",11
+"UI Design:","Career & Industry",21
+"UI Design:","Cluster 0",8
+"UI Design:","Figma",24
+"UI Design:","Job Searching",11
+"UI Design:","UI/UX Critique",111
+"UI Design:","UX Discussion",21
+"UI Design:","UX Practice",42
+"UX Design:","Career & Industry",78
+"UX Design:","Cluster 0",27
+"UX Design:","Figma",29
+"UX Design:","Job Searching",29
+"UX Design:","UI/UX Critique",132
+"UX Design:","UX Discussion",57
+"UX Design:","UX Practice",64
+"UX Research:","Career & Industry",15
+"UX Research:","Cluster 0",5
+"UX Research:","Figma",4
+"UX Research:","Job Searching",5
+"UX Research:","UI/UX Critique",43
+"UX Research:","UX Discussion",51
+"UX Research:","UX Practice",33
+"UX Strategy & Management:","Career & Industry",44
+"UX Strategy & Management:","Cluster 0",73
+"UX Strategy & Management:","Figma",7
+"UX Strategy & Management:","Job Searching",30
+"UX Strategy & Management:","UI/UX Critique",19
+"UX Strategy & Management:","UX Discussion",27
+"UX Strategy & Management:","UX Practice",77
+"UX Writing:","Career & Industry",2
+"UX Writing:","Job Searching",2
+"UX Writing:","UI/UX Critique",8
+"UX Writing:","UX Discussion",7
+"UX Writing:","UX Practice",3

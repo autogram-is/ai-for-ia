@@ -1,0 +1,62 @@
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+"Articles, videos & educational resources:","Articles, videos, educational resources",55
+"Articles, videos & educational resources:","Career growth and working with other people",36
+"Articles, videos & educational resources:","Examples and inspiration requests",16
+"Articles, videos & educational resources:","Feedback request",4
+"Articles, videos & educational resources:","How do I/How do you",4
+"Articles, videos & educational resources:","Job search and hiring",19
+"Junior careers:","Career growth and working with other people",2
+"Junior careers:","Job search and hiring",2
+"Senior careers:","Articles, videos, educational resources",3
+"Senior careers:","Career growth and working with other people",135
+"Senior careers:","Examples and inspiration requests",1
+"Senior careers:","Feedback request",5
+"Senior careers:","How do I/How do you",5
+"Senior careers:","Job search and hiring",213
+"Tools & apps:","Articles, videos, educational resources",10
+"Tools & apps:","Career growth and working with other people",9
+"Tools & apps:","Examples and inspiration requests",12
+"Tools & apps:","Feedback request",6
+"Tools & apps:","How do I/How do you",59
+"Tools & apps:","Job search and hiring",19
+"Tools & apps:","Tools, apps, plugins",75
+"UI Design:","Articles, videos, educational resources",18
+"UI Design:","Career growth and working with other people",30
+"UI Design:","Examples and inspiration requests",43
+"UI Design:","Feedback request",44
+"UI Design:","How do I/How do you",72
+"UI Design:","Job search and hiring",21
+"UI Design:","Tools, apps, plugins",10
+"UX Design:","Articles, videos, educational resources",42
+"UX Design:","Career growth and working with other people",111
+"UX Design:","Examples and inspiration requests",71
+"UX Design:","Feedback request",39
+"UX Design:","How do I/How do you",96
+"UX Design:","Job search and hiring",51
+"UX Design:","Tools, apps, plugins",6
+"UX Research:","Articles, videos, educational resources",13
+"UX Research:","Career growth and working with other people",22
+"UX Research:","Examples and inspiration requests",27
+"UX Research:","Feedback request",13
+"UX Research:","How do I/How do you",65
+"UX Research:","Job search and hiring",12
+"UX Research:","Tools, apps, plugins",4
+"UX Strategy & Management:","Articles, videos, educational resources",12
+"UX Strategy & Management:","Career growth and working with other people",168
+"UX Strategy & Management:","Examples and inspiration requests",12
+"UX Strategy & Management:","Feedback request",10
+"UX Strategy & Management:","How do I/How do you",35
+"UX Strategy & Management:","Job search and hiring",37
+"UX Strategy & Management:","Tools, apps, plugins",3
+"UX Writing:","Articles, videos, educational resources",2
+"UX Writing:","Career growth and working with other people",3
+"UX Writing:","Examples and inspiration requests",4
+"UX Writing:","Feedback request",2
+"UX Writing:","How do I/How do you",7
+"UX Writing:","Job search and hiring",3
+"UX Writing:","Tools, apps, plugins",1

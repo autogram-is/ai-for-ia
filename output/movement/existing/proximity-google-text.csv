@@ -1,0 +1,78 @@
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+"Articles, videos & educational resources:","Articles, videos & educational resources",13
+"Articles, videos & educational resources:","Junior careers",13
+"Articles, videos & educational resources:","Senior careers",17
+"Articles, videos & educational resources:","Tools & apps",3
+"Articles, videos & educational resources:","UI Design",16
+"Articles, videos & educational resources:","UX Design",54
+"Articles, videos & educational resources:","UX Research",8
+"Articles, videos & educational resources:","UX Strategy & Management",2
+"Articles, videos & educational resources:","UX Writing",8
+"Junior careers:","Junior careers",3
+"Junior careers:","UX Design",1
+"Senior careers:","Articles, videos & educational resources",1
+"Senior careers:","Junior careers",108
+"Senior careers:","Senior careers",174
+"Senior careers:","Tools & apps",3
+"Senior careers:","UI Design",3
+"Senior careers:","UX Design",50
+"Senior careers:","UX Research",7
+"Senior careers:","UX Strategy & Management",12
+"Senior careers:","UX Writing",4
+"Tools & apps:","Articles, videos & educational resources",2
+"Tools & apps:","Junior careers",13
+"Tools & apps:","Senior careers",7
+"Tools & apps:","Tools & apps",91
+"Tools & apps:","UI Design",24
+"Tools & apps:","UX Design",36
+"Tools & apps:","UX Research",6
+"Tools & apps:","UX Strategy & Management",3
+"Tools & apps:","UX Writing",8
+"UI Design:","Articles, videos & educational resources",3
+"UI Design:","Junior careers",16
+"UI Design:","Senior careers",8
+"UI Design:","Tools & apps",9
+"UI Design:","UI Design",95
+"UI Design:","UX Design",84
+"UI Design:","UX Research",4
+"UI Design:","UX Strategy & Management",2
+"UI Design:","UX Writing",17
+"UX Design:","Articles, videos & educational resources",5
+"UX Design:","Junior careers",53
+"UX Design:","Senior careers",35
+"UX Design:","Tools & apps",10
+"UX Design:","UI Design",107
+"UX Design:","UX Design",160
+"UX Design:","UX Research",15
+"UX Design:","UX Strategy & Management",15
+"UX Design:","UX Writing",16
+"UX Research:","Articles, videos & educational resources",1
+"UX Research:","Junior careers",7
+"UX Research:","Senior careers",2
+"UX Research:","Tools & apps",7
+"UX Research:","UI Design",19
+"UX Research:","UX Design",53
+"UX Research:","UX Research",51
+"UX Research:","UX Strategy & Management",5
+"UX Research:","UX Writing",11
+"UX Strategy & Management:","Articles, videos & educational resources",3
+"UX Strategy & Management:","Junior careers",31
+"UX Strategy & Management:","Senior careers",47
+"UX Strategy & Management:","Tools & apps",4
+"UX Strategy & Management:","UI Design",11
+"UX Strategy & Management:","UX Design",96
+"UX Strategy & Management:","UX Research",12
+"UX Strategy & Management:","UX Strategy & Management",63
+"UX Strategy & Management:","UX Writing",10
+"UX Writing:","Junior careers",1
+"UX Writing:","Senior careers",2
+"UX Writing:","UI Design",2
+"UX Writing:","UX Design",6
+"UX Writing:","UX Research",1
+"UX Writing:","UX Strategy & Management",1
+"UX Writing:","UX Writing",9
