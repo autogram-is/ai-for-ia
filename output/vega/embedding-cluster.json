@@ -1,0 +1,40 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A scatterplot showing vector embedding values and machine-tagged topics for Reddit posts.",
+  "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/tsne-clusters/oai-text-mini.json" },
+  "mark": {
+    "type": "circle"
+  },
+  "params": [
+    {
+      "name": "toggleTopic",
+      "select": { "type": "point", "fields": ["new.title"] },
+      "bind": "legend"
+    }
+  ],
+  "height": 600,
+  "width": 600,
+  "encoding": {
+    "x": {"field": "pos.0", "title": null, "type": "quantitative", "axis": null },
+    "y": {"field": "pos.1", "title": null, "type": "quantitative", "axis": null },
+    "color": { "title": "Topic", "field": "new.title", "type": "nominal"},
+    "opacity": {
+      "condition": { "param": "toggleTopic", "value": 0.8 },
+      "value": 0.1
+    },
+    "order": {
+      "condition": { "param": "toggleTopic", "value": 1 },
+      "value": 0
+    },
+    "size": {
+      "field": "score", "legend": null, "bin": true
+    },
+    "tooltip": [
+      {"field": "title", "type": "ordinal", "title": "Title"},
+      {"field": "old.title", "title": "Current" },
+      {"field": "new.title", "title": "Suggested" },
+      {"field": "score", "title": "Score" },
+      {"field": "comments", "title": "Replies" }
+    ]
+  }
+}
