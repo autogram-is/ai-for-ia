@@ -1,0 +1,77 @@
+id	tier	label	provider	model	variant	embed	generate	function	image	specialty	epsilon	prefix	notes
+aya-expanse-large	large	Aya Expanse 32b	ollama	aya-expanse	32b	1	1	0	0	0			
+aya-expanse	normal	Aya Expanse 8b	ollama	aya-expanse	8b	1	1	0	0	0			
+bespoke-minicheck	normal	Bespoke Minicheck	ollama	bespoke-minicheck	7b	0	0	0	0	1			'''Use ''''Document: <text>\\nClaim: <text>'''' to get a yes/no response'''
+bge-large	normal	BGE-Large	ollama	bge-large		1	0	0	0	0			
+bge-m3	normal	BGE-M3	ollama	bge-m3		1	0	0	0	0			
+gpt-4	large	ChatGPT 4	openai	gpt-4		0	1	0	0	0			
+gpt-4-turbo	normal	ChatGPT 4 Turbo	openai	gpt-4-turbo		0	1	0	0	0			
+gpt-4o	large	ChatGPT 4o	openai	gpt-4o		0	1	0	0	0			
+gpt-4o-mini	normal	ChatGPT 4o Mini	openai	gpt-4o-mini		0	1	0	0	0			
+o1-mini	normal	ChatGPT o1 Mini	openai	o1-mini		0	1	0	0	0			
+o1-preview	large	ChatGPT o1 Preview	openai	o1-preview		0	1	0	0	0			
+claude-haiku	small	Claude 3 Haiku	anthropic	claude-3-haiku-20240307		0	1	0	0	0			
+claude-opus	large	Claude 3 Opus	anthropic	claude-3-opus-20240229		0	1	0	0	0			
+claude-sonnet	normal	Claude 3.5 Sonnet	anthropic	claude-3-5-sonnet-20241022		0	1	0	0	0			
+deepseek2	large	Deepseek v2 16b	ollama	deepseek-v2	16b-lite-chat-q4_K_S	1	1	0	0	0			
+firefunction2	large	FireFunction v2	ollama	firefunction-v2	70b	1	1	0	0	0			
+gemini	normal	Gemini 1.5 Flash	google	gemini-1.5-flash		0	1	0	0	0			
+gemini-small	small	Gemini 1.5 Flash 8b	google	gemini-1.5-flash-8b		0	1	0	1	0			
+gemini-large	large	Gemini 1.5 Pro	google	gemini-1.5-pro		0	1	0	1	0			
+gemma-small	small	Gemma 2b	ollama	gemma	2b-instruct-v1.1-q4_K_M	1	1	0	0	0			
+gemma	normal	Gemma 7b	ollama	gemma	7b-instruct-v1.1-q4_K_M	1	1	0	0	0			
+gemma2-small	small	Gemma2 2b	ollama	gemma2	2b-instruct-q4_K_M	1	1	0	0	0			
+gemma2	normal	Gemma2 9b	ollama	gemma2	9b-instruct-q4_K_M	1	1	0	0	0			
+gemma2-large	large	Gemma2 27b	ollama	gemma2	27b-instruct-q4_K_M	1	1	0	0	0			
+google-text	normal	Google Text-Embedding	google	text-embedding-004		1	0	0	0	0			
+granite3-guardian-small	small	Granite3 Guardian	ollama	granite3-guardian	2b	0	0	0	0	1			
+granite3-guardian	normal	Granite3 Guardian	ollama	granite3-guardian	8b	0	0	0	0	1			
+granite3-dense-small	small	Granite3-Dense 2b	ollama	granite3-dense	2b	1	1	0	0	0			
+granite3-dense	normal	Granite3-Dense 8b	ollama	granite3-dense	8b	1	1	0	0	0			
+granite3-moe-small	small	Granite3-MOE 1b	ollama	granite3-moe	1b	1	1	0	0	0			
+granite3-moe	normal	Granite3-MOE 3b	ollama	granite3-moe	3b	1	1	0	0	0			
+hermes3-large	large	Hermes3 70b	ollama	hermes3	70b-llama3.1-q4_K_M	1	1	0	0	0			
+hermes3	normal	Hermes3 8b	ollama	hermes3	8b-llama3.1-q4_K_M	1	1	0	0	0			
+llama31-large	large	Llama 3.1 70b	ollama	llama3.1	70b-instruct-q4_K_M	1	1	0	0	0			
+llama31	normal	Llama 3.1 8b	ollama	llama3.1	8b-instruct-q4_K_M	1	1	0	0	0			
+llama32-mini	mini	Llama 3.2 1b	ollama	llama3.2	1b	1	1	0	0	0			
+llama32-small	small	Llama 3.2 3b	ollama	llama3.2	3b	1	1	0	0	0			
+llama-guard-mini	small	LlamaGuard 1b	ollama	llama-guard3	1b	0	0	0	0	1			Classifies messages as safe or unsafe
+llama-guard	normal	LlamaGuard 8b	ollama	llama-guard3	8b	0	0	0	0	1			Classifies messages as safe or unsafe
+minicpm-v	normal	MiniCPM-V	ollama	minicpm-v	8b-2.6-fp16	1	1	0	1	0			
+minilm	normal	MiniLM	ollama	all-minilm	33m	1	0	0	0	0			
+mistral-small	large	Mistral Small	ollama	mistral-small	22b-instruct-2409-q4_K_M	1	1	0	0	0			
+mistral-nemo	normal	Mistral Nemo	ollama	mistral-nemo	12b-instruct-2407-q4_K_M	1	1	0	0	0			
+mxbai	normal	MixedBread (doc)	ollama	mxbai-embed-large		1	0	0	0	0			
+mxbai-query	normal	MixedBread (query)	ollama	mxbai-embed-large		1	0	0	0	0		Represent this sentence for searching relevant passages:	
+moondream	normal	Moondream	ollama	moondream	1.8b-v2-fp16	0	0	0	1	0			
+nemotron-large	large	Nemotron 70b	ollama	nemotron	70b	1	1	0	0	0			
+nemotron	normal	Nemotron Mini 4b	ollama	nemotron-mini	4b	1	1	0	0	0			Optimized for roleplay
+nomic-classify	normal	Nomic Embed Text (classify)	ollama	nomic-embed-text		1	0	0	0	1		classification: 	
+nomic-cluster	normal	Nomic Embed Text (cluster)	ollama	nomic-embed-text		1	0	0	0	1		clustering: 	
+nomic-doc	normal	Nomic Embed Text (doc)	ollama	nomic-embed-text		1	0	0	0	1		search_document: 	
+nomic-query	normal	Nomic Embed Text (query)	ollama	nomic-embed-text		1	0	0	0	1		search_query: 	
+nuextract	normal	NuExtract	ollama	nuextract	3.8b-fp16	0	0	0	0	1			
+oai-text-large	large	OpenAI Text-Embedding-3 Large	openai	text-embedding-3-large		1	0	0	0	0			
+oai-text-mini	normal	OpenAI Text-Embedding-3 Small	openai	text-embedding-3-small		1	0	0	0	0			
+paraphrase	normal	Paraphrase	ollama	paraphrase-multilingual		1	0	0	0	0			
+phi35	normal	Phi 3.5	ollama	phi3.5	3.8b-mini-instruct-q4_K_M	1	1	0	0	0			
+qwen25-mini	mini	Qwen 2.5 .5b	ollama	qwen2.5	0.5b	1	1	0	0	0			
+qwen25-small	small	Qwen 2.5 1.5b	ollama	qwen2.5	1.5b	1	1	0	0	0			
+qwen25	normal	Qwen 2.5 7b	ollama	qwen2.5	7b	1	1	0	0	0			
+qwen25-large	large	Qwen 2.5 32b	ollama	qwen2.5	32b	1	1	0	0	0			
+qwen25-mega	large	Qwen 2.5 72b	ollama	qwen2.5	72b	1	1	0	0	0			
+reader-lm	small	Reader LM	ollama	reader-lm	1.5b	0	0	0	0	1			HTML to Markdown conversion
+reflection	large	Reflection	ollama	reflection	70b-q4_K_M	1	1	0	0	0			
+shield-gemma-small	small	ShieldGemma 2b	ollama	shieldgemma	2b	0	0	0	0	1			Classifies messages as safe or unsafe
+shield-gemma	normal	ShieldGemma 9b	ollama	shieldgemma	9b	0	0	0	0	1			Classifies messages as safe or unsafe
+smollm	normal	Smollm 1.7b	ollama	smollm	1.7b	1	1	0	0	0			
+smollm-mini	mini	Smollm 135m	ollama	smollm	135m	1	1	0	0	0			
+smollm-small	small	Smollm 360m	ollama	smollm	360m	1	1	0	0	0			
+smollm2	normal	SmolLM2 1.7b	ollama	smollm2	1.7b	1	1	0	0	0			
+smollm2-mini	mini	SmolLM2 135m	ollama	smollm2	135m	1	1	0	0	0			
+smollm2-small	small	SmolLM2 360m	ollama	smollm2	360m	1	1	0	0	0			
+snowflake	normal	Snowflake Arctic Embed 335m	ollama	snowflake-arctic-embed	335m	1	0	0	0	0			
+snowflake-small	small	Snowflake Arctic Embed 110m	ollama	snowflake-arctic-embed	110m	1	0	0	0	0			
+snowflake-mini	mini	Snowflake Arctic Embed 22m	ollama	snowflake-arctic-embed	22m	1	0	0	0	0			
+solar-pro	large	Solar Pro	ollama	solar-pro	22b	1	1	0	0	0			

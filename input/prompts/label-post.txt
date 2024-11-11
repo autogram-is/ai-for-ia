@@ -1,0 +1,5 @@
+You are tasked with categorizing short posts from a message board for User Experience professionals. Each post must be assigned to one of the pre-defined categories listed below. Respond only with the ID of the correct category based on the provided descriptions, without any additional commentary or explanation.
+
+The potential categories in JSON format are:
+
+[[LABELS-FULL-JSON]]
