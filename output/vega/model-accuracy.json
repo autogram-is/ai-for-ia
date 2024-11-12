@@ -1,10 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Accuracy versus time when categorizing documents by topic",
   "data": {
     "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/model-accuracy.csv"
   },
   "width": 600,
   "height": 400,
+  "params": [
+    {
+      "name": "toggleFamily",
+      "select": { "type": "point", "fields": ["family"] },
+      "bind": "legend"
+    },
+  ],
   "encoding": {
     "x": {
       "field": "minutes",
@@ -24,23 +32,15 @@
       {"field": "minutes", "title": "Minutes Taken" },
       {"field": "cost", "title": "Cost in Dollars" }
     ],
+    "opacity": {
+      "condition": { "param": "toggleFamily", "value": 0.9 },
+      "value": 0.2
+    },
     "shape": {"field": "family", "type": "nominal"},
     "color": {"field": "technique", "type": "nominal"}
   },
   "layer": [
-    { "mark": { "type": "point", "size": 80 } },
-    { 
-      "mark": { "type": "text", "style": "label" },
-      "encoding": {
-        "text": { "field": "model" } ,
-        "color": {
-          "condition": {
-            "test":  "datum['accuracy'] > 40 && datum.minutes < 115"
-          },
-          "value": ""
-        }
-      } 
-    }
+    { "mark": { "type": "point", "size": 80 } }
   ],
   "config": {
     "style": {

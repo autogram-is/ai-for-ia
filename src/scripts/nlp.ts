@@ -30,7 +30,7 @@ for (const [id, doc] of Object.entries(documents)) {
     .tokens()
     .filter(t => t.out(its.type) === 'word' && !t.out(its.stopWordFlag))
     .each((t: ItemToken) => {
-      const term = t.out(its.normal);
+      const term = t.out(its.stem);
       bagsOfWords[label] ??= {};
       bagsOfWords[label][term] ??= 0;
       bagsOfWords[label][term]++;
@@ -39,6 +39,14 @@ for (const [id, doc] of Object.entries(documents)) {
 
 const distinctWords = findDistinctWordsForEach(bagsOfWords, 5, 3);
 jetpack.dir('output/nlp').write('distinct-words-existing.json', distinctWords);
+
+for (const [label, bag] of Object.entries(distinctWords)) {
+  const output = [];
+  for (const [word, count] of Object.entries(bag)) {
+    output.push((word + ' ').repeat(count));
+  }
+  jetpack.dir('output/nlp').write(label + '.txt', output.join(' '));
+};
 
 function findDistinctWordsForEach(bagsOfWords: Record<string, Record<string, number>>, uniqueness = 10, min_appearances = 2) {
   const distinctWords: Record<string, Record<string, number>> = {};
