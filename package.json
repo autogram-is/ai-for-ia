@@ -24,6 +24,7 @@
   "scripts": {
     "docker:up": "docker compose up -d",
     "docker:down": "docker compose down",
+    "scratch": "tsx src/scripts/scratch.ts",
     "schema:generate": "npx drizzle-kit generate",
     "schema:push": "npx drizzle-kit push",
     "initialize": "tsx src/scripts/initialize.ts",
