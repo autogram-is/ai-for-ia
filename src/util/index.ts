@@ -10,6 +10,7 @@ export * from './input-schema.js';
 export * from './progress-bar.js';
 export * from './progress-emitter.js';
 export * from './serializers.js';
+export * from './key-by.js';
 
 import { similarity } from 'ml-distance';
 export const cosineDistance = (a: number[], b: number[]) =>
