@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/model-accuracy.csv"
+  },
+  "width": 600,
+  "height": 400,
+  "encoding": {
+    "x": {
+      "field": "minutes",
+      "type": "quantitative",
+      "scale": {"zero": false, "type": "sqrt"}
+    },
+    "y": {
+      "field": "accuracy",
+      "type": "quantitative",
+      "scale": {"zero": false, "domainMax": 50}
+    },
+    "tooltip": [
+      {"field": "model", "type": "ordinal", "title": "Model"},
+      {"field": "accuracy", "title": "Accuracy" },
+      {"field": "matches", "title": "Matches" },
+      {"field": "errors", "title": "Errors" },
+      {"field": "minutes", "title": "Minutes Taken" },
+      {"field": "cost", "title": "Cost in Dollars" }
+    ],
+    "shape": {"field": "family", "type": "nominal"},
+    "color": {"field": "technique", "type": "nominal"}
+  },
+  "layer": [
+    { "mark": { "type": "point", "size": 80 } },
+    { 
+      "mark": { "type": "text", "style": "label" },
+      "encoding": {
+        "text": { "field": "model" } ,
+        "color": {
+          "condition": {
+            "test":  "datum['accuracy'] > 40 && datum.minutes < 115"
+          },
+          "value": ""
+        }
+      } 
+    }
+  ],
+  "config": {
+    "style": {
+      "label": {
+        "align": "right",
+        "baseline": "middle",
+        "dx": -5,
+        "dy": -8
+      }
+    }
+  }
+}
+
