@@ -101,6 +101,10 @@
     "postgres": "^3.4.5",
     "sparkly": "^6.0.0",
     "tasuku": "^2.0.1",
+    "wink-distance": "^2.0.2",
+    "wink-embeddings-sg-100d": "^1.1.0",
+    "wink-eng-lite-web-model": "^1.8.0",
+    "wink-nlp": "^2.3.0",
     "zod": "^3.23.8"
   },
   "overrides": {
