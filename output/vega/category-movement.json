@@ -1,22 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "Category change by model",
-  "width": 1000,
-  "height": 800,
-  "padding": {"bottom": 20, "left": 20, "right": 30, "top": 40},
-  "title": {
-    "text": "Microsoft's FY23 Q2 Income Statement",
-    "color": "#005ca5",
-    "fontSize": 32,
-    "dy": 0,
-    "fontWeight": "bold",
-    "offset": 30
-  },
-  "background": "#fafafa",
+  "width": 800,
+  "height": 600,
+  "title": "Existing to Proposed category movement",
   "signals": [
     {
       "name": "standardGap",
-      "value": 14,
+      "value": 1,
       "description": "Gap as a percentage of full domain"
     },
     {
@@ -28,22 +19,18 @@
   "data": [
     {
       "name": "input",
-      "values": [
-        {"category": "Operating Profit", "stack": 0, "sort": 0, "gap": 0},
-        {"category": "Tax", "stack": 6, "sort": 0, "gap": 0},
-        {"source": "Operating Profit", "destination": "Tax", "value": 3.9}
-      ]
+      "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/movement/proposed/cluster-mxbai-query.json"
     },
     {
       "name": "stacks",
       "source": "input",
       "transform": [
         {"type": "filter", "expr": "datum.source != null"},
-        {"type": "formula", "as": "end", "expr": "['source','destination']"},
+        {"type": "formula", "as": "end", "expr": "['source','target']"},
         {
           "type": "formula",
           "as": "name",
-          "expr": "[ datum.source,datum.destination]"
+          "expr": "[ datum.source,datum.target]"
         },
         {"type": "project", "fields": ["end", "name", "value"]},
         {"type": "flatten", "fields": ["end", "name"]},
@@ -140,18 +127,18 @@
           "from": "finalTable",
           "key": "name",
           "values": ["y0", "y1", "stack", "sort"],
-          "fields": ["destination"],
+          "fields": ["target"],
           "as": [
-            "destinationStacky0",
-            "destinationStacky1",
-            "destinationStack",
-            "destinationSort"
+            "targetStacky0",
+            "targetStacky1",
+            "targetStack",
+            "targetSort"
           ]
         },
         {
           "type": "stack",
           "groupby": ["source"],
-          "sort": {"field": "destinationSort", "order": "descending"},
+          "sort": {"field": "targetSort", "order": "descending"},
           "field": "value",
           "offset": "zero",
           "as": ["syi0", "syi1"]
@@ -164,7 +151,7 @@
         {"type": "formula", "expr": "datum.sy0+datum.value", "as": "sy1"},
         {
           "type": "stack",
-          "groupby": ["destination"],
+          "groupby": ["target"],
           "sort": {"field": "sourceSort", "order": "descending"},
           "field": "value",
           "offset": "zero",
@@ -172,7 +159,7 @@
         },
         {
           "type": "formula",
-          "expr": "datum.dyi0+datum.destinationStacky0",
+          "expr": "datum.dyi0+datum.targetStacky0",
           "as": "dy0"
         },
         {"type": "formula", "expr": "datum.dy0+datum.value", "as": "dy1"},
@@ -187,7 +174,7 @@
             "expr": "scale('x', toNumber(  datum.sourceStack))+ bandwidth('x')"
           },
           "targetY": {"expr": "scale('y', datum.dyc)"},
-          "targetX": {"expr": "scale('x', datum.destinationStack)"}
+          "targetX": {"expr": "scale('x', datum.targetStack)"}
         },
         {
           "type": "formula",
@@ -215,7 +202,7 @@
     {
       "name": "color",
       "type": "ordinal",
-      "range": {"scheme": "rainbow"},
+      "range": {"scheme": "observable10"},
       "domain": {"data": "stacks", "field": "name"}
     }
   ],
@@ -236,7 +223,7 @@
         },
         "hover": {
           "tooltip": {
-            "signal": "{'Name':datum.name, 'Value':format(datum.value, '$') + 'B'}"
+            "signal": "{'Category: ':datum.name, 'Posts: ':datum.value}"
           },
           "fillOpacity": {"value": 1}
         }
@@ -252,12 +239,12 @@
           "strokeWidth": {"field": "strokeWidth"},
           "path": {"field": "path"},
           "strokeOpacity": {"signal": "0.3"},
-          "stroke": {"field": "destination", "scale": "color"}
+          "stroke": {"field": "target", "scale": "color"}
         },
         "hover": {
           "strokeOpacity": {"value": 1},
           "tooltip": {
-            "signal": "{'Source':datum.source,'Destination':datum.destination, 'Value':format(datum.value, '$') + 'B'}"
+            "signal": "{'Existing: ':datum.source,'Proposed: ':datum.target, 'Posts: ':datum.value}"
           }
         }
       }
@@ -295,23 +282,10 @@
           "encode": {
             "update": {
               "x": {"value": 0},
-              "y": {"value": -2},
+              "y": {"value": 3},
               "text": {"field": "name"},
               "align": {"signal": "datum.labels=='left'?'right':'left'"},
               "fontWeight": {"value": "normal"}
-            }
-          }
-        },
-        {
-          "type": "text",
-          "name": "amount",
-          "from": {"data": "labelFacet"},
-          "encode": {
-            "update": {
-              "x": {"value": 0},
-              "y": {"value": 12},
-              "text": {"signal": " format(datum.value, '$') + 'B'"},
-              "align": {"signal": "datum.labels=='left'?'right':'left'"}
             }
           }
         }
@@ -329,26 +303,6 @@
           "fill": {"value": "white"},
           "opacity": {"value": 0.8},
           "cornerRadius": {"value": 4}
-        }
-      }
-    },
-    {
-      "type": "text",
-      "data": [{}],
-      "encode": {
-        "update": {
-          "text": {
-            "value": [
-              "Source: https://www.microsoft.com/en-us/investor/earnings/fy-2023-q2/income-statements",
-              "Dataviz: David Bacci"
-            ]
-          },
-          "align": {"value": "left"},
-          "lineHeight": {"value": 16},
-          "fill": {"value": "#595959"},
-          "x": {"signal": "-150"},
-          "y": {"signal": "height +70"},
-          "fontSize": {"value": 10}
         }
       }
     }
