@@ -47,6 +47,7 @@ function getData(input: { source: string, target: string, value: number }[] = []
     ...records,
     ...output.values().map(s => ({ 
       category: s,
+      sort: 0,
       stack: 0,
       gap: 0,
     }))
