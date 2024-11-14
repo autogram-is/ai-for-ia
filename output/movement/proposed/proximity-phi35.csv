@@ -1,0 +1,40 @@
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+"Articles, videos & educational resources:","Articles, videos, educational resources",42
+"Articles, videos & educational resources:","Career growth and working with other people",4
+"Articles, videos & educational resources:","Feedback request",32
+"Articles, videos & educational resources:","Job search and hiring",56
+"Junior careers:","Feedback request",2
+"Junior careers:","Job search and hiring",2
+"Senior careers:","Articles, videos, educational resources",53
+"Senior careers:","Career growth and working with other people",8
+"Senior careers:","Feedback request",94
+"Senior careers:","Job search and hiring",207
+"Tools & apps:","Articles, videos, educational resources",40
+"Tools & apps:","Career growth and working with other people",6
+"Tools & apps:","Feedback request",71
+"Tools & apps:","Job search and hiring",73
+"UI Design:","Articles, videos, educational resources",60
+"UI Design:","Career growth and working with other people",7
+"UI Design:","Feedback request",80
+"UI Design:","Job search and hiring",91
+"UX Design:","Articles, videos, educational resources",102
+"UX Design:","Career growth and working with other people",8
+"UX Design:","Examples and inspiration requests",2
+"UX Design:","Feedback request",114
+"UX Design:","Job search and hiring",190
+"UX Research:","Articles, videos, educational resources",33
+"UX Research:","Career growth and working with other people",4
+"UX Research:","Feedback request",44
+"UX Research:","Job search and hiring",75
+"UX Strategy & Management:","Articles, videos, educational resources",47
+"UX Strategy & Management:","Career growth and working with other people",16
+"UX Strategy & Management:","Feedback request",72
+"UX Strategy & Management:","Job search and hiring",142
+"UX Writing:","Articles, videos, educational resources",6
+"UX Writing:","Feedback request",7
+"UX Writing:","Job search and hiring",9

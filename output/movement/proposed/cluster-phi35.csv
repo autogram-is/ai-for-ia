@@ -1,0 +1,64 @@
+---
+config:
+  sankey:
+    showValues: false
+---
+sankey-beta
+"Articles, videos & educational resources:","Career & Industry",29
+"Articles, videos & educational resources:","Cluster 1",21
+"Articles, videos & educational resources:","Cluster 2",13
+"Articles, videos & educational resources:","Cluster 3",15
+"Articles, videos & educational resources:","Cluster 4",13
+"Articles, videos & educational resources:","Design & Career",30
+"Articles, videos & educational resources:","UX Practice",13
+"Junior careers:","Career & Industry",1
+"Junior careers:","Cluster 2",1
+"Junior careers:","UX Practice",2
+"Senior careers:","Career & Industry",108
+"Senior careers:","Cluster 1",73
+"Senior careers:","Cluster 2",22
+"Senior careers:","Cluster 3",37
+"Senior careers:","Cluster 4",51
+"Senior careers:","Design & Career",9
+"Senior careers:","UX Practice",62
+"Tools & apps:","Career & Industry",49
+"Tools & apps:","Cluster 1",35
+"Tools & apps:","Cluster 2",14
+"Tools & apps:","Cluster 3",24
+"Tools & apps:","Cluster 4",27
+"Tools & apps:","Design & Career",13
+"Tools & apps:","UX Practice",28
+"UI Design:","Career & Industry",64
+"UI Design:","Cluster 1",39
+"UI Design:","Cluster 2",16
+"UI Design:","Cluster 3",36
+"UI Design:","Cluster 4",22
+"UI Design:","Design & Career",27
+"UI Design:","UX Practice",34
+"UX Design:","Career & Industry",119
+"UX Design:","Cluster 1",69
+"UX Design:","Cluster 2",30
+"UX Design:","Cluster 3",54
+"UX Design:","Cluster 4",43
+"UX Design:","Design & Career",50
+"UX Design:","UX Practice",51
+"UX Research:","Career & Industry",39
+"UX Research:","Cluster 1",32
+"UX Research:","Cluster 2",17
+"UX Research:","Cluster 3",20
+"UX Research:","Cluster 4",15
+"UX Research:","Design & Career",10
+"UX Research:","UX Practice",23
+"UX Strategy & Management:","Career & Industry",71
+"UX Strategy & Management:","Cluster 1",30
+"UX Strategy & Management:","Cluster 2",23
+"UX Strategy & Management:","Cluster 3",51
+"UX Strategy & Management:","Cluster 4",40
+"UX Strategy & Management:","Design & Career",9
+"UX Strategy & Management:","UX Practice",53
+"UX Writing:","Career & Industry",9
+"UX Writing:","Cluster 1",4
+"UX Writing:","Cluster 2",2
+"UX Writing:","Cluster 3",4
+"UX Writing:","Cluster 4",1
+"UX Writing:","UX Practice",2
