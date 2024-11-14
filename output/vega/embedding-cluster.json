@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A scatterplot showing vector embedding values and machine-tagged topics for Reddit posts.",
+  "title": "2D projection of text embeddings",
   "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/tsne-clusters/oai-text-mini.json" },
-  "mark": {
-    "type": "circle"
-  },
+  "height": 600,
+  "width": 600,
+  "mark": { "type": "circle" },
   "params": [
     {
       "name": "toggleTopic",
@@ -12,19 +12,13 @@
       "bind": "legend"
     }
   ],
-  "height": 600,
-  "width": 600,
   "encoding": {
     "x": {"field": "pos.0", "title": null, "type": "quantitative", "axis": null },
     "y": {"field": "pos.1", "title": null, "type": "quantitative", "axis": null },
     "color": { "title": "Topic", "field": "new.title", "type": "nominal"},
     "opacity": {
-      "condition": { "param": "toggleTopic", "value": 0.8 },
+      "condition": { "param": "toggleTopic", "value": 0.9 },
       "value": 0.1
-    },
-    "order": {
-      "condition": { "param": "toggleTopic", "value": 1 },
-      "value": 0
     },
     "size": {
       "field": "score", "legend": null, "bin": true

@@ -24,24 +24,31 @@
   "scripts": {
     "docker:up": "docker compose up -d",
     "docker:down": "docker compose down",
-    "scratch": "tsx src/scripts/scratch.ts",
-    "schema:generate": "npx drizzle-kit generate",
-    "schema:push": "npx drizzle-kit push",
-    "initialize": "tsx src/scripts/initialize.ts",
-    "embed": "tsx src/scripts/embed.ts",
-    "nlp": "tsx src/scripts/nlp.ts",
-    "locate": "tsx src/scripts/locate.ts",
-    "locate:specialty": "tsx src/scripts/retrieval.ts",
-    "epsilon": "tsx src/scripts/test-epsilon.ts",
-    "ollama:check": "tsx src/scripts/ollama-check.ts",
-    "position": "tsx src/scripts/position.ts",
-    "compare": "tsx src/scripts/compare.ts",
-    "cluster": "tsx src/scripts/cluster.ts",
-    "describe": "tsx src/scripts/describe.ts",
-    "prompt": "tsx src/scripts/prompt.ts",
-    "prompt:test": "tsx src/scripts/test-prompts.ts",
+
+    "db:schema": "npx drizzle-kit generate",
+    "db:migrate": "npx drizzle-kit push",
+    "db:populate": "tsx src/scripts/initialize.ts",
+
+    "nlp:analyze": "tsx src/scripts/nlp.ts",
+
+    "vector:embed": "tsx src/scripts/embed.ts",
+    "vector:locate": "tsx src/scripts/locate.ts",
+    "vector:docsearch": "tsx src/scripts/retrieval.ts",
+    "vector:cluster": "tsx src/scripts/cluster.ts",
+    "vector:project": "tsx src/scripts/position.ts",
+
+    "prompt:categorize": "tsx src/scripts/prompt.ts",
+    "prompt:describe-clusters": "tsx src/scripts/describe.ts",
+
+    "report:accuracy": "tsx src/scripts/compare.ts",
     "report:clusters": "tsx src/scripts/report-clusters.ts",
     "report:movement": "tsx src/scripts/report-movement.ts",
+
+    "test:tokenize": "tsx src/scripts/nlp-tokenize.ts",
+    "test:ollama": "tsx src/scripts/ollama-check.ts",
+    "test:epsilon": "tsx src/scripts/test-epsilon.ts",
+    "test:prompt": "tsx src/scripts/test-prompts.ts",
+
     "build": "shx rm -rf dist; pkgroll --minify",
     "format": "prettier --config prettier.config.js 'src/**/*' --write",
     "lint": "eslint src/**/*",

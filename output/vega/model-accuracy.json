@@ -1,17 +1,16 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Accuracy versus time when categorizing documents by topic",
-  "data": {
-    "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/model-accuracy.csv"
-  },
-  "width": 600,
+  "title": "LLM document categorization: Accuracy vs. Time",
+  "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/model-accuracy.csv" },
   "height": 400,
+  "width": 600,
+  "mark": { "type": "point", "size": 100 },
   "params": [
     {
       "name": "toggleFamily",
       "select": { "type": "point", "fields": ["family"] },
       "bind": "legend"
-    },
+    }
   ],
   "encoding": {
     "x": {
@@ -24,6 +23,12 @@
       "type": "quantitative",
       "scale": {"zero": false, "domainMax": 50}
     },
+    "opacity": {
+      "condition": { "param": "toggleFamily", "value": 0.9 },
+      "value": 0.2
+    },
+    "shape": {"title": "Model Family", "field": "family", "type": "nominal"},
+    "color": {"title": "Technique", "field": "technique", "type": "nominal"},
     "tooltip": [
       {"field": "model", "type": "ordinal", "title": "Model"},
       {"field": "accuracy", "title": "Accuracy" },
@@ -31,26 +36,7 @@
       {"field": "errors", "title": "Errors" },
       {"field": "minutes", "title": "Minutes Taken" },
       {"field": "cost", "title": "Cost in Dollars" }
-    ],
-    "opacity": {
-      "condition": { "param": "toggleFamily", "value": 0.9 },
-      "value": 0.2
-    },
-    "shape": {"field": "family", "type": "nominal"},
-    "color": {"field": "technique", "type": "nominal"}
-  },
-  "layer": [
-    { "mark": { "type": "point", "size": 80 } }
-  ],
-  "config": {
-    "style": {
-      "label": {
-        "align": "right",
-        "baseline": "middle",
-        "dx": -5,
-        "dy": -8
-      }
-    }
+    ]
   }
 }
 
