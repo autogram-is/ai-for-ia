@@ -34,7 +34,7 @@ for (const model of ['gemma2', 'llama31-large', 'qwen25-large', 'gpt-4o-mini', '
 
 function getData(input: { source: string, target: string, value: number }[] = []) {
   const records = input.map(i => ({
-    source: i.source, // Incredibly cheesy hack to get around duplicate in/out categories
+    source: i.source.replace(':', ''), // Incredibly cheesy hack to get around duplicate in/out categories
     target: i.target,
     value: i.value,
   }));
