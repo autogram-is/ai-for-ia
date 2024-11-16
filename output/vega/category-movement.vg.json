@@ -3,6 +3,7 @@
   "description": "Category change by model",
   "width": 800,
   "height": 600,
+  "background": "#FFF",
   "title": "Existing to Proposed category movement",
   "signals": [
     {
@@ -19,7 +20,7 @@
   "data": [
     {
       "name": "input",
-      "url": "../movement/proposed/cluster-mxbai-query.json"
+      "url": "../movement/proposed/prompt-gemma2.json"
     },
     {
       "name": "stacks",

@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "LLM document categorization: Accuracy vs. Time",
-  "data": { "url": "../model-accuracy.csv" },
+  "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/model-accuracy.csv" },
   "height": 400,
   "width": 600,
   "mark": { "type": "point", "size": 100 },
