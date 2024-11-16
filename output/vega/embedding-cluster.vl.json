@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "2D projection of text embeddings",
-  "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/tsne-clusters/oai-text-mini.json" },
+  "data": { "url": "../tsne-clusters/oai-text-mini.json" },
   "height": 600,
   "width": 600,
   "mark": { "type": "circle" },

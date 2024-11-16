@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "input",
-      "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/movement/proposed/cluster-mxbai-query.json"
+      "url": "../movement/proposed/cluster-mxbai-query.json"
     },
     {
       "name": "stacks",
