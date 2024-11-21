@@ -1,0 +1,1352 @@
+how do i make data easy to understand for a b2c audience?
+hello fellow uxers! i'm looking for some expertise...
+**tldr:** how do i make the graph significantly easier to understand?
+**context:** i’m the only designer for a start-up that sells and installs solar panels to homeowners (and the product manager is away). we are a very data-driven company and have a 'calculator' that is able to give an accurate forecast of energy generation and savings you can make on your bills, based on a few questions we ask upfront. 
+this ‘calculator’ is essentially a dashboard with key figures and a graph (see screenshot below).
+https://preview.redd.it/dff6ap3mydod1.png?width=2800&format=png&auto=webp&s=0e6d33fabe09f3fc5289be30047ef116cfe6ce84
+**problem**: we know that our customers' main goal with getting solar is to save money on energy bills (environmental concerns are secondary). customers are fairly split on data-literacy, those who understand graphs love the graph and the detail it communicates, ***many others just ignore the graph completely as they don’t get it***.
+i’m looking for a way to clearly deliver the value of our offering (i.e. how much money we could save you on bills) without the cognitive load of having to read a graph and make mental deductions. i’ve tried making the graph simpler and clearer, but after testing it seems the issue remains that some people straight up just don’t get graphs and in a b2c setting aren’t going to try.
+**question:** what ways can i effectively communicate the reduction in energy bills at a glance? ideally not text heavy, a diagram, illustration or infographic could work.
+does anyone have experience in something similar? making data accessible for a b2c audience?
+(also open to any general feedback on this dashboard - it is not my design and i think could be improved)
+
+choosing the right design system
+i'm about to prototype the first version of my startup app concept in figma and i need to choose a design system to speed up the process, following a rapid prototype design style. i've these concerns:
+1. what will the overall feel and consistency of the design system be when components are invented, colors and typography are changed
+2. how will the alterations to the design system affect the next phase of the design, which is creating the prototype in swiftui?
+3. how will the design system scale when new components are introduced on the molecule level - how dramatic will the ripple effects be for the rest of the design system?
+would greatly appreciate feedback from more experienced ui/ux designers who know the pitfalls when trying to do rapid prototyping as fast as possible while mitigating downsides
+
+should dashboard be the first thing to be made in wireframes?
+so i just got done with ia, and was assigned to work on 5 wireframe options for dashboard.
+i find this overwhelming, because dashboard in my opinion is the collection of all the important segments from the pages that exist. i feel like once you are done with all the pages you would understand the priorities a lot more and then be more well equipped to tackle dashboard. 
+or maybe i am wrong and just struggling due to incompetence.
+i am looking for advice on how to approach dashboard design. i understand the goals of the user. but how do i know what information and data they would find really useful…
+i tried searching for dashboard inspirations on pinterest and dribbble , and on first glance they look stunning. but when i actually read what’s on there, nothing makes sense. 
+looking for tips on how to approach this. it’s been hours and i haven’t been able to make more than 1 option
+
+what should information architecture not contain?
+so despite working in ux field for more than a year, i absolutely suck at ia, even the core idea of it. the last time i create an ia my team was completely trashing it. 
+basically i added everything like what each page would have, the sections it would have, the actions it would have, the information, the table columns of dashboard etc etc 
+i was told to make it simple and streamlined. 
+i tried and failed and eventually it was reworked by teammate. 
+now i am assigned the same ia task for another project. and i am so confused because my understanding isn’t clear. 
+i was told to make ia and a linear ia. now i have no idea what a linear ia is because the product is quite complex. there are different user types and the user would see different things based on their role. they have something’s that all would see. so i am confused if everything should on one ia or separate ones based on role. 
+and if i know there’s going to be a table of different things, should the table columns be part of ia 
+or should it be more higher level? 
+please help!
+
+noob looking for guidance: how to narrow down color palette to a few vars and when to use each one?
+hello, this might be a dumb question as it might all be just personal preference but figured i'd ask anyway. 
+i want to learn the basics of how to organise color theme / style across an app.
+let's say i find a palette i like, maybe [catppuccin](https://catppuccin.com/palette).
+they give out all the exact color values but if i define them all as css vars i get a bit lost in terms of when to use each one etc.
+do i narrow it down to a few colors somehow, and call them primary, secondary, background, highlight etc? (what's the minimum set of colors i need?)
+not sure how to decide which ones, how many, what to use for any random scenario eg button color and background on hover.
+feel free to link any good resources on this as i'm not sure where to  start, even paid ones, or youtube videos.
+thanks!
+
+article thumbnails ui pattern
+hey guys, i am working on a budget app for a client, he said he wanted to have a section of articles about finace and related stuff, so i went down looking at different apps with articles as a feature and realized ths pattern where article thumbanils are put to the right and content (heading+extract) to the left. this is almost everywhere.  
+i would love to know what is the influnece/thinking behind this pattern if any senior designer knows. is it based on the f reading pattern that people read content from left to right? if you have any articles or research i can read around this i would be glad. 
+images of different apps with this pattern 
+https://preview.redd.it/ow36raojbdnd1.png?width=302&format=png&auto=webp&s=5239ebe680f8c6d5de9a81d04e55fa56f01351e0
+https://preview.redd.it/1rpy7axlbdnd1.png?width=421&format=png&auto=webp&s=bd974d837ab88529cd7a0da5fed42a4326b05a84
+https://preview.redd.it/o18ex2smbdnd1.png?width=433&format=png&auto=webp&s=1b21d0231201928bb69006c44da41760bb67a6e2
+https://preview.redd.it/sm1ag1vnbdnd1.png?width=784&format=png&auto=webp&s=025b1d9bbad1bdb32b07da0d50c07ac740dede4f
+https://preview.redd.it/hn85benobdnd1.png?width=424&format=png&auto=webp&s=89563ea7e3d46ab9cd95460d7aca0882409373f8
+https://preview.redd.it/kpoh04gpbdnd1.png?width=525&format=png&auto=webp&s=c753e31914f67937a5e88fbd33b1134af9ed102b
+
+designers in agile workflows: how often do outdated mocks cause rework?
+for designers working in an agile/iterative process, how often do you find yourself needing to rework your mocks because they weren't in sync with the live product? how much extra time or effort does it take to update your designs after discovering this in review meetings or developer handoffs? would love to hear about your experiences dealing with this issue!
+
+is "ui design" inclusive of website navigation?
+this might be a dumb question, but as i'm continuously sharpening my resume as a ux designer who has indeed done ui design for web and enterprise applications, i'm wondering if people consider website navigation, menus, etc. to be "ui design" if, as a ux designer, you're creating the final design for it, and it is not something that is simply a wireframe that is handed off to a visual designer to "do the design" on. 
+dumb question though it may be, i'm asking because i see such a range of implied expectations when it comes to "ui design." some is as simple as "ux designer who can design ui and interfaces," while some descriptions stray into far more into what most might consider a visual design role with little focus on ux.
+any thoughts?
+
+how do you organize your design files and handle versioning?
+hey everyone,
+i’m working at a small startup and we’re having some trouble with our design file organization. right now, we create new versions of pages every time there’s a change, like “home page v1,” “home page v2,” “final home page v2,” and so on. it’s getting a bit chaotic, and we’re finding it hard to keep track of what’s what.
+on top of that, handing off designs to our developers is getting confusing. sometimes changes are small, like tweaking a form or changing icons, and we’re not sure if we should be creating a new version or just updating the existing one.
+i’m curious—how do you manage your design files and versioning? what strategies or tools do you use to stay organized and make handoffs smoother?
+would love to hear how others handle this!
+thanks a bunch!
+
+experience with gui design software:
+this post might be directed to a niche group of ux and ui professionals. if this subreddit is not the venue for such a question, please let me know. i am looking for designers perspectives who have experience designing guis for products, devices, appliances, etc. examples are medical devices with a display and home appliances with displays. for those who are familiar with this type of product design/development, what design software do you use? what made you decide to use it? was there someone who influenced you to use it? where does it fit into your design process?
+
+a/b test collection by mobbin, what a bomb!
+it feels like the design world has never been so collaborative befor. also gold mine for ai
+https://abtest.design/
+
+this is bad design right?
+https://i.imgur.com/h3kwoop.png
+the people in r/tinder are like "no it's your problem"
+
+where are you finding design inspiration?
+dribbble doesn't seem to be the place
+
+why google autofill would save only one field with the password?
+i have a few fields in my form, like first name, last name, and a password. i submit the form. it asks me to choose between the first or last name to be saved together with the password.
+first question: why it can't save the three fields? second question: when i save the first name, the autofill brings it inside the last name input, that is the nearst to the password field. why?
+added the autocomplete, name, ids, label, etc and nothing worked.
+
+why did reddit replace tabs with a dropdown?
+https://i.redd.it/2iyntwi7f1od1.jpeg
+
+iso existing products with good dashboard animations
+i’m in the process of putting together a presentation for why my company needs to add animations to our user-facing dashboard. 
+i have a background in animation so i already know what kind of info i need to add in terms of micro animations, etc but i am having trouble finding good examples of this. 
+in my search, i can only find examples on sites like dribbble which, from what i’ve seen, aren’t actually in production anywhere. 
+if anyone knows of good desktop examples anywhere i’d really appreciate it. thanks!
+
+what's something you have seen designed by someone else that blew your mind but very few people know about?
+i know that there are many remarkable ux designers out there doing all sorts of wonderful work (although probably not as many as i would like). if you have seen someone do something fantastic but hasn't really seen the light of day or been given more credit than it deserves, i want to know about it. 
+i am passionate about using design to improve education and bridge the gap in our society, but a good solution to a tricky problem is something i am sure everyone can learn from.
+
+amazon finally updated their ui. what do you guys think?
+https://i.redd.it/msgbeuf0wvmd1.jpeg
+
+peer review or getting feedback by sending links out to slack (or similar)
+i've experienced this a few times, but does your company, group or organization have a channel where you post screens, figma links, prototype or whatever for mass approval?
+if so, why? do you find it effective? 
+are there other ways to do reviews available? 
+is this a growing trend, or the way it's been for a while? or a good or bad practice?
+and how much might it depend on who "answers the call" so to speak?
+also, when you get feedback, do you just consider it and move forward or followup with people who might have called out things to do different or explore? if you move on, do you ever close the loop with others? 
+i think in one case this method was used or at least framed as "no one would have time for a formal review anymore" if everything hinged on that review.
+
+love the actual design part but not the deep ux research part, what should i focus on?
+i’m currently navigating my path as a ui/ux designer and i'm feeling a bit stuck. i love the visual side of things. 
+i also enjoy making sure everything works well, is easy to use and makes sense, but honestly, i’m not a fan of the deep ux research side (personas, user interviews, long documentation, walls of text, etc.). 
+it feels tedious and takes away from what i enjoy most and am good at: the creative and visual side of design.
+is there a role or path that focuses more on the ui part while still touching on some usability, it's obviously important, but without getting too bogged down in the hardcore ux research? 
+any advice or insight from others who have felt the same would be really helpful! thanks!
+
+designing for the government
+this is not a very common career path in tech despite the huge amount of benefits there is. i also barely see people having discussions about government software/websites. wondering why this is so. i've been going through a couple of design systems for different governments and it randomly hit me that nobody says they work for the government in our industry.
+
+konty | sketch your app ideas (free)
+https://konty.app/
+
+figma
+https://i.redd.it/91qhr1e2neod1.jpeg
+
+fonts for web based saas
+i have been working on a saas that will be used across multiple devices and browsers. 
+so asking your opinion on what is the best font choice for a web based platform. i know that atlassian use system fonts in their design. but is that the best choice?
+would love to hear your opinions!
+
+why did figma become so famous in the industry??
+despite the existence of other similar or better tools like facebook origami, protopie, play, axure rp etc. all these tools are functionally better than figma as they are more interactive.   
+figma ignores so much about design and focuses on still design. the prototyping is so bad that it needs to be backed by insane documentation. sound design, interactions like "on scroll", etc. i find it so backward yet designers like it. why????
+
+open source deign system (flowbite, material design, etc.)
+normally, i use the design systems provided by the client’s team (they usually have their own team for this, and i’m just outsourced to help). i recently learned about open-source design systems like flowbite and material design. i used to think that these were only available for dev teams, but it turns out they come with figma files as well, including variants, tokens, styles, and everything you need. however, i still have several questions about the practical use of these systems.
+* what do you think are the pros and cons of using these open-source systems compared to creating a design system from scratch?
+* what is the main purpose, or in what cases, should we choose to use an open-source design system instead of building one ourselves?
+* open-source systems come almost ready to use, but the default settings are from the system itself. if our client has specific needs, like using a different font or adding their brand’s colors to the style, what we have to do, is to overwrite these fonts and styles, and update the library right?
+* related to the above, some systems like flowbite provide a lot of font styles or color styles, but we probably won’t use them all. how should we manage the parts we won’t use? for example, i might only need h1, h2, h3, and body for the client’s product, but flowbite offers up to h5. how should i manage these styles in figma? should i leave them as they are and specify in the style guide what we are using?
+* as i understand it, the design system they provide is the “complete” set of all ui component possibilities, and we don’t need to use everything. we just select what we need. these selected components will be documented in the style guide, right? and each piece we include in the style guide will still be linked to the main design system file (like the style guide is a filtered version of the design system that shows what and how things are used).
+thanks everyone for the input! :)
+
+seeking opinion on macbook air
+hello everyone. i’m thinking about purchasing a macbook air m3 (13 or 15 inches) for ui design projects and a bit of lightroom/photoshop work. i’m bit tight on budget. 
+so my question is whether there are some people in this group who has mb air and can share some opinions about it’s performance?
+i’d like to add that i am using mb pro (owned by my employer). air would be used privately for smaller side work
+really eager to hear some opinions :d
+cheers
+
+i'm finding figma boolean properties of components hard.
+i normally use extensive list of variants as required. today i came to know i can use boolean toggles but k find it hard to use. because if i set boolean for one variant then i cannot set its fall-back value i.e second variant. how it actually works? i've 20 variants with size, color and state. so, i've now 60 variants list.
+edit:  it is getting very frustrating. when i select two variants then i cannot add boolean. also when i set it as false then variant goes away. moreover, once i set for one the i cannot edit the boolean. can anyone explain this in simple terms? i just want to have an active and disable toggle for a button. 
+https://preview.redd.it/lt3u7t24lbnd1.png?width=1628&format=png&auto=webp&s=31d00f7a650bbd8a8855309464c5106dddedd01c
+
+ux job market in france
+does anyone know about the current job market in france, more specifically paris?
+also, how difficult is to find opportunities with an a2 french level?
+
+how is it working at microsoft as a visual product designer?
+i know the market is bad right now for the ux field. is microsoft on the safer side of layoffs or is it just as unstable in the design department?
+
+received a job offer for a senior product design position this morning! here was my application journey. have been applying and interviewing since july. ama
+https://i.redd.it/cf8pwxx8psnd1.png
+
+what an experience!
+found this jd a couple months back and was reminded of it recently, so wanted to share this comical gem with you all. the company is based in nyc with no salary listed, of course.
+
+some thoughts on getting into ux and my experience while vetting applicants
+\*wall of text incoming\*
+hello,
+we all see the myriad of posts about getting hired in ux as a beginner and i thought i would share some insights from my experience breaking into the field and now attempting to hire talent.
+i began my ux journey in 2017, i did not attend any bootcamps and wasn't aware of any existing at the time. i studied computer game design but did not graduate. while trying to build out a portfolio with real projects, i found that taking simple web design projects was a really easy way to get experience working with clients. i watched some tutorials on youtube on how to use common website builders like wix, squarespace, and shopify and got on upwork and started lowballing offers. it was much easier to land contracts where i was able to design the website to their specifications but also build it for them using one of the tools i previously mentioned. although web design is not the most highly regarded type of ui design, it was enough to get some real experience on my portfolio and also gave me the ability to design and create my own website. once i had some completed contracts on upwork, i started applying to more that were actually software design projects and was able to land a couple that really boosted my portfolio.
+from this point, i continued doing that while working a retail job until about 2020 when i first started to really look at taking my side hustle full-time. it was at this time that i started to see all the bootcamps pop up everywhere and rather than sign up for one, i actively chose to just apply to jobs without any real provable education on my resume. i'm not sure how this affected me chances but overall it took until january 2021 to land my first full time job. since then, it has been pretty easy to maintain my portfolio and i have been promoted (junior ux designer -&gt; ux designer -&gt; senior ux designer) and switched jobs twice since then, starting my newest position as a senior product designer back in july.
+now that i'm in the position to be hiring people to my team, i've noticed a lot of similar issues amongst applicants.
+1. portfolios lacking projects other than bootcamp assignments - this one is huge because since so many people attend the same bootcamps, you end up with many applicants essentially with the exact same projects on their portfolios. the amount of goodreads redesigns i've seen is alarming. if you want my opinion, even adding projects that you came up with on your own is going to make you stand out. redesign existing apps and explain why you made the changes the did. tackle individual problems/features in case studies instead of entire application redesigns. seeing comprehensive ability to take a simple feature (creating a instagram post), tear it apart to it's basic flows, and improving on them will tell me a lot more about your ability to problem solve than just making something look different.
+2. unprofessional portfolios - if you are not good at creating websites, there is nothing wrong with using templates for your portfolio. too often i am seeing slow loading websites with improper css and html and altogether feeling very lazy. unless you're doing purely visual design, your website doesn't have to be fancy but it does need to have a good information hierarchy and be easy to navigate. if i'm struggling to find what i'm looking for on your website, it does not evoke confidence in your ability to create a good user experience. your website is also a portfolio piece in a lot of situations and it's often times the only one we actually get to interact with.
+3. applying for jobs you are unqualified for - do not apply to senior roles with no experience, do not apply to specific roles (things labelled "growth" or "revenue") without relevant experience. i had posted a job for a junior designer and another for a senior, the amount of applicants that applied to both jobs (having too much experience or too little) was pretty telling about the state of things. i would also like to point out that linkedin is deceptive. my job posting was showing 187 applied, but we actually only received about 60 applications before closing the post. do not let the number shown on linkedin discourage you from applying.
+4. not being able to answer common questions during interview - this one is probably the most damning to me. i go out of my way to interview folks that don't have actual experience because i think everyone deserves a chance. often times, these people are not prepared at all for the interview and i get a lot of "ummms" and "i'm not sure" when i ask questions about why they made a design choice they did. one question that slips up just about all the juniors is "what ideas did you try that didn't make it to the final version? why did you decide against it and what makes your chosen design better?". most of them can't answer this question which is red flag to me as you will rarely get the right answer the first time. so much of this job is about iteration and adapting to changes and if you cant tell me something that's been iterated on, i'm going to assume you always went with your first idea. i also can not stress this enough, but pick a project on your portfolio, outline common questions you think the recruiter will ask and prepare for you interview. you do not want to be caught off guard.
+5. it doesn't hurt to reach out after applying - you very well might be ignored but name recognition is very much a thing. pretty much any designer that applies for the jobs, finds my linkedin and send me a nice message will at least have my attention enough to check out their resume and i will usually give them a screening call at the very least. it might not work for every company, but so much in the business world is nepotistic and just a friendly hello asking questions about the company can keep you at the top of people's minds in a sea of nameless resumes.
+that's really all i've got. hope it was somewhat informative. if you have any questions about anything i've said here, let me know.
+
+anyone has been on 99designs as a freelance?
+i want to start freelancing and a colleague recommended me 99design to start with, but i got rejected and i don't know why. i would like to know if there is anyone working on the platform and if they are worthy and if it is possible for them to give me some advice to get started.
+
+leaving current page off of breadcrumbs?
+i know including the current page as the last item in breadcrumbs is usually a must, but i'm wondering about breaking that rule. i believe the redundancy between that breadcrumb item and the page title is intuitive and can provide confirmation to users concerning where they are in the site. but maybe that can be too redundant?
+here is what i currently have, with full crumbs:
+https://preview.redd.it/fp4aykwmedod1.png?width=1440&format=png&auto=webp&s=55e0aeb697b83f700c3451800a977fc293b810db
+the page title usually ends up *right below* the breadcrumb, though, so i'm considering going rogue and trying this:
+https://preview.redd.it/29wn356yedod1.png?width=1440&format=png&auto=webp&s=d2b1bcf64b89a592ffbb4bb5efb91bd12901364b
+thoughts? concerns? of course, it may be that the whole header design should be changed to address the title being right below the crumbs.
+
+what are some standards/options for saving state for checkboxes and pills?
+https://i.redd.it/81e3z6ndiaod1.png
+
+struggling to figure out the design from some cards and would appreciate feedback/suggestions
+alright so i'm currently designing a feature for a web app map, basically its a vertical carousel that populates based on the viewport of the map creating a card for each point currently visible.
+functionality needed 
+1.  various fields and their text values
+2. button groups that allow a user to change the state of fields probably will max out at like 2 that need to be button groups instead of text rows
+3. a button that a user will click and drag off the card to move said point
+4. a button that redirects to another info page
+5. then some sort of gallery or something where images related to the points will be, likely wont have that many photos in it maybe like 5 at max 
+limitations 
+1. these cards will be being dynamically generated as a user pans the map
+2. since this is supposed to be sort of a side menu thing there are some size limits and the smaller we can keep everything the better 
+i have some mockups i tossed together in figma below but basically my issue is i'm not wild about the layout and everything i've made for the cards and would greatly appreciate any ideas or feedback.
+https://preview.redd.it/lwqh80ea6und1.png?width=1397&format=png&auto=webp&s=558bbf263ab0ba7cf51f939d94857498e94302b6
+https://preview.redd.it/i6ml597b6und1.png?width=188&format=png&auto=webp&s=c031371b50d4bf9c74634ab0ec807b8cf57bd808
+
+need to hide columns in table by default. how let users know about it?
+if i have a table with many columns, and i want some of the not so important columns to be hidden by default, how would you let users know that some columns are hidden and they can see it if they enable it in the table setting? i was thinking of using an alert message above the table and telling them about it but i am not certain. please provide some suggestions, thank you!!
+
+would this be obvious to players?
+https://preview.redd.it/l767arjdynnd1.png?width=207&format=png&auto=webp&s=ec716d3293b9488175ce5c2a523023385260a935
+the context is a crossword puzzle. these are abilities that the player can purchase. 
+&gt;!the first one reveals a random letter in the crossword!&lt;
+&gt;!the second one targets a specific position!&lt;
+&gt;!the third one reveals a cluster of 4 letters!&lt;
+the player will interact with these a lot and whenever they click on them it should be obvious what happens.
+
+need some feedback on this ui/ux
+https://reddit.com/link/1fc1q6r/video/suq816kv2mnd1/player
+hi there,
+i'm looking for some ux + ui feedback on a project. it's a website builder, and this specifically is the theme selector.
+two questions:
+1. if you can see, the button changes it's functionality after the user clicks on the a theme.
+* the first click is to preview the theme
+* the second click is to apply the theme to the page.
+-&gt; is that clear enough? do you think two buttons will make a better experience?
+2. i feel like the theme selector as a "window" on the page, is quite large. and i'm using a 24 inch screen.
+* as you can see in the video, you can move it around if it overrides an area you want to see but, still, it feels quite large. how would you change it?
+if you have any feedback it'd be super helpful.
+thanks!
+
+what’s better for signup forms?
+when signing up for a new app is it better to use continue buttons or still have the option to sign up/log in?
+i feel like it’s hard to know if you’ve signed up already to an app when we use the continue buttons, possibly leading to user creating multiple accounts by accident. this is for mobile apps btw
+
+is it possible to make the user scorll in a dashboard design
+hello everyone , i'm working on a design for a learning dashboard based on quizzes that made by a teacher so in the homepage i'm thinking about put in it the impirtant insights and the quizzes that the tacher making it so for the quizzes it might cause for the user to scorll so i want to ask is it possible to make the user scorll in a dashboard while the nav bar is sticky ? also another question if i have a feature that let the user show his/her activity like for example quiz intro to ai created , new student joined your class & more so i thought it will be better if i add it as a icon stick on the top with the profile and notifcations loacted which he could found it anytime so tell me what do you think about it also ?
+
+advice on my ux design
+i am just curious if there are other ideas to how i can design this dialog box. the issue stems from the description fields. i do want the ability to show the user how it will look with their html formatting. there is a lot of data here, and it would interesting to see how the professionals might design it. 
+https://preview.redd.it/eiilw43670nd1.png?width=1132&format=png&auto=webp&s=4a96b2a475873c516ea0a4658d1ab8a32323de05
+
+need advice on top nav bar
+hi everyone, need your feedback on the user-friendliness of this top nav bar. this is for a sales marketing product where the admin can switch between sales and fulfillment using a toggle above the nav bar. originally, we had a left-side nav bar, but the client preferred the top nav bar after seeing it in another product.
+i explained that top nav bars work best with 4-5 items, but they insisted. now, to access more menu items, users have to click on "more" to see a dropdown. how can we improve this design, and do you have any suggestions on how i can convince the client to consider returning to the traditional left nav bar?
+
+portfolio includes mostly work i can’t share
+apologies if this topic has been recently discussed (i don’t see it, though). 
+i’m having an issue with my portfolio. all of my jobs have been with fortune 100 companies (financial firms and healthcare companies) who have strict confidentiality clauses and the projects i worked on are generally c-suite and highly sensitive. and so, i can’t publicly display my work on my website, and i’m not even technically allowed to share it with anyone, ever. moreover, in some cases, i’m not even supposed to have the files that i have. 
+what do i do? i considered redacting copy, but then you can’t really make sense of anything. 
+recruiters and hiring managers want to see a portfolio, but i’m putting myself at risk by showing the work.
+
+do i need to include the original design in a redesign case study?
+is it important?
+
+a lot of stressfull posts lately.
+i've been noticing a bit of a trend lately: a lot of self-promotional posts that, let's face it, aren't exactly *subtle*. while it's understandable that everyone wants to share their work, it's also important to be mindful of the community.
+but you know what? i think we can spin this into something positive. instead of getting annoyed by the self-promotion, let's use it as an opportunity to discover some hidden gems!
+let's start a thread where we can share our favorite *genuine* talent posts. whether it's a hilarious meme, a stunning piece of art, or a mind-blowing piece of code, let's celebrate the real talent out there.
+[https://tertiusroach.github.io/log-a-ticket\_6.00/dist/index.html](https://tertiusroach.github.io/log-a-ticket_6.00/dist/index.html)
+[https://tertiusroach.github.io/university-tracker\_2.00/dist/index.html](https://tertiusroach.github.io/university-tracker_2.00/dist/index.html)
+
+how do you collaborate and persuade engineers who think they know how to design better than you?
+coming at this not from the angle of "i'm the designer here so you have to listen to what i say for designs", but rather, a few of the engineers i work with genuinely think that the designs i generate aren't as "good" as their visions.
+there's a sense i get that they don't trust me to carry out their vision? i'm totally cool (and happy) to collaborate by getting their input and pairing over zoom, but it's really difficult when i'm feeling like they're fully disregarding what my day-to-day looks like as a consequence of these design decisions. 
+it's especially frustrating when a lot of our design issues (that the engineers also complain about) stems from their lack of foresight into design, which, i think is completely fair.
+i wouldn't be able to tell an engineer how to sustainably implement a sort function, and conversely, i don't expect these overworked fullstack engineers to know our design logic for adding new columns in tables or stacking info in table cells. don't get me started on the engineer who was adamant that we shouldn't have color in the dashboard at all because anything with color should have a visual glyph for color blindness... 
+anyways, looking for some insight here. how have you all navigated this? how can i change my thinking or approach? thanks!
+
+deciding dashboard navigation patterns??
+my team is designing a research platform that will let companies pay a fee to browse health data to understand if it’s worth to purchase access to the full dataset. say for instance, a team wants to see if there a certain amount of people that have a condition like lupus that would be able to be connected with for health research.
+it will be primarily used on desktop. it’s still early in the process on defining the interaction model, but how do you go about deciding what’s the most effective patterns to use for platforms like this?
+the main user goals will be to:
+- align on what opportunity you’re trying to focus on 
+- tell the system what you’re wanting to know through filtering
+- run a query to see if the size of data is actually feasible enough for next steps
+- upgrade access and/or contact us if they want to move forward
+
+should floating action buttons have the "close" and "open" button in the same place? whenever i click to open a popup box (2nd photo green arrow), i instinctively try to look for the "close" button at the top and always forget it is in the same location as the "open" button.
+https://www.reddit.com/gallery/1f8gb52
+
+designers experienced in agile/iterative processes...
+when you need to make small changes to an existing page in figma, how do you go about it? do you find yourself starting from scratch, taking screenshots, or doing extra work to integrate your changes? how much of your time is spent on these types of small iterations?
+
+how literal do you make designs?
+i’ve been freelancing with a start up on the side for about a year now. it originally started as a portfolio booster, but now i’m just helping them. the ceo is very young, and majorly micro manages. it feels like he just sits on figma all day staring at my designs picking out every little detail. 
+the newest one: the app is a meditation app. the audio players for meditation originally had the right side time on an audio bar stay stagnant (this is how youtube, calm, and headspace have theirs) if the class is 10 minutes, the time on the right stays at 10 while the time on the left counts up from 0 as the class plays. 
+recently the ceo decided he wants the time on the left to countdown to show how much time is left. this is seen in music players such as spotify, and meditation app 10% happier. i made the argument that this really isn’t necessary, the app is brand new and has a lot of bugs to fix that the developers should be focusing on instead, but he was adamant. and in this, wanted me to go through the figma file on all the audio player screens (there’s many) and change that left side time (where i had a mock in place of 15 min ) to show that it’s counting down (change them to 12:58 or something)
+this similar situation happens often. 
+my question is: is this necessary in design? it’s wasting my time, i only give them about 10 hours of work a month, and seems so mundane and silly when this could easily be a note for developers. how literal do designs need to be?
+
+is this a good or a bad user experience?
+recently, there's been an increase in these interim screens when you try to visit any link. i understand this might be needed for security reasons, but is this an ideal user experience for the users?
+https://preview.redd.it/iv5bmfzqkkmd1.png?width=3456&format=png&auto=webp&s=3cd9ecd3f2d6c901d2a9c73bc1ab19e200b22065
+
+picking a mobile app library
+i am currently trying to figure out a mobile app library i could use to design a native mobile app.  currently, the company uses material design for a web-based app, but the focus right now is to create a native mobile app. 
+they would like me to research a few options and figure out what would be best to use. where can i start here? i would hope to use a library that i could pick up a library for in figma.
+
+using the phone camera for medical purposes to view hard to view places on my body, made me wonder if there is any good reason for the delete icon to be placed right next to the share icon.
+i can't think of a reason it should be so close.
+
+is the save button outdated?
+in the early days of the internet, the only way to make dynamic changes to a page was to submit the page to the server, then reload the entire page with a response. every action required a "save" button. 
+now it's possible to dynamically save every change whenever you want. 
+so should we still be designing interfaces where users can make multiple changes and edits across multiple settings, fields, inputs, dropdowns, etc, and none of them take effect until a save button is clicked? 
+are there still situations where a save button is necessary?
+pros:  
+\* changes happen instantly  
+\* user can't exit the page prematurely and lose work  
+\* no need to have additional ui for saving/cancelling
+cons:  
+\* user might forget to click "save" and lose work  
+\* user may not know that a change does not immediately take effect unless the ui makes that clear. building a ui that makes it clear can be difficult and restrictive.
+
+is the sample inside the circle enough to tell the user the selected color??
+https://i.redd.it/atcg720hwdmd1.png
+
+designing a rules/settings page that is mostly excluding users?
+i want to design a settings page that will be mostly **excluding** certain rules. for example the end result would be:
+total value : less than 5,000  
+time: 3pm to 8pm  
+countries: all except united states, canada, china  
+user: all user roles except marketing team, accounting team
+i'm just a bit stumped as to how to design this as a selectable for a user to configure this. this will be for internal company use. this will be a script that will run for every user at our system at x time , who has done y records, except people from certain countries/user roles.
+
+reddit’s experimentation
+is it me or is reddit adding pretty annoying experiences lately? 
+first it started with the notifications not disappearing after you’d viewed them, only after restarting the app. 
+then i got this annoying ‘you’re one a roll - 3 day streak’ which confronted me with my unhealthy reddit behavior and made me delete the app (and of course reinstalling it too soon again).
+and then the last few days they seem to randomly show comments instead of the most popular ones. i don’t care about recent comments, or random ones, i want the popular ones with additional info, good jokes.
+edit: i just had a revelation about the comments order, it’s probably to increase scrolling through the comments so that .. drumroll.. users see more embedded ads. business metrics over ux. welcome to 2024.
+i know ultimately i won’t leave since i’m a hostage to this platform, but just don’t make my addiction more painful than it already is.
+
+are this page controls intuitive? if not, how could i improve them keeping a similar style?
+https://i.redd.it/3y6rybcso6md1.png
+
+does having the navigation closer to the prompts obstruct the view when creating tasks?
+this page lets users create their plans by first selecting an objective, then choosing the related kras, and finally creating plans in three categories.
+with 3-4 objectives and each having 4-5 kras, users often need to create multiple plans quickly. 
+to streamline this, i've added navigation directly here instead of making users go back and forth.
+i'm wondering if the navigation in (1) feels intrusive or if it would be better positioned on the left side (2)
+
+is this the best portfolio you've ever seen?
+some people on linkedin think so.  i'm not a fan.
+https://gilverse.design/
+
+what course was a game changer for you?
+as the title says, what course have you done that you felt like after it you would be much better in ux/ui? 
+the must have for anyone working in this field and that you were glad you have done.
+
+how am i supposed to get experience when it seems like no one wants to hire me?
+like wtf do i do?
+
+having design issues for a client's website. need advice
+i'm a newbie and to gain experience i'm currently working on a family friend's website for free.
+to sum it up, she sells south asian jewelry/fashion/flowers/etc, she gets her stuff from the vendors she knows and sells them to people.
+for example, she'll get some photos of new items from her vendors and picks out what she likes, she'll get it and sell it to people. or she will find photos online of items that are her aesthetic and she will be able to get it made through her vendors. 
+the problem i'm having is that i have no idea how to format the website with a method like this. it's not like a traditional e-commerce website that i'm used to.
+does anyone have any advice on layouts or have some references/similar websites i can look to for inspiration?
+
+i need to ask… what on earth made ig feel the selection buttons being crooked was a better ux
+it takes me so much longer to find “captions” and i’m frustrated every time.
+
+horizontal slider vs. dropdown?
+hey uxers!
+i'm working on some mobile mocks for an order history page, and i'm brought to a standstill between whether using a horizontal slider vs. dropdown for filtering/navigation within the page is the best practice. there are currently 4 selections, but there is a chance for more to be added in the future.
+what is the best practice here and why?
+i'd appreciate input from anyone as i'm a relatively new uxer (just over 1.5 years total. 3 months bootcamp/\~9 months freelance/\~7 months full-time corporate) and would like to gain any knowledge i can on best practices for future projects!
+thanks!
+https://preview.redd.it/zn5yb0t4qtld1.png?width=1734&format=png&auto=webp&s=0c11fda86ae1a4bb37e20136e22a872324f37ee3
+
+palantir product design hackerrank
+has anyone done this design challenge before? what is it like? how many screens or flows do i need to draw? it says no figma only hand draw lo-fi prototype. any tips on getting a better result? thank you!
+
+websites with animate-on-show boxes usually only animate once on the way down, why?
+websites with animate-on-show boxes usually only animate once on the way down. when you scroll back up and down again, they don't animate again. is this a good?
+when i see websites with animations, i enjoy looking at them and want to replay them by scrolling up and down again, but then i can't.
+
+i can't wireframe and visualize my designs at once
+hey guys, so i am a 3d generalist and motion designer currently exploring ux design. i have tried to follow tutorials and guides online to make websites and user friendly experiences but at this current stage i am stuck on the basic part of wireframing. i don't know why such a easy task is so daunting to me but making boxes and simple components without being able to see their final design/look feels a bit off to me and i try to avoid this stage as much as possible and jump straight into design. i know this is not the right way but has anyone experienced here felt the same way when they started way back. how do you visualize the final good design and then try to build it with simple, bland shapes at the start of the process.
+
+how to talk about weak visual skills in interviews
+recently laid off from a big tech company where we had established design systems and visual designers to help with final ui touches. i have almost 6 years of work experience and strong in my research and ux skills. 
+i am interviewing for some small size companies which have only 3-4 designers. one of the interview questions i keep getting is where do i fall on the spectrum of skillsets ranging from research to visual. i don’t want to lie about my visual skills but how can i share it as a growth opportunity but also indicate i definitely need help in this space. any tips?
+
+making accessible complex components
+are there ada limitations to how complex a component such as a dropdown or flyout can be? 
+i'm a ux/ui designer, and our company just got a new ada coach who made the claim that any dropdown menus can't have interactive elements in the lists other than checkboxes. think 'editing' or 'favoriting' a list item. we currently try to conform to wcag 2.1 aa. is there an accessible way to have interactive elements other than just checkboxes in a dropdown/flyout list?
+they also made the claim that anything beyond select-only, multi-select, and comboboxes, is in violation of the above standards. when i asked why, they didn't seem to have a technical or concrete answer for this. if it's not obvious, this notion belies lots of notable applications that have complex menus of varying kinds, such as air bnb's search bar flyouts, or microsoft team's search bar flyout, where multiple interactive elements are embedded in these components. 
+i've scoured the internet for a11y or wcag or aria information on this giving them the benefit of the doubt, but i've found nothing that implies accessibility limitations on creating complex components. from what i understand, based on experience with previous ada coaches, is that you can make just about anything accessible with proper labels, keyboard navigability, focus states, aria text, avoiding hidden hover-discoverable buttons, etc. i genuinely value web/app accessibility, but these coaches claims seem really obtuse. i know higher level hierarchy navigation is supposed to be consistent across the site/app, but what about things like dropdown menus? can you have several dropdown menus that subtle differences such as sorts, filter chips, tabs, or nested navigation?
+
+would you expect more of a graphic design-like portfolio for a visual designer?
+this can be very subjective i guess, but if you are looking for someone who has a stronger visual background for your ui, do you think you are expecting designers who are listed on links like [**this?**](https://medium.com/usabilitygeek/7-brilliant-portfolios-from-visual-designers-c943742e8c15)
+and designers like these?
+[https://www.itsjosie.com/](https://www.itsjosie.com/)
+[https://www.flo-design.eu/](https://www.flo-design.eu/)
+[https://www.sirirosa.co/](https://www.sirirosa.co/)
+[https://www.ericholton.com/](https://www.ericholton.com/)  
+[](https://www.sirirosa.co/)
+what do you think? what speaks a ui/ux designer that have strong visual background?
+
+opinions on maintaining production files?
+i’m looking to understand the value of maintaining production figma files for large products. is this practice still common in most design orgs or is it becoming less common? personally i feel it’s a waste of time and a sisyphean task, our time as designers could be better spent elsewhere, and the actual production environment should be/is the source of truth. but my org feels otherwise, and i’m trying to understand and learn more before i try to challenge or change internal practice.
+
+what would be the best way to do this?
+so this is a back office web product for a construction company
+within a section the user can add as many products as they want (ex. windows, stairs, doors). when they click to add a product, we have a dropdown list of products that when the user selects one of them there is a text field of the name of the product automatically filled and some subproducts associated with it and the number of each subproduct. this is automatically shown when the user selects one of the products as they are prefixed. 
+*example*
+list: window 2m x 3m
+name: window ab
+subproduct associated:
+1. screws type a  x 10
+2. screws type b x 25
+now within the product list selection the user can choose another category named special product in which he has to manually add the name and the subproducts. the subproducts can be more than one and he has to manually add each subproduct and the number of each subproduct.
+now i am dividing on to how structure the ui of this as the section can have multiple products at once. 
+what would be your approach on this? 
+edit: this is for a construction company and the user is the constructor. the products are the items used in the construction and the constructor needs to be able to add all products and the items needed for each project in orser to make the pricing and costing processes.
+
+why should we design in a separate environment than the actual product?
+hi ux/ui designers. i am wondering why designing in a separate tool has been a step forward for us? if we are working on a live website and we are in an iterative design process, why shouldn't we just login and do the tweak on the page or flow in the actual context of a product and move on? what's the point of moving between two separate environment? i know there are plugins that bring an editable version of a live page to design tools, but that's also an import export process and the base will be a static imported version of a page rather than a real live and true environment. thoughts?
+
+multiple selection for over 5k options?
+hi, there’s this one issue on which i constantly receive feedback. it’s about the filtering function in our product which has 3 dropdown inputs stacked on one another in a modal.
+first two are the main and sub category filtering and are optional. each has about 500 options in the list and allow multiple selection.
+only the last one is mandatory and it is the final options selection that has over 5k options in the list and of course also multi selection.
+sure, you can type in what you want to search in the input but i am not sure if using dropdowns with checkboxes for so many options was the best decision at all.
+and the users want to see all the options they chose and to delete/unselect them and it’s just too much information in one modal.
+has anyone dealt with a problem like this? i’ve been researching all week long but am honestly lost.
+
+what are the worst ux issues you see on the web today?
+my number one is slow waiting times. after using offline-first applications like linear, i think i have become totally intolerant to applications that make me wait for every ui action made.  
+here's [my todo app](https://sluggish-todo-trek.gptengineer.run/) that should make you feel something, in terms of slow ui. also here's my attempt to create the [worst possible todo app](https://annoying-todo-tornado.gptengineer.run/)
+in all seriousness though, i'm curious what the most common mistakes, that maybe the teams without a dedicated designer would mess up on.
+
+thoughts about this color picker i made with react? any suggestion?
+https://i.redd.it/22fe7wuazdld1.png
+
+crossover excessive work/testing/assessments
+this seems excessive and insane to me. crossover is requiring 4.5 hours of work before ever talking to a human, if you even qualify to talk to a human.
+tests/assessments below  
+ai-enhanced ux design:
+the task involves creating a high-fidelity prototype for a quiz app designed to engage high-school students by incorporating social media patterns, with an emphasis on utilizing generative ai tools to enhance the design process.
+note: this assessment is custom to this role. you have to take it in order to complete your application, but note that once you submit it, it will not show up as a badge on your profile.
+required
+assessment time: 3 hours
+ai-driven design review:
+in this assignment, your task is to take a screen ux/ui design with known quality issues (link) and produce guidance for an llm that will yield better design review feedback.
+note: this assessment is custom to this role. you have to take it in order to complete your application, but note that once you submit it, it will not show up as a badge on your profile.
+required
+assessment time: 1 hour 30 minutes
+thoughts, etc.?
+
+too many cols
+say you are working on a table with too many horizontal columns on a b2b saas. what are some solutions to this? what are some user centric ways that you could make it easier so there are less columns horizontally? 
+thanks in advance for the help.
+
+what is the most complicated user interface you have worked on?
+i am currently working on an interface in civic tech that i think is really complex because of how much data there is but i also came across projects like https://designawards.core77.com/visual-communication/105263/a-design-system-to-help-save-lives
+which are insanely hard to even think about so i am curious
+
+rate my impromptu
+https://www.reddit.com/gallery/1f2by5k
+
+any good examples of line items creation? ideally b2b saas
+long shot i know, but figured worth asking here. i'm not even sure where to start looking as it's not an easy search.
+
+need inspiration for swipe/long-hold for additional options
+my project requires users to select specific choices but i need to account for edge cases where a user might select a choice with a caveat. 
+im looking at the iphone swipe left to delete/archive feature as a base inspiration but want to crowdsource others ways of swipe. especially when it involves multiple steps beyond clicking 'delete'
+also considering long hold instead of swipe so any feedback/ideas wouuld be greatly appreciated 🙏
+
+i'm creating an application with react. this is a generic page of the settings view. could you rate the spacing between elements? in addition, should i add/reduce the spacing between sections (indicated in blue)?
+https://i.redd.it/ghts2o3kr1ld1.png
+
+working on a cms, need help with component nomenclature.
+https://preview.redd.it/7wuqv3td91ld1.png?width=967&format=png&auto=webp&s=d86e4c28f5e39b8830823ffb631a22dff4eae045
+these are only 3 of 10 components that are similar but different in size and layout. the idea is that there will be many more if the client wants it. i need to come up with a family name for these types of components (image, title, subtitle) and then be able to differentiate them by their own size/type/style. 
+does anybody have a good name? is there something that is pretty industry standard? i would rather not have numbers that denote dimensions on there.
+
+how many design systems are necessary?
+hi! i wanted to know if anyone has experience working with the same native app on both android and ios?  i'm currently working on a native android application, and we use material design v3. however, due to market requirements, we need to enter the ios market. the decision was made to develop two separate native apps (not using flutter) for each operating system. i'm unsure, how to approach this and whether it's necessary to create a design system for material design and another for human interface guidelines (hig) or if the two can coexist in one design system?
+
+can't think of a good word for a "section template" 😂
+i feel dumb that i can't think of the word i want to use in my case study –
+let's say i have a series of templated pages. they have separate modular templates within the page for each topic. each of the modular templates were made into a kind of "macro-sized component". each of these components have regular components in them (like dropdowns and whatever). is there a good name for this "macro-sized component"?
+
+seeking advice on what to tell a ui designer
+hey everyone!
+i have a general question on what to give a ux/ui designer to begin his work.
+my friend (ui designer) and i are starting a project, but i am somewhat struggling with what to tell him. we can't be in the same place, so basically, we are talking over texts and meetings; i am asking if there's a general template that is usually given to a ui designer so he can work freely and minimise the back-and-forth conversations.
+
+how to make this less cluttery and add deletion ui
+this is a design for a data analytics platform, i am kind of stuck on finding solutions on how to make this less cluttery, the filters group is to have an delete button but idk where to put this without slapping the user in the face with one more button. 
+https://preview.redd.it/sw4qvbs0sxkd1.png?width=1740&format=png&auto=webp&s=f9829f49c681ad10919779cfa8d53488b63b43e8
+
+suggestions for where to put ui for removing mappings/rows without making it cluttered? adding icons to the sides also takes up space on smaller screens.
+https://i.redd.it/7cmcyqcurwkd1.png
+
+rnib / ada standards for keyboards (public use)
+i'm creating few **keyboards for kiosks and pinpads to be used by public**. i have to make sure that they adhere to **rnib, ada and accessibility standards**. i'm keeping the contrast levels 5:1 or better. text sizes are more than 50px and easily readable. any other things to consider? links to any reading material, or insights are welcome :)
+
+how do you get feedback on your designs?
+hey designers!
+how do you get feedback on your designs?   
+like, i want to get some on my designs before showing it to the client.
+
+which typography system for landing pages? semantic?
+hey, i'm a conversion copywriter for startups.
+i recently launched a figma pack that helps copywriters to build lofi landing page mockups - based on proven conversion principles.
+version 1.0 uses headings based on h1, h2, h3 etc.
+i'm aware that these are seo conventions.
+i myself break these conventions - because it's not a given that font size should always correlate with the seo importance of a keyword.
+for example, i might set a kicker (the text above a headline) to h1 in order to prioritise those keywords.
+would you recommend that i switch to a semantic typographic system?
+i don't want to confuse copywriters who are fairly new to design.
+if so, what kind of semantic typographic system would you recommend?
+thanks
+
+how should i approach this? detailed question in body text.
+\*\*don't mind the ui inconsistency\*\*  
+so, i made this table for a module to be used in an ivf lab. this table is for the second phase of testing of samples. when they start this test, some columns could be previously having data or not depending on earlier test results.
+https://preview.redd.it/tdtkmi01slkd1.png?width=5826&format=png&auto=webp&s=8d11f2949a484cc903035d3a20c7afce8aa74e26
+in this phase, the user will enter/ edit the data for all the samples (already given functionality to edit multiple samples at once). 
+after everything is complete, the user will save it and then system will take it to another screen. that screen currently only displays the last entered data in phase two, having tabs for each sample at top. user has to switch tabs to view details of each sample one-by-one.
+so, my concern is that i have to redo that screen where the user can compare the results of all samples and in both the phases in a single view. complexity of the table/ structure don't matter, main point is to remove the number of clicks of the tabs and display everything in a single screen while providing comparison for both the samples, and the two phases.
+can't think of a good way to achieve this so asking.
+
+system design : how much is enough
+as title says , how much knowledge about system design system is enough to maintain and create it?
+i have been working solo for 3 years in startup and worked on more than 15+ iot saas projects where i used mui or custom made component to design everything but never made design system because worked in startup and never had free time as i was handling 3 projects in parallel all the time.
+but now i have joined mnc and got assigned to existing project where they have system design in place.
+i know how to use existing components but my lead was talking about tokens/surface colors etc while giving me overview and i realised that there are things i never did.
+so what will be your suggestion?
+
+designing for tired and unfocused humans: the frustrations of being decisive before bed.
+i tried to mark an episode as played, but my eyes were drawn to "unfollow," and with one quick tap, i accidentally unfollowed the podcast. the app then sent me back to the playlist screen, which made the whole experience feel more jarring than it needed to be.
+instead of a quick undo, i had to go back into the menu and choose the correct action to re-follow the podcast. all i wanted to do was mark the episode as played, but the options were really close together. when i’m tired, i sometimes even hit "mark as unplayed" instead of "play episode" because the icons look similar when my eyes aren’t focused. i have mild astigmatism, which causes slight blurring of vision, especially when i’m tired. this makes it even easier to mistake one action for another. 
+every action i take in the app sends me to a different screen with no quick way to return to the previous menu, which makes the experience even more cumbersome.
+i’m not here to offer a solution, just sharing my experience. if you’ve read this far, i hope the next time you design an actions menu, you’ll think of me. 
+small design choices can make a big difference, especially when someone is just trying to unwind.
+happy weekend, everyone!
+
+what is this called?
+what do you call these contact inquiry modals that let users navigate step by step rather than showing them an entire form with multiple fields? is there a specific vocab for it? thank you! 
+https://preview.redd.it/4phdgrbwehkd1.png?width=1672&format=png&auto=webp&s=380cd18c05c5c061bd00ed69dc87a5b90d2eae7a
+
+question about design decisions…
+two of my biggest pet peeves (for both apps and websites) are when pinch-to-zoom and text selection are disabled. just curious why would you ever disable these features? is this something a ux designer decides or does it come from another decision-maker?
+
+redesigned my files
+i'm a senior designer and asked another senior designer for feedback on a design. they chose to completely redesign my file since they didn't like what i had done (not saving what i originally had.) 
+i'm annoyed, i feel that was completely overstepping "feedback".  
+looking for advice on how to confront and talk about this so it doesn't happen again.
+
+google maps interstate markers 🤔🫠
+imagine you’re the designer on google maps who added these interstate markers on the map…defend your design decision, go!
+
+what role makes marketing videos with all the animations?
+videos that show the ui animations of key features with music, backgrounds, etc. like microsoft copilots launch videos.
+
+are you using figma variables
+if so, how are you benefitting from them? i was thinking about heading a variables skill share for my team but i've really only had to use variables in a small handful of cases. i'm starting to question if it would even be useful for them to know.
+
+organizing design file of the large project
+hello my fellow designers, 
+there is a chance for me to get on new saas project, which i will work alone on it, and from the first details i got it probably would be a bit bigger one. 
+i have worked on before on saas projects, but they were not large as would this one would be. on those projects i was the one creating design system, but for this new project i would like to use a design kit if possible. now for the past two years i am mostly working on e-commerce projects. 
+my question is, how do you organize screens on large projects? 
+before, when i was working on saas projects it was mostly like one design file, and inside i would create multiple pages. each page would be for each let's say page in the navigation bar. 
+but then for other project i would create two or three design projects, first where i just use design file to work on it, and second design file where is the final design and ready for developers to work on them. 
+now i would like to hear what's your approach to this, and also, do you have any good ui kits to recommend which i could take a look at it? mainly i am looking for ui kit with good dashboard, data visualisation and user management components. 
+thanks in advance.
+
+the importance of layout design
+just watched this short video on instagram reels that highlights the power of good layout design. such a great reminder of how much a well-structured layout can transform content 🤩
+credit: hidesign689/design ab
+
+i am designing a loan processing application system for financial institution where a loan manager can upload documents required for the process the documents on behalf of borrower. i have questions regarding user journey of this feature. (👇 more information and questions in the first comment)
+https://v.redd.it/3bnp3kgwwnjd1
+
+what questions would you ask a recruiter during the phone interview?
+interviewing today. would appreciate what you, as a designer, honestly wanted to know before moving through the different interview stages.
+
+thoughts on a short hero image?
+traditionally heros occupy the full screen and are the first thing you see. there's often relevant hd image/video and complementary ctas. 
+currently i'm being asked to design what i can only describe as a hero banner, of sorts. 
+so rather than a traditional hero described above we'll end up with a quarter of the page taken up by the hero and then a sort of text-heavy infographic sectiondirectly beneath it.   
+my first (and main) argument is that this will be visually jarring on first load. 
+the meaningful content and ctas are going to be squashed at the top of the page and the primary focus is going to be on the infographics below (which will be partially off-screen). 
+does anyone have any suggestions for this? or maybe some example of short hero images?
+(nb - before anyone suggests pushing back i already have and the stakeholders want this layout)
+
+number of login cta buttons on one page
+hi team,  
+i am working for a government department and specifically looking at the login page for their customers.
+they have a wide range of customers who all login to different portals or accounts. currently, they have one login page with nine cards and corresponding call to action buttons. is this too many?  
+i always thought one primary cta per page and maybe two secondary if needed.
+here is the page: [https://www2.nzqa.govt.nz/login/](https://www2.nzqa.govt.nz/login/)
+what do people think?
+
+unpaid internship asking for id?
+i got accepted to some unpaid internship and it asked for my passport, driver’s license, address and transcript/diploma. isn’t this all illegal because why would they ask for this if they’re not paying me?
+
+what did you find help you improve your visual design skills?
+i (4 years of experience) work with another sr designer (11 years of experience) and whenever him and i compare designs his always puts mine to shame and makes me think, wow why didnt i think of doing that? my designs tend to come across as simpler and more minimalistic while his has more pizzaz, liveliness and just overall better presentation of information. 
+and so i want to improve and get to his level of creativity instead of having him hand hold me telling me what i should do. for those of you with good visual design skills, how did you get to where you are today?
+
+how to best space columns in a table?
+i'm working on a table that has 5 columns, and i’ve added some dummy data as an example. i’m trying to figure out the best way to space the columns. here are the options i’m considering:
+1. **even spacing**: each column gets the same amount of space, regardless of the content. (screenshot)
+2. **content-hugging**: each column adjusts to fit its largest string of content, with a max-width applied.
+3. **percentage-based**: each column gets a percentage of the total space. the percentage depends on the expected content length (e.g., column 1 = 10%, column 2 = 20% etc.).
+is there a best practice for this? what do you recommend?
+https://preview.redd.it/kbqkozw361jd1.png?width=1048&format=png&auto=webp&s=1e64d8511a977bd3e64737685d866b2e578358f3
+
+complex verification onboarding
+hi!
+i'm working on some onboarding processes explaining my company's unique kyc, aml, bank transfer process. 
+can anyone recommend some sites that visualize or animate verification steps well and very clearly?
+thanks!
+
+pre/post authenticated experience
+hey all, i’m tasked with creating an experience for pre and post authentication for users of an app. 
+pre authenticated is mainly marketing focused. resources, blogs, services, etc. post authenticated is meant to drive user engagement via dashboard. 
+what works for pre authenticated is a traditional top bar navigation, while post authenticated users would be more benefitted by a vertical sidebar navigation. 
+the issue i am running into is that we do offer links back to our “marketing” site in the dashboard so there’s a very high chance of logged in users bouncing back and forth between our marketing website and our dashboard. 
+has anyone else ran into this in the past that can offer advice, “gotcha’s”, or ways to alleviate that friction? many thanks!
+
+recruiter asked for 10 years of experience in figma.
+why ?
+
+what is the equivalent of hover on mobile?
+i am genuinely curious.
+
+do you have any tips on considering screen temperature / brightness / night shift while designing?
+white screens tend to look warmer / more yellow with night shift on and more blue without it. also macs and iphones have true tone which changes the screen color depending on ambient lighting. do you consider these factors while designing? thank you
+i feel like i could've done a better job explaining why i'm asking. when designing i usually turn off true tone and night shift so i can see more "accurately" what the colors are. but what if my users have those or similar features on? what will they see? i searched online for data about the percentage of users on different platforms using color shifting features but got no data - only garbage seo blog articles of course. so i figured i'd ask the professional community on reddit if you have any knowledge or experience in this area. i just want to have a better idea of what my users are seeing. thank you! :)
+
+seeking font help!
+i built a site ([https://sprout-games.pro/](https://sprout-games.pro/))  using [seymour](https://fonts.google.com/specimen/seymour+one) as a my primary font. i liked the handwritten-ish vibe it gives. i then just kinda threw roboto on the supporting font for every other text that's not a header of some sort. i'm looking for some other font to potentially replace the roboto. is there some good theory behind how to pair fonts? i'm not a designer, so i'm wondering how horrific this looks to you folks.
+flame me or help me. all comments are welcome.
+
+abstract ideas. what am i missing ?
+we’re working on a design for some medical/ health field website i posted template. i feel like we’re missing the punch.
+the whole thing seems too white and plain. any ideas of abstract lines, shapes, something  that will make the site pop and easy to read instead of pure white / light gray ? 
+a little touch without overdoing it.
+thank you all.
+
+designing for all possibilities or only for the one of the use cases?
+hi all,
+what do you think:
+design a component taking into consideration all possible scenarios?
+or mainly (only?) focusing on the scenarios your use cases have?
+the context will be a component for a design system.
+thoughts?
+
+what would you recommend to a beginner
+i'm starting in the ux world, and i want to know some useful tips for beginners like me, courses, tools, etcetera. (sorry for my poor english)
+
+design help
+i hope this is ok with the mods. please delete if i’m breaking rules.
+i’m a full stack developer working on a business development crm.
+i have a database of companies, their decision makers and their job listings.
+i’m working on a ui where users can search jobs using keywords then i show a table listing of decision makers.
+i’m having a hard time refining this ui in a way that gives the user a clear view of the results: 
+example: as a user, i search for python jobs then i want to see the decision makers (name, title, company name) but i also want to see the jobs matching my search query. 
+[here ](https://imgur.com/a/lx6slh2)is what i have so far.
+i initially used a tabbed view to show the three data points (companies, leads, jobs) but realized that it's not intuitive.
+appreciate the help!
+
+new instagram ‘mute feature’
+instagram is recently a/b testing where you can no longer mute reels by tapping on them. thats still fine - 
+to make things worse..there no on screen button or a way remotely possible to mute or unmute a reel while its open.
+because of this, if i’m search or the for you page, and i have to unmute something, i have to go to my home tab find a stupid post with sound and then do it and come back to where i was?
+who in the right might thought it was a remotely good idea to do so?
+
+confusion on sign up page
+hey everyone, i have designed a client sign-up page for my company that page is a subdomain on the main website. the page is a sign-up page for our client to access our dashboard to manage their ongoing projects. we have a crowd-sourcing app - that connects freelancers/ service providers to clients requesting for services on our website. the page requires clients to fill in fields like - name, company name, **work email id** and mobile number. we have put a validation on the email id field to reject submissions with personal email ids (gmail, yahoo, hotmail etc). now the problem is that service providers end up coming on this sign up page somehow through google search and before realizing that this page is not for them but for our clients they start filling in the form fields. since most of these service providers don't have work/official email ids, they cannot submit. they get frustrated and send emails to support saying we didn't provide them company email id hence they aren't able to sign up etc.
+what are the different ways i can tackle this issue? how can i effectively educate them that this page is not for them?
+
+any good ux or interaction design competiotions ?
+particular in the oceania region, but open to world wide
+
+how about outsourcing just the app store screenshots?
+i’m creating a multi-screen video player app with three main screens, as shown below.
+https://preview.redd.it/cg1od2a06yhd1.png?width=1890&format=png&auto=webp&s=e9f1fc1e029cf81e5e18da59ce5fe8546fb93ffb
+the current app store screenshots are as follows:
+https://preview.redd.it/h6e0a9275yhd1.png?width=1236&format=png&auto=webp&s=e8f1ddcdd77680fec52bdbaf2bbc418d5da0849f
+https://preview.redd.it/3hzyurwc5yhd1.png?width=1240&format=png&auto=webp&s=e8e37b183ae6be304bf84f221e43c03f8b89f971
+it would be ideal to outsource both the app screens and app store screenshots, but i currently don’t have the budget for that. (also, even if i outsourced the app screens, i’m not sure i’d get truly outstanding design.)
+in my previous experiences, i've offered a low budget so i’ve found that designers often just slightly modify the sample screens i provided, changing only colors and button sizes. while this is better than what i did myself.(i know it's my fault)
+&gt;i want the app store screenshots to be designed by a top-notch designer who understands my app’s concept and creates designs that make users think, "this app looks good, maybe i’ll download it."
+**is it possible to outsource just the app store screenshots without the entire app design?**
+additionally, i need to outsource a video that introduces or shows the app in use. it would be better to **complete the app store screenshots with the designer before outsourcing the video**, right?
+
+button in single component vs multiple components
+https://www.reddit.com/gallery/1ep5jxk
+
+complex color system, how many colors actually matter?
+do we actually need to use plenty of colors within the system? in real world how many colors really matter. i just feel that most design system references provide this idealized system that looks complex but not really applicable in real world usage. especially when there are plenty of shades and tints.
+i feel that too many colors like this can make the design look muddy and not coherent.
+what's your thought on making the color system look complex? otherwise how do you simplify it?
+https://preview.redd.it/cqzkxexbxwhd1.png?width=432&format=png&auto=webp&s=1a7856f3ea23df1574c3429a5a3e0042ee91fd0b
+
+looking for ux/ui projects to collaborate on
+i’m the solo designer for a super small startup in canada. i’ve been working there for 3 years and i barely have any design projects to show for it and can’t say that my ux knowledge is the best being the only designer and somewhat self taught 😅
+i help the software devs with coding tasks because of how slow work has been. but i would like to be more involved in design projects and i’ve been applying like crazy for other ux jobs but haven’t had any call backs. are there any websites or platforms where i can find other designers and collaborate on real projects, so i can beef up my portfolio and maybe learn? thanks!
+
+need help in understanding usability
+this is a popup that appears from right side of the screen and functionality is to make selection to download report. i want to understand which of the two iteration is better in terms section element placement.
+
+need advice on the hero section
+i'm looking for some advice on the hero section of my website. my company specializes in making iron-forged street lamps, and i'm working on refining the main visual section that first grabs visitors' attention. the challenge i'm facing is that i only have photos of the lamps either with a transparent background or installed on posts in park settings.
+here's an example of what i've put together so far (please ignore the logo on the left—i'll be updating that). i'm aiming for a look that really captures the craftsmanship and elegance of these lamps, but i feel like something's missing, and i'm not sure how to tie it all together.
+if anyone has any suggestions, advice, or even some inspiration that could help enhance this section, i'd greatly appreciate it!
+here’s the link to the site so you can see the design system i’m working with: [luxiron](https://luxiron.si/home-2/)
+https://preview.redd.it/h1rjs5vqwihd1.png?width=1900&format=png&auto=webp&s=d1b336e00628a7eb3296bedbf595ded13eecac26
+
+oddly specific:  good examples of ios alert with a "don't show again" option?
+like the title says, i'm wrestling with a challenge where we allow a user to define a variety of variables but if a user sets one option above a certain level, it will automatically lower another option. (doesn't feel important to give a deeper explanation).
+anyways, eventually it will become understandable what happens but for the beginning user we want to make sure its obvious whats happening so i'm thinking of throwing an alert when they user attempts to set an option thats above a threshold that will affect other options.  eventually that alert will not be necessary so i want to give an option of suppressing the alert.
+i could go with the option to just give three text actions in a normal alert dialog (cancel, continue, continue and don't show this again) but i have to imagine there is a more elegant solution to consider.
+
+advice for an experienced front end dev / "dev-signer" transitioning into design roles?
+hi, uxdesign!   
+looking for experienced designers, especially "designers who can code" of any official role/title, who are open to me picking their brains for a bit.  
+i'm a front end developer/ui engineer/design engineer with 10+ professional yoe (and 20+ yoe if you count teaching myself to code and running my own website as a kid). i've worked as a designer in the past, have historically been the bridge between design and engineering in my previous few roles, and am curious about exploring design roles, or "designers who can code"-type roles.   
+after living in engineering-land for so long, and a two-year career sabbatical after a layoff, i'm a bit lost on what these types of roles are called these days, and where i might need to grow to fit into them.   
+is there anyone here who's made this transition successfully who wouldn't mind a coffee chat? (also open to chatting with design managers, hiring managers, or anyone else who works closely with designers.)
+i have pretty extensive experience implementing design systems (both in building the design system itself and also in implementing it in the actual web product) and i've noticed a lot of postings are looking for designers over developers these days, which is the main reason i'm asking.
+
+design system for app types like photoshop?
+hi guys, i wonder if any of you has a good tip for design systems, which are used for applications, like, for example, photoshop or affinity design, etc. i'm just trying to soo some good examples, but the majority of the dss are made for webapps, where you have dashboards, tables, etc.
+
+design system course
+hi folks, 
+working at a large company doing ux design and there’s an opportunity to create a library for my team. here’s the issue/rub…i’ve got a decent handle on components, v good with autolayout, etc but i’m not a “organized” designer. so..i did some research and found molly helmuths design systems boot camp course. my job won’t sponsor it but i figured i’d like to learn. but..is this course worth it? don’t want to spend 999$ for no reason! has anyone taken it? can i learn what she teaches via youtube? how do i know this course will be valuable? looking for tips or help please! 
+we have our own internal ds teams..maybe i can ask them for tips? work at a large tech company fyi
+
+well-designed volunteering websites
+i’m part of a volunteer tech group working on a site to facilitate vacant lot cleanup. we have an mvp which we are looking to expand and refine the design for, does anyone have a website for volunteering information/community resources/urbanism that they’re particularly fond of? looking for general site ui design inspiration!
+
+best practices/examples of 'shop brands' dropdown menu execution?
+helping a café owner pal update their website — they sell + general coffee tools, wares, etc. their main navigation is especially in need of a tidy, so i'm currently focusing on how to clean that up + make it less overwhelming for shoppers.
+one element i'm specifically struggling with is best practices for shopping by brands — right now they have a dropdown with 'shop by brands', then a second tier with alphabetical groups (see first 2 pics). they currently sell products from about 30 brands.
+wondering if anyone has advice as to best practices for adding many brands to a dropdown nav, or examples of websites that do this well? should they live in the main nav all? i've added a few other images of examples of this on other websites but not sure if any of these are ideal.
+thanks in advance :)
+(eta images)
+https://preview.redd.it/62o98ruxt9hd1.png?width=474&format=png&auto=webp&s=7e66eee12190fbbc25a171cfd40600ed7a0999f3
+https://preview.redd.it/f5bwrtvyt9hd1.png?width=456&format=png&auto=webp&s=f01f39ab02bed79b8dfb5b701623b12862261ce8
+https://preview.redd.it/d33pqzmzt9hd1.png?width=3024&format=png&auto=webp&s=c291f5bd6fe6f05cf08eb969ef3824f4108aaa38
+https://preview.redd.it/uyr7tu10u9hd1.png?width=3022&format=png&auto=webp&s=8c361076dd580fa979b4005408cb3f4e9f5aaaf7
+https://preview.redd.it/wqnt8li0u9hd1.png?width=1658&format=png&auto=webp&s=26058f46eefdb953f7d118d1495f25335367661e
+
+kamala harris's campaign website and store
+&gt;what do you think of the sites? i'll admit, i landed on [the store](https://store.kamalaharris.com/) first because i was looking for that [camo hat](https://store.kamalaharris.com/harris-walz-camo-hat/), lol. i love the store site - it's simple and i like the bold main website arrows in the main nav. [kamalaharris.com](http://kamalaharris.com) is a little crazy with call-to-action buttons but without the donation drop-down it wouldn't be as overwhelming. the upper subscribe button popped down after a bit, which seems smart. i really like the colors and images of her and walz. i hope they win! &lt;3 
+https://preview.redd.it/zjnlml5c09hd1.png?width=2340&format=png&auto=webp&s=d5f18c126207f29d635338c0106703b1b5fa4aeb
+https://preview.redd.it/gc87ss5c09hd1.png?width=2098&format=png&auto=webp&s=6d3380a307c52e85094cc7e91ae09906407e0eec
+https://preview.redd.it/pu14il5c09hd1.png?width=2116&format=png&auto=webp&s=702a6f77843ba813ad463f734076cd3649e5eb4d
+
+why google's search results are not centered in the page?
+https://i.redd.it/nekh8yktm8hd1.png
+
+what do those who transitioned from software developers to product designers think about their own ventures?
+hello friends. if you don't mind, i would like to ask you a question and get your opinion. i apologize if i shared it in the wrong place.
+i have been a technology entrepreneur with a focus on business for 15 years. i am 39 years old and a computer engineer. i have a coding background, i have startup experience and it doesn't take me long to learn something. let's say 2-3 months. i haven't been writing code for a long time, and frankly i don't like writing that much.
+now here's the problem.
+my design and creative side is also very good. my business model development side is also. i am really good at this side. i have worked on the design side of many startups and given direction. i am also very tired of coding. but this label has stuck to me. people evaluate me from the outside as a software developer. but inside i am in a storm.
+i find myself researching design deficiencies and different ideas on the ux side day and night and spending hours on behance.
+\*do you think i should outsource the coding side like steve jobs and focus on the direct design, business model and marketing of the apps? or should i sit down and do some coding?
+everyone complains about the design side. they talk about not being able to find a job. frankly, i am not looking for a job.
+i want to focus entirely on my own projects for the next 4-5 years. also, since i have a strong technical background, i can easily analyze which designs will work or not. in addition, on the business side, i can foresee how the customer will perceive that product and how it will be reacted in the market.
+what would you do in my situation?
+any answer would be greatly appreciated!
+
+do you think "dark mode" is a fad that will pass?
+i have a love/hate relationship with it, personally, but i am curious if others here think it's overdone as a design choice and maybe on its way out.
+here in the year 2024, is it really here to stay?  will we be looking back in 20 years on the "dark mode" trend like we do with early 2000s websites?
+to be clear, i'm talking about a user experience that has **dark** or **light**, not light and dark (a ui that allows you to toggle both).
+edit: yikes downvotes! i’m sorry!
+
+how do you guys handle reports like this?
+what's the best way to handle a view like this, where you need to keep the row width down but you end up with very large numbers? - and you need to display the full value.
+https://preview.redd.it/okda7d38w3hd1.png?width=346&format=png&auto=webp&s=279d04748a0cfb8dc6896eb958a28e4eef2268b6
+\*\*edit i believe when the values get to be a certain length i'll just stack them into three rows next to the name.  
+thanks!
+
+how much would you pay for a tool that helps you design and generates working prototype as well?
+im a 11 years experienced software engineer. i have a concept tool that can help to design wireframe, components, component variants, compose components.  
+while you do the design part, the tool can export or generate an interactive user interface out of the design automatically.   
+the tool is at concept stage and is really not usable due to missing documentation and user requirement as i built it as a challenge   
+i'd like to know what would be an ideal price for such tool, what features would you like it to have etc.. also i'm writing on pen pan paper as it is less distracting and will be selling the book, product altogether.
+
+specializing in design systems in 2024?
+apologies if this has been asked before, but i'm surprised it's not discussed more, given the mainstream adoption of design systems in almost every medium to large company at this point.
+long story short, i have always loved jigsaw puzzles and legos since i was a kid. working with a ds feels similar - like you're fitting the pieces together but also have to think strategically and how to scale effectively.
+i have some experience with design systems in previous projects (including building one from scratch), but i'm by no means an expert. i was wondering if it's a viable path for someone earlier in their career to start "specializing" in design systems (e.g. whether these roles exist for designers with &lt;5 yoe). i'm noticing a  pressure for everyone to specialize and niche down in some way, with the market being what it is, but more importantly i just have a genuine interest in design systems and feel it's an area i can provide value.
+for people who work in a dedicated ds team, what do you think? is there a way to break into this niche from the outside, or is it typically reserved for more senior-level folks who have spent time within a company?
+also, as a freelancer, i'm wondering if there's a viable market for startups or small businesses who have existing products designed, but are looking to scale and migrate to a componentized ds? would people hire a consultant for this?
+
+what's your biggest challenge in iterative design processes?
+would you share a top challenge you have experience when you worked in a design process where you had to constantly iterate existing products and flows?
+
+who ever designed and made the deso.com interface deserves a award
+this post is not to promote or anything, since im not familiar with any of the stuff they do. 
+but i stumbled on their website and immediately was like damn. this is the coolest website design experience i have ever had. felt like a movie.
+how was this made?! seriously i need to know lol
+( small note that i watched this on a 34 inch wide screen monitor so maybe thats why i liked it, the phone version is mwe )
+[deso](https://www.deso.com)
+
+full height hero sections and false floors
+what are some commonly accepted ways to avoid it other than having the content of the next section peak up above the fold?
+
+how to learn to do buttery smooth animations?
+i'm constantly in awe of apps that have smooth and polished animations/page transitions. 
+some examples:
+- wise's sleek page transitions
+- the way circa5000's [next screen comes in](https://youtu.be/8omjx_w43oc?si=uowvpszd5nyee05c&t=511) with a subtle delay applied to the contents
+- pinterest mobile's microanimation when you press to pin, or when you navigate through tabs
+- apple's fantastic guidance on [fluid interfaces](https://developer.apple.com/videos/play/wwdc2018/803/)
+designers who make this kind of magic: how do you do it (creative/thought process, tools), and how can i learn to do it too?
+
+ui ux master degree
+hello, wondering if there are any ui ux to take as master degree i have been looking around and the closest thing it's called human computer interaction. but sadly there are no university near me that offer that. in case if there any ux ui master degree please share, i also know that nng is big and it's better to take that but i'm not sure if i can take it i miss studying tbh.
+
+adobe stock images/video
+anybody had any experience buying stock video from adobe for the development of a web app? i don't have any issue paying $100-$200 once off but i'm concerned about license fees.
+
+problem with making responsive dashboard design using auto layout
+i’ve been working on this dashboard and i’m having trouble with the secondary side-navigation bar and the detail panel. when expanding the frame, the navigation bar expands first, followed by the detail panel. i need them to move simultaneously, but i’ve been stuck on this for the past three days. any advice would be greatly appreciated!    
+link to figma file: [`https://www.figma.com/design/ilgeyfpsvqhs4uu6slxf0d/dashboard?node-id=0-1&t=pycjxavjgmyt0ho8-1`](https://www.figma.com/design/ilgeyfpsvqhs4uu6slxf0d/dashboard?node-id=0-1&t=pycjxavjgmyt0ho8-1)
+
+design consideration to keep in mind while designing a shopify store
+hello fellow designers,
+i'm a fresher ui/ux designer about to start a project of designing an ecommerce store on shopify for a jewelry brand. while i have experience collaborating with js, python, and wordpress developers, this will be my first time working with shopify.
+our team will be using shopify's basic plan, so i'm reaching out to those who have experience designing shopify stores. could you please share any constraints or important considerations i should keep in mind? i want to ensure that my designs are feasible from the start and save time by avoiding potential issues.
+thank you so much in advance for your insights and guidance!
+
+platform specific ui or strictly adhere to my design system?
+i have a web application. it has its own ui design system.
+i am now trying to make a native ios mobile application.
+my initial thoughts was to emulate my design exactly on ios device. but ios has some nice ux capabilities and and after reading the apple's human interface design, i am having second thoughts.
+**choices:**
+1. no matter the platform, your ui design system should be consistent. (my business is center of the world).
+2. it is better to respect the platform you are developing for and create a variant of your design system that takes into both the style of the platform (hybrid approach: apple design + my design system).
+3. only respect platform specific features from a ux standpoint, but the ui should be consistent across all platforms
+4. make a specific ui design system that adheres exactly to the platform (platform is king, my ios app should look like it was made by apple).
+platforms that are more generic, like android idk.
+what are your thoughts?
+
+i'm updating my app's design.
+i'm a programmer and building an android video player app to watch multiple videos simultaneously. 
+i have been focusing on implementing functionality, but now i want to update the design. i'm planning to use black with white text as the main color scheme. are there any industry-standard colors or recommended colors to use other than black, white, and gray?
+for example, i used gray(0x363636) for the large circle in the play button, but it feels a bit off.
+also, for black and white, should i use #000000 and #ffffff, or slightly different shades?
+https://preview.redd.it/jmb7picp79gd1.png?width=1764&format=png&auto=webp&s=38e955be0d7e1c91c8337715d3c98770abe70879
+and i need to update the design of the popup view as well. currently, it has a white background with black text, but if i switch to a black background with white text, the black of the popup view and the black of the full screen might blend together, making it hard to distinguish. would it be better to use a white or gray border for the popup view? i'm asking because i lack a sense of design.
+https://preview.redd.it/p0thtjj589gd1.png?width=666&format=png&auto=webp&s=935e173a6c64f3f7cbfd35ecf53b65c52380454a
+
+stronger in ui and weak in ux, can anyone relate?
+ideally someone should be good in both aspects, but this is the real world so most people lean one way or the other. i come from a graphic design background getting my bachelors in graphic design back in 2016 and i have been told that my ui skills are good to very good, but my ux skills are really weak. i sometimes struggle to explain my decision for a design element.
+for example i can explain things like this:
+* you ask why i place that button on the bottom of the page and i would answer the button was placed at the bottom of the page because it’s easier to reach by the user.
+* you ask why i chose this bright font color over this dark background and i would answer the bright font color was chosen because the background is dark and placing a bright high contrast font color over it would assist the user in being able to read text easier.
+* you ask why is there a back button on the page and i would say that you always want to give the user a way to exit. it allows them to feel like they are in control and when people are in control they feel more comfortable with your design.
+but then if ask how do these changes or design application transfer over to business and profits that's when i struggle. like when i see people say making this button more visible provides a 200% increase in click rate thus improving profit margins by 50% and i'm just lost lol. does anyone else feel the same way about themselves too? in the industry is it better to be stronger in ui and weaker in ux or weaker in ui and stronger in ux?
+
+translating color from rgb to hsl/hsb
+hello there!
+while structuring a color scale with tints and shades, i've found out that hsl and hsb can't precisely translate some intervals of rgb/hex, like #ff7200,  #ff7300, #ff7400 and #ff7500, which all share the same value when viewed in hsl or hsb.
+chatgpt told me it's because their hue values are way too close to 27, so hsl/hsb just rounds them to the nearest integer, which is 27 and they all end up being shown as the same color.  
+in the end you just have to accept the lack of precision or you have a way around on how to deal with this?
+
+advice on redesigning a website
+i am doing a website redesign for a family friend, and i was hoping to turn it into a case study. i was wondering what is the best process for this — i’ve never done a real website redesign and would love some tips (especially with figuring out some user metrics)!
+
+does anyone know what icon library these are from?
+https://preview.redd.it/43gmfbigg4gd1.png?width=500&format=png&auto=webp&s=24ae442fd53a265eca4b3baecf02fa975dd47abf
+\*its not material or feather
+context: helping a startup consolidate their design system, they have no idea what library these are from but they look nice
+
+just checked out netflix's new ui on my tv, and i'm not sure how i feel about it.
+https://i.redd.it/0dvell6g62gd1.jpeg
+
+need help with popup prototyping
+hi! i'm prototyping an onboarding screen that takes you to the homepage via a button at the bottom. i want to have a welcome user popup that opens on the home screen after i click the button on the onboarding screen. please tell me how do i prototype it?
+
+do most ui/ux design projects that is given at a job require you to go through the whole design process or is that just not realistic?
+i understand that ui/ux design has a process like research and testing, but does every single projects given at a job go through the entire process or is it based off time and funding? do some projects just not have the time to actually go through all of the process so you would have to skip to wireframing or skip or hi-fidelity prototype because of the deadline or there's just no money to set up testing? also like what's the percentage of this like do most projects given at jobs go through the entire process (80 - 90%) or is more like a 50 / 50 thing or lower?
+
+any reason these select menus have 2 chevrons rather than 1?
+trying to figure out is there something behind this? i have seen the doble chevron where the menu covers the page rather than sit below the menu?
+https://preview.redd.it/bf2wy6ce1yfd1.png?width=1022&format=png&auto=webp&s=65e1dedc6294fb8456432a4eb7c2622c95a8f096
+https://preview.redd.it/f35evome1yfd1.png?width=429&format=png&auto=webp&s=272a9f2f76143650c4a0e37d60e7f6c15e1f7af3
+
+after learning the ins and outs of figma, should i learn webflow or a different tool to convert my design into a full website?
+hello,
+i have been learning how to use figma recently to create website designs and user interfaces. i have heard about webflow to convert the figma design into a full-fleged website, but i have not dabbled in learning webflow just yet. i know that webflow is a popular tool used to convert your design after creating it in figma. i have experience coding in html/css and using flask to create full-stack web applications. my question is: is there another tool or plugin i should use if i want to convert my figma design into straight code that i can serve through flask? 
+any advice would be appreciated, thanks!
+
+increasing creativity
+today, my boss asked me to keep my creativity higher regarding my designs. i am constantly trying to research and learn, but i don't know how to improve specifically in the area of creativity.
+do you have any suggestions or experiences you'd like to share on this topic? thank you.
+
+what's the most popular poorly designed software/app out there?
+my vote is for micro-shaft teams (mac)
+
+what have don norman or jakob nielson designed?
+does anyone know what they have designed? is there anything we can point at as "their work", outside of books and articles?
+
+ux feedback request on a filter pane
+https://preview.redd.it/xiwjetqpvufd1.png?width=417&format=png&auto=webp&s=08853d77da9b5948607c6ed632a528ebb7d860b0
+**context**: this is for filtering books on a platform which helps authors sell their books. in this case, this is the first time you are viewing this page and the selections are prefilled.  
+i really only have one question,
+1. what is your understanding of how this would work at first glance?
+but if you have any other feedback to share, that would also be great!
+design principle being followed here is material design.
+
+creating a visual only concept for a banking app that teaches and allows young teens to save money more - how much time?
+i applied for a ui/ux job and for their test-task they asked me to come up with a visual design for a new banking app (based off an existing local bank). the brief only described the target audience and that it should be about saving money and including a gamification concept for teens between 12-18y. it should also have some teaching moments where the users can learn about saving money. 
+they gave me 3-4 hours to work on it and deliver no wireframes but only a visual, mostly finished concept. no more info, no existing screenflow, no content info... 
+i failed miserably on the day itself. as i felt like i knew nothing anout the target group and needed to do some research into them, some existing banking apps for that target group and some games they like to play/socialmedia they interact with most. after that coming up with a visual concept left me with 1 hour to work on 3 screens, trying to decide what content to include where. choosing a color concept, choosing icons/visual elements, trying a gamification concept etc... it looked shit, but they liked my research. they gave me until the end of the week (2 days) to finish the visual concept. which i did... only for them to decline me as i took too much time... 
+now i'm wondering if i'm just very slow or if this was really just an unrealistic task timewise??
+would be really interested in what you guys think.
+
+do you think using chevrons for open/close accordions is a good idea? or the + and - are better?
+https://i.redd.it/ipn312fm0rfd1.jpeg
+
+i struggle with color and typography
+as a ux designer who has been severely indoctrinated with user research skills through university i’ve come to terms with the reality; my typography and color decisions suck. 
+there are dozens of tools out there for both, iknw. but i’m wondering what you did to hone your skills in this arena? especially interesting if you come from an interdisciplinary ux design background as myself.
+
+experimental work on actual projects within portfolio.
+i’m working on my portfolio currently and all my past 3 years of work is under nda and most of it has hardly seen the light of the day because i work in design agency so my portfolio is more about my process, execution, challenges, etc.
+that being said i realised that i can add a layer of delight (micro-interactions/animations/what ifs) to my designs that i was not able to add while on the project because of constrained timelines. however, i’m not sure if i should be tampering with the designs this much that it creates an unrealistic expectation that people are capable of designing those interfaces within limited time. i can probably point out that i’ve experimented with the designs after the project but not sure if i should go about that route.
+any suggestions?
+
+extensive wireframing process?
+hi everyone i just started a new position and i’m taking over the work from the previous designer. they’ve been there for a month and today while i was going through the current deadlines i noticed that the previous designer is currently working on making the user flow and they were planning to then 
+• make a sketch 
+• low-fi wireframe 
+• mid-fi wireframe 
+and then 
+• a high-fi wireframe
+this seems quite extensive just for a wireframe?  normally my process has just been: the initial planning, then a quick sketch to a solid wireframe and iteration sessions and from there prototyping 
+is the extensive wireframing process normal for a lot of designers? or is it more so a situation that’s up to the designer to decide based on their own work process?
+
+curious about cool ui animations?
+hi community! i found some amazing visual ui animation inspirations online and i’m curious about the tools used to create them. do you think it’s after effects or rive? i’m leaning away from just a prototyping tool like figma, as the cursor interactions seem more advanced. if anyone knows how these animations are made, i’d really appreciate your insights! thank you!
+credit: [https://www.ethanchng.com/exercise](https://www.ethanchng.com/exercise)
+https://reddit.com/link/1efdpd6/video/2eyvqto0jjfd1/player
+
+in your experience, do you typically redesign pages from scratch or make small iterative changes?
+i'm curious about the common practices in web and ux design. based on your experience, how often do you find yourselves redesigning pages from scratch compared to making small, iterative changes? what’s the typical ratio or frequency in your projects?
+
+what do you do when people ask you to "make them a website"?
+i get asked sometimes "oh you make websites, can you make me one?" to which i always respond "yes i can design it for you, but i cannot actually build it for you." most people don't really get my response, and just say well you're the expert so i trust you etc. i feel like the options are either for them to find a developer, or for me to use a website builder like readymag etc (which feels like cheating?). i'd love to make some extra money helping people make websites on the side. curious to see how you all navigate this type of request?
+
+paramount
+i wanna work at a paramount so bad so that i can fix their ui! then i want backend to tighty up their part so everything runs smoothly. i'm so tired of their app being laggy and time consuming to get to new shows!
+
+tools from photoshop you wish figma had
+what tools did/do you use from photoshop or illustrator that you wish figma would incorporate?
+
+primeng vs material for design system?
+wondering if anyone has experience using these as a foundation for your design system. pros/cons?
+
+make the text smaller dev life.
+the developers where i work aren’t fond of frontend design and don’t take advice well from ui/ux designers. their solution to fitting a long string of text into a given space is simply to make the text smaller. so, a standard 16px font can shrink down to 6px. you can’t make this shit up.
+
+modal on modal interaction?
+working on a web application which has 2 different code editors. code editor a opens in modal, user has to save it before closing modal for progress to be saved and it's the like its own ide, now this editor is only for editing expression using companies custom expression etc. this is also triggered either from screen directly or a modal (so it becomes modal 1 &gt; modal 2 which has code editor a). 
+it's mostly an input something.
+code editor b has different features like a script reader, a bit different. this appears directly on screen besides other form components, very basic in line editing but takes half screen, but also supports advanced formatting on which it expands full screen (not modal). but slowly getting the same archetype as code editor a but with but more functionalities. this just goes full screen, till not this is not present in modal. user does not have to clock on 'save' or anything as it's just expanded version and auto saves progress.
+should code editor b follow code editor a's behaviour or vice versa? i'm finding it very confusing to define whether boths behaviour should be same or not.
+
+what's the point of a footer when the app/webpage has endless scrolling?
+is there a faster way to get to the footer of page if app/page has endless scrolling ux?
+
+brand and product brand positioning on website, help!
+my company is merging 3 businesses into one under a new brand name and logo. this is a unique logo.
+below this we have 5 products each with their own product sub branding. these all carry the same icon and differentiate by colour. e.g. myproduct x has pink icon. myproduct y has blue icon.
+the website designs have the main parent logo in the navigation. but when people view a product page, the owner wants the pages completely showing the product brand colours and the product logo, removing the main brand logo. 
+i feel this is confusing for customers navigating the site. how would you approach this as a ux expert?
+
+when 2 factor is used, should the user be required to send the code manually? or should it automatically send the code when the user loads the 2 factor page?
+so 2 factor is everywhere and that’s fine. 
+one thing that really bothers me is when i sign in, it says it’ll send a code, i’ll sit there and wait, and it never arrives! then, i notice below the enter code box, is the send code button. yes it’s orange. i’m being petty! it’s just second nature to see that “enter code” box and then pick up my phone. 
+by the way this is referring to desktop obviously and i took this screenshot on the mobile website to illustrate. 
+perhaps i’m petty, but it drives me wild sometimes.
+
+industry 4.0 ux designers
+those who work in digitalization of manufacturing or healthcare, which design systems do you use for each? 
+have you used these for a long time and why did you switch from a different one? (pros/cons)
+do you follow the design patterns in them or do you addapt them according to project needs or internal mutual agreement with devs and other team members?
+
+i need ideas for designing multimedia, expert-sourced, ai curated encyclopedia-style articles
+*marketing speak*: unlock profound insights with our reimagined encyclopedia. access the world's brightest minds, curated by elite ai journalists—your personalized gateway to understanding beyond information. viewable as articles with weekly updates delivered as newsletters.
+*nonmarketing speak*: imagine a wikipedia article with all the themes of a topic, with content derived from world-leading experts and hundreds of articles, podcasts, and videos. emphasis is on the fact that this content is derived from these experts, so a strong focus needs to be placed on their faces, names and credentials. there would be quotes, and clips of podcasts and videos embedded throughout.  
+so far, i can only imagine it as basically a fancier wikipedia, based on one some of these designs:
+1. [wikipedia redesign 1](https://www.behance.net/gallery/16219877/wikipedia-redesign-concept?locale=en_us)
+2. [wikipedia redesign 2](https://uxdesign.cc/design-notes-on-the-2023-wikipedia-redesign-d6573b9af28d)
+3. [wikipedia redesign 3](https://blog.prototypr.io/wikipedia-redesign-case-study-24833cdf1b71)
+4. [wikipedia redesign 4](https://www.behance.net/gallery/101842737/wikipedia-rebranding)
+or based on [perplexity pages](https://www.perplexity.ai/hub/blog/perplexity-pages).
+i am not in love with any of these. so i wanted to ask for advice on here.
+
+how do you deal with stakeholders who have you skip straight to hifi?
+a particular team member has started setting quick “deadlines” to get both me and my team’s developer to make pages/screens by skipping over the whole ux process (except for “research” aka gathering and discussing examples of other companies)
+basically, he’ll brief me on a project, go over examples or have me find examples, and then will say the deadline is end of week, we need this done in high fidelity asap. the last couple times i’ve gone ahead with it, and my dev and i worked really hard to push it through only for this person to turn around and say actually we can take another week or two. 
+we don’t currently have a design system in place (i’m working on that still, it’s a very low maturity company), so it’s not like we already have standardized components ready to drop in. even so, the weeks of changes and revisions requested after the “deadline” could be completely avoided by having that user flow/lofi stage or at the very least building the hifi design without cutting corners (ie simplifying everything so dev can get it out the door in the next week). 
+any advice would be appreciated!! he just shifted deadlines on me again after my boss and i pushed back on the 3 day deadline he gave us this time…now he wants a super complicated imitation of another product (with a bunch of random constraints, of course) by next week 🫠
+
+first and last name vs name
+i’ve read a few articles about good ux design, and one thing i once read was to have only a single name field, instead of first name and last name.
+which i get, but from a technical standpoint, how would that work with databases where you’d probably want to know individual names (say for sorting).
+what are your thoughts on this?
+
+when a euro company doesn't understand us slang...
+https://i.redd.it/2v26ks41xied1.jpeg
+
+instagram what is this ?
+https://preview.redd.it/0kuby34dlied1.png?width=97&format=png&auto=webp&s=b8656a220552dc27e09d6384b50b8d8be0ea56df
+this is a new update on instagram showing no. of pages, and it is overlapping by the horizontal scroll button.   
+in pc version don't know about mobile.
+
+struggling with spacing on sign up page
+https://i.redd.it/3vfgfaxoched1.png
+
+ux design institute — is it worth it?
+hi all,
+i am strongly considering obtaining the [diploma in ux design](https://www.uxdesigninstitute.com/courses/ux-design) from the ux design institute.   
+the curriculum looks detailed and interesting, and this certification seems to have more credibility than most other online courses. 
+if you obtained this diploma or had experience with the ux design institute in recent months, would you say it was worth it?
+background: i have been designing for the past 9 years, with the last 4 years focusing solely on ux/ui design. up to this point in my career, i have been self-taught and this has worked out well for me, so far. however, i would like to have a credible certification to show for my experience, and hopefully, it would help me when job hunting in the future as well.
+p.s. i know this topic has been brought up before, both here and in other communities, but i'm looking for opinions from recent students.
+
+why do the uis of devices like printers, medical equipment, and restaurant employee screens often seem outdated? are there technical limitations that contribute to this?
+https://preview.redd.it/1ovfnx162eed1.png?width=886&format=png&auto=webp&s=55bbf8f02462ca7d765a90d30c23056c391eaf51
+for example, this screen. is there a technical limitation here? this medical device uses an led display
+
+learning to build design system courses
+hey guys, 
+i am a rising middle ux, looking for some decent and not too expensive course to learn about building design system, handling components, variables and product documentation.
+my current job does not include this but i do see a need to build design system before product launching (the current company i join does not have a design system for years and it’s been frustrating for designers to work on building consistent ux and poor performance in general )
+any recommendations are appreciated 🙏🙏🙏
+
+can i put a video inside a tooltip?
+looking for opinions from a usability and accessibility perspective.
+i am designing a web app that generates pdfs based on a form being filled out. the subjects of the form fields are pretty complex. my client has created a series of videos to answer questions, with one video for every field.
+this has to be a use case that people run into. what is the norm for this situation? for example, should i embed the video in a tooltip, add a text link to the video hosted on another page, or something else?
+
+input fields best practices
+what are the best practices for using label, placeholder and helper text of an input field?
+for example, i have an input field for the user name. the user can be input it scanning a barcode or from the keyboard. how should the input field be?
+label: username
+placeholder: empty
+helper text: scan the barcode or insert the username.
+should be good?
+another example is the input field for the search. the user can search an item inputing the id or the name of the item. how should the input field be?
+thanks in advance.
+
+handling cls (cumulative shift layout) issues vs. fixed layouts with blank spaces
+hey everyone,
+i’m currently working on a pdp redesign project. i initially suggested to developers to use skeleton loaders for better performance and overall ux, and they did implement it. unfortunately, though, after the implementation our performance marketing team has highlighted that due to a tech limitation our current use of skeleton loaders is causing poor cls score. this of course negatively impacts our seo rankings and everyone freaked out.   
+to address this, they are proposing a fixed layout approach where elements are left blank if they aren't needed, to avoid layout shifts. we've been asked to design a pdp with all the possible complications. when some of those elements are not there, they will just be left blank.  
+for example, if a product has the possibility to be paid with klarna, we'll provide a template where a line that says "pay this with klarna" is there, but if for a product this possibility is not available, then the user will see just a blank line, a white space.   
+i fear that this solution might look not only visually unappealing but also potentially confuse users...   
+do you have any suggestion or literature on this? with data on their hands, i can't really do anything to push back this decision.
+
+is ticking off a checkbox opening a modal bad ux?
+this is not a website, but a project management system that users use daily. i'm considering two checkboxes in a date picker: "repeat (repeats recurring task)" and "lock schedule". ticking off "repeat" would open a modal where additional options are. some of my colleagues worry about this, because it's not conventional. what do you think?
+
+in search of ux designer
+hi redditors,
+i am tasked to search for potential ux designer for our upcoming startup online platform. i have zero experience dealing with a ux designer and banking on this group for assistance. our cloud based platform is set to launch in sept 2024 and would like to find a good match for this us based project. 
+for potential interested candidates, how does someone prove that they’ve done actual ux work? 
+what should i, as employer should be looking for to validate. 
+looking forward for your input. 
+cheers! 
+update per my cto: 
+“we need someone who can translate what is written in giberish words to more of a user friendly statements and attractive to the readers.”
+
+deliverables and handover from ia, product requirements, ux to ui
+hello community, i have a question for you. especially for those who work on ux, information architecture only, and have to handover everything to ui designer.
+what are your main deliverables, what's your main format for handover to ui? in the early stages everything is on a high, abstract level. how do you transform everything into clear requirements on what has to be designed?
+more or less i am speaking about:
+1. content: how do you present content, components, their attributes, what actions could be performed on each component (or object);
+2. product functionality: how do you present the functionality of the product, all features and how they should work?
+the struggle i have is to move my abstract deliverables into something that ui designer can work with and not lose a lot of time and get frustrated about what has to be built and what exactly have to be there. 
+i appreciate you very much!
+
+why are microsoft's product pages so terribly designed?
+https://v.redd.it/csg8m01bc1ed1
+
+how should i deal with a form where all fields have reasonable defaults
+cross-posting from [here](https://ux.stackexchange.com/questions/151913/input-form-where-all-values-have-a-default).
+i am writing the ui for a tool that makes some plots ([html here](https://codepen.io/daniel-duque-the-builder/pen/bgpppen)):
+https://preview.redd.it/sneztbq0dzdd1.png?width=500&format=png&auto=webp&s=3499d892695305fc48657faa87f45357c5338064
+this program makes plots like this:
+https://preview.redd.it/vp9mtap4dzdd1.png?width=5190&format=png&auto=webp&s=d8cf71714fa2e2f0105c6ca28269a0cce689c1b3
+the input fields control the limits of the axis, and the number of bins.
+all of these fields (except time axis max value) have a reasonable default value e.g. `0.0` for min value t-value, `100` for number of bins, etc. the time axis max value, if left empty, will be the maximum time possible.
+do people have suggestions on how to deal with this? should i use placeholders to let users know what the default value is? should i pre-fill the fields with the default value instead? i am currently just writing "optional" as placeholder, but this doesn't look/feel right.
+thanks
+
+i’m inheriting a very old inconsistent app but they have new branding
+the company i just joined has a mobile app that is very inconsistent and doesn’t really have any hard and fast rules. headers are all slightly different, type has no rules, spacing is all over the place but there is a decent amount to the app. on top of that the company just went through a brand update. the marketing site is getting a fresh look and feel that will widen the gap between what someone else’s on the web vs when they download the app. 
+my question is how do i go about refreshing the whole app to make it align with the new brand refresh? my thoughts are:
+1. audit the existing app
+2. identify key components
+3. bring in brand guide and create style guide
+4. ???
+i could either redesign every single component at once (i think that’s the wrong way to go and no one would agree to do that), grandfather in new design where all new designs take on the newer branding, or focus on adjusting atomic level elements first like grid, type, colour. my main concern is it will look bad when new components live on old screens. the brand refresh keeps fonts the same, colours similar, and the app currently already looks like a mixed bag of inconsistency.
+what would you do if you were in my shoes with all this design debt and a new brand i could apply?
+
+designing for “seniors”
+say you have to design an app/website where you know the majority of your users will be at least 55+yo. what are your thoughts in going about this? anything special to keep in mind? things you’d do here that you might not with a younger audience, etc?
+
+should ux designers be seo specialists as well?
+i had an interview last week for an e-commerce job that would be focus on site search.
+i have done a lot of work on the presentation later for search like typeahead, search history, and the filters on the plp page 
+then asked me if i had done any seo work.
+i explained to them that i was aware of how seo and sem worked, but that we had a whole team dedicated to that.
+do you think a ux designer should also be responsible for search engine optimization?
+
+8px or 4px
+i’m having a trouble in spacing for mobile applications as i’ve never an app before. 
+which grid system do you usually use ?
+
+what is the texture of software uis?
+how do most of the apps feel like texture wise? are they glossy, rough edged, grumpy?
+does different software have different texture or it's all the same?
+does software texture take from the texture of the hardware like a screen?
+
+hiring ux design: is there a better way?
+hello ux design community,
+i wasn’t sure if i should post this but i figure i will to see how you all think about this - as insiders to your community.
+as a founder frequently in need of ux design services, i've noticed a troubling pattern in my search for the right designer or agency. i often come across outstanding portfolios on platforms like dribbble, where the call to action usually leads to a contact form. the experience isn't much different when visiting an agency's own website.
+here's a typical scenario:
+1. **contact form**: i fill out detailed forms, providing information about my brand, budget, project scope, and vision.
+2. **follow-up**: i receive a request to schedule a call and often complete a survey to further explain my needs. this is typically framed as a way to tailor their services to my specific requirements.
+3. **scheduled call**: ….. days later….. we have a call that lasts anywhere from 15 to 45 minutes, discussing my project in more detail.
+4. **waiting for proposal**: after the call, i wait several days to receive a proposal that outlines their offerings and costs.
+my concern is this: these professionals are supposed to excel at creating exceptional user experiences, yet the process they use to engage potential clients feels disjointed and inefficient. if i, as a prospective client, have to wait days just to learn if their services fit my needs, it hardly seems like a seamless experience.
+i'm not here to criticize harshly, but to seek understanding. why is this the norm in an industry dedicated to optimizing user interactions? shouldn't the client onboarding experience reflect the same level of ux excellence?
+i'm hoping to learn if anyone out there is approaching this differently and more effectively. i’d be really interested in checking them out and following their work. 
+looking forward to your thoughts.
+
+how do you fit your design in the complete context of a product?
+do you have any experience where the design you created did not integrate seamlessly with the final product and its overall context?
+
+wanting to transition into ux but full of self doubt
+i’m (52m) a self-taught web designer and developer. i’m having major anxiety about my career. 
+i worked 16 years as a freelancer and the last seven for a company in their marketing department. i’ve done good work, but have always struggled with imposter syndrome. my current job doesn’t allow me to do much design and the coding is handled by a much more talented developer so my design and coding skills have atrophied. i also don’t really enjoy working on marketing websites anymore and am tired of learning the latest coding technologies. 
+for a while i’ve thought i would like to transition into ux design. i like the problem-solving aspect of it. i’ve done a short bootcamp that was ok and i occasionally get something a little more ux-related in my current job like the roi calculator i recently designed. i am also connected to a ux designer through my company’s mentorship program.
+just recently, i started having major anxiety about the whole situation. i’m really starting to despise my current job. i spend so much time copying and pasting blogs and doing other mundane stuff. there are also some days where there just isn’t much to do.
+then i worry that i am too old and feel overwhelmed with trying to figure out how to move into ux. 
+can anyone offer any encouragement or perspective?
+
+designers - how do you handle the pain in your fingers and forearms?
+i think i’ve tried all methods to make it work but i feel intense pain due to repetitive strain injury after working on figma all day. i have a standing desk, i have two different types of ergonomic mice, i switch my hands while using a mouse, and i also have a stylus to use on magic pad so i don’t have to constantly click with my fingers. 
+how do you guys handle hand, forearm, neck and back pain? i even did yoga but the pain comes back right when i stop doing yoga. 
+thanks for reading and i hope you’re not in pain like i am. 
+edit: thanks everyone for your replies!
+
+where can i find imessage business design guidelines?
+i'm trying to find some documentation that guides me to the layouts available for me to create a conversational experience through imessage.
+
+gold standard for website forms / questionnaires
+hello uxdesign thread,
+brand new to this community and was wondering if anyone could help answer what online forms or quiz generators websites like stitchfix or prose use. 
+i love the overall integration and aesthetic and would love to build something similar for my small business. 
+is it usually built from custom code? or can this be pulled off using typeform or involveme? 
+thanks in advance!
+
+do you rework your project portfolios?
+if some of your projects’ ui look outdated, do you rework them to showcase your visual skills for your portfolio?
+
+[ui examples] settings attributes that affect each other
+**short description:**  looking for best practice examples of controls/settings that the definition of one attribute affects another attribute.
+**longer description:**  we have a situation where we want to allow the user to create a custom definition for themselves made up of several numerical ranges.   this can easily be done by presenting a stack of sliders or incremental +/- components.      
+the only wrinkle is the definition of one attribute can affect the available range of another attribute.  say you max out slider a which means you only can have 75% of slider b.
+this could be done by dynamically graying out/shortening the last 25% of slider b upon the definition of slider a but im curious if there are examples that come to mind for folks.  
+extra bonus karma if you can think of a mobile example :) 
+thanks!!!!
+
+i have two similar components so i want to make visual hint to differentiate them
+https://preview.redd.it/zm92rtcdladd1.png?width=758&format=png&auto=webp&s=7a2ff12d69899cf99e1ae42c1bc9bd57efeb7d15
+one component (top) is showing total expense for the month, another net worth. i want to make them look same but slightly different. came out with this 2 solutions for now. please help to choose left or right looks better on dashboard screen. or if they both ugly feel free to suggest.
+
+peer review needed: is ux good enough?
+https://preview.redd.it/dg064dhc88dd1.jpg?width=1280&format=pjpg&auto=webp&s=4012c84907b3959e9a46cc675a292e1fb724acb4
+kindly see if the sections are in the right place. you can also check the content. and what else do you suggest to improve the ux?
+
+social share functionality...pointless feature?
+what's your hot take on social share buttons? i think they are a bit dated but, i see them on a lot of ecomm sites and blogs.
+
+is ux design more collaborative than being a web designer?
+i have been a web designer and developer for about 23 years. for 16 of those years i was a freelancer and for the last seven years i have worked in the marketing department at a company. in all my time working i have never gotten to do much collaboration or interaction with any coworkers. my job has been pretty isolating, which is not good because i struggle with mental health issues. 
+i have been considering transitioning into ux design. i’m wondering if it tends to be more interactive and collaborative. i’m sure it depends on the situation, but are there more opportunities to work with teammates and stakeholders than there is in a typical web design job?
+
+examples of good ux for filtering by a geographic region?
+hi r/uxdesign! i'm a designer for a b2b web app focused around identifying global logistics/supply chain issues, and my current project involves creating a better way to filter issues by a geographic region.
+the initial design just had a checkbox filtered list of countries; however, user feedback indicated that they wanted to search specific regions in a more convenient way. the problem for me is that the level of granularity for different regions is super different (e.g. it could be an entire continent like "asia", a sub-grouping of countries like "southeast asia", or even a specific part of a country like "us midwest").
+does anyone here have recommendations or example uis for how this type of geographic filtering might be implemented in a user friendly way? currently thinking of having a set of preset regions defined, and having the user be able to define custom regions on a map, but i'm not too sure how i would go about this and if there are some best practices i am missing.
+
+is it common for designers to come up with images/videos
+recently i worked on creating website and logo for few new companies. they had nothing, no resource whatsoever. they only provided the type or name of items that they sell and name of the company. when i asked what is their brand values and identity they had no idea. so i had to create a bunch of logos with different style (around 20 logos) and finalize the brand identity with trial and error method. and then when time came for website designing, they will just show me few website to refer from. they dont even have images of the service/product that they sell. i had to find images/videos and even the partner company logos. that they would keep on insisting to find better image and videos. i did heard somewhere before that ux designer has to decide what images and videos should be placed on the website. but when it comes to product. i have to research on what the product is and make sure the images are correct. is this normal or should i be asking the clients to provide the resources. if its 10 or 20 images i can handle it, but when thy ask me for about 200+products i get really frustrated.
+
+i'm so tired of being ghosted lol!
+https://i.redd.it/8msb3pk4zlcd1.png
+
+visited the computer history museum.  computer interfaces have come a long way
+https://www.reddit.com/gallery/1e3am49
+
+new to freelance - how to quote price and time?
+i am primarily a front-end developer, but also do ui/ux design for web apps. 
+i was wondering what would be the right cost and timeline to quote a company who's ready to pay me for a project. 
+the job:
+designing the entire ui/ux for a stock products web app. 
+it overall consists of
+- 11 user app screens(which also includes a questionnaire that the users can go through and based on answers it filters and shows them the products)
+screen with "get a quote now!" button.
+type of the project ( new build / renovation ).
+brand ( single brand, dual brand and no brand / independent hotel ) followed by specific brand / sub brand based on the previous response ( lq, wingate, wyndham garden, hawthorn, comfort suites, staybridge suites, etc ) can also be configured in the same screen.
+select the exact product they are looking for from the list of stock products. based on the response, we have a questionnaire setup to filter the products and lead them to the exact product based on their answers. we can set up the whole questionnaire on the same screen with details that drop down.
+questionnaire
+led mirrors :
+what are your room types ( ada / non ada )
+lvt :
+color ( brand specific ) - display finish 
+accessories :
+no of room types 
+what's your ceiling height - value in either feet or inches.
+side panel width - 
+back panel width - 
+tiles :
+areas in the property quantified as per prototype/brand.
+screen to display items in cart.
+screen with a summary of all items requesting a quotation from us prior to approving the same.
+screen confirming the interaction with our web application and sending an email with a quote to the client.
+all quotes and revisions specific to a customer should be stored on the database with docusign integration to facilitate approval of a quote that can be converted to a sales order on erp.
+- 15 admin panel screens.
+login screen for all users ( admin, sales, marketing and customer support )
+home page with all modules in the back end listed on the screen.
+screen to add users to the back end.
+screen to manage users in the back end.
+screen to view all enquiries ( before and after requesting for a quote from the summary screen )
+screen to add brands to the back end.
+screen to manage brands in the back end.
+screen to add categories in the back end.
+screen to manage categories in the back end.
+screen to add products in the back end.
+screen to manage product in the back end.
+screen to view detail/edit the product info in the back end.
+screen to add media (images from marketing catalog) to the back end.
+screen to manage media in the back end.
+we also need a couple of screens to manage mapped data that is pulled from the erp (technical information like specs and shop drawings if necessary).
+all of this at 3 breakpoints.
+super confused as to how much i should be quoting and how much time would be required for this sort of thing?
+
+thoughts on this trend?
+not sure why this type of spacing guide is frequently done on linkedin and facebook.
+what’s the point of this? if spacing will vary per display? am i missing something about this trend 😂
+
+color palettes/design system question
+first of all. i'm a baby deer. i've fallen out of mom and i'm learning to walk.
+however the world sucks and i have to start building a design system on monday. which is **stupid**. 
+anyways, i've got a fairly decent, but basic understanding of how figma works, and i've watched hours and hours of youtube/skillshare/untitled ui/mizko ... i'm trying to understand all this as best i can ... i am not a ui/ux designer, i'm an art director that's been given the shaft and i'm just trying to keep my job.
+anyways, again.. question time:
+the brand i'm working on has a color palette of 5 colors and is primarily used for email and direct mail (we're not building websites)... without giving it away one is a primary color and the rest are white to dark grey and the entire current design template for email templates is designed off that... the entire thing – buttons, modules, text... it's basic, dated.. built for outlook basically.
+everything i'm seeing online has these massive color palettes of grey-900 to grey-50 with with 8-12 shades in between... do i **need** to do that? like, i know it doesn't look good? but in theory could i just have my brand-500 and then neutrals vaguely spaced out accordingly? incase one day they decide to not be so outdated?
+dark mode is going to be a whole other nightmare... i'm **trying** to do this the "*right"* way... with extremely limited time and resources and probably the wrong tools... so any advice would be so amazing.
+thanks in advance!
+
+thoughts on 'dead simple sites'?
+i recently came across [deadsimplesites.com](http://deadsimplesites.com) and wanted to know what others on this sub thought of the sites there. i'm finding myself torn between liking them and also wanting just a little bit more. many of these websites also appear to be portfolios of fairly senior designers. 
+i know my question may seem a bit broad because of the sheer number of websites on display, but i've noticed they all have a lot in common in terms of visual and ui design. 
+would you guys endorse this style of website for hosting a ux portfolio? why or why not? if not, would you recommend it for any other kind of website?
+
+ios more real estate
+tried recreating the interaction of the macos dock on ios. this could also act like a hidden folder alternate to the one ios 18 brings :)
+
+forms inside modals. how evil is it?
+hello everyone,
+i usually avoid using modals with complex-is h actions but i have a certain context i am designing right now that i don't feel a new screen is the right pattern: i have a table with a bunch of results and each row have its own actions which are basically a crud. each one of those actions would open a modal / new screen with two input fields, a text box, a file upload button and a button for applying/saving/deleting the info. the system is a internal saas thing and the users are used to very messy modals with a lot of content.
+my main arguments for the modals would be 1) to keep the users in the same "context" (as the info edited is related to the main screen) ; 2) this would render 2 screens less, maybe would feel  a bit quicker.
+woild you consider  this a bad practice? any arguments against doing so?
+btw, i searched nng, smashing magazine, a bunch of design system documentation, and didn't find anything against  this scenario but also nothing that defends it.
+any help appreciated.
+cheers.
+
+any recommendations on creating and managing big corp design systems?
+i kind of know my way into figma but i don't know much about naming conventions, expected variations, how to organize, manage and deliver design systems for big corporations. do you guys have any youtuber recommendation on how to do that step boy step?
+
+how is this design? peer review needed
+the website will be content based blog. the primary goal will be to build list and connections.
+so, does this design align with the goal?
+the menu has not been added yet.
+
+help me to improve my app ux
+i’ve been working on dynamiclake pro for macos, designed to bring dynamic island features to your mac. the app includes push notifications with a quick reply feature for imessages and whatsapp.
+the user experience works as follows: when you receive a message, the notification appears without a text field, and it will disappear after a few seconds. if you hover over the notification with your mouse, the text field will show, and the disappear timer will stop. you can always close the notification by swiping up.
+any tips?
+
+how to make a mockup of an interactive map with a timeline and filters?
+hi,
+i am relatively new to the world of ux and i am now taking part in a project where i am in charge of visualizing historical maps and designing how the user will interact with them.
+i know exactly how i want them to look and how i want the ux to function. however, i don't know how to visualize my ideas.
+the maps would have:
+zooming. and some details would only become available once the user zooms in enough.
+filters. some details of the map are shown or hidden according to the filters selected by the user.
+a timeline. the user can basically get a snapshot of where different vehicles were at a date they selected. they can also choose their filters and click "play" which would show the entire voyage of the vehicles that are shown according to the filters.
+can i use popular tools like figma or adobe xd to showcase these features? i am struggling to find tutorials that explain how to create more complicated features like filters. what would be the recommended tool/method for what i am trying to design?
+
+benefits of having coded components for a designer?
+i still make all my designs in figma with  component libraries and style guides. i’m new to design systems. but from my limited knowledge, i believe developers code all these components into the design system, so they can quickly find and implement these components. 
+but what are the benefits to a designer of having coded components? is this only a benefit to developers? are these more guardrails for consistency and quality?
+
+anybody working on products made for developers?
+i'm running into this problem where a portion of our users that use the product are also the people that develop the product itself. 
+in many situations, when a decision need to be the engineers will basically say "well i'm the user so i know what's right". 
+over the course of years this has kind of made a frankenstein product. not to mention the general way we go about introducing user data is skewed. 
+i'm just curious how you guys deal with this.
+
+would you apply for a job that requires a design tark?
+i'm a first jobber and need some advice. there have been many times when i've applied for a job with a design assignment but i've never received a response.
+
+confused with ui and ux
+this may sound a dumb question but,
+i was going through reddit looking for ui/ux designers portofolios and noticed some introduce themselves as an ui/ux designer but they work in game companies and change some features on social menu system or sketch new layout for character screen or loading screens. 
+is this all done by figma? i am a highschooler so i genuinely would like to know how do designers do these.
+
+can you suggest me people that's well-known in this industry?
+i'm a recent graduate and i'm planning to start my career as a ux designer/product designer. i want to fill my feed with inspiring work from one of the bests in this industry. do any of you know some people? thanks in advance!

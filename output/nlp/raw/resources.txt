@@ -1,0 +1,811 @@
+a question: ideal resources to understand how paired designing works
+i want to understand more how paired designing works. i’ve been through a few videos and articles and i realised it does not tell me anything different.
+i want to know how paired designing works in an actual setting and all the nitty gritty around it. do share some resources that’ll be helpful.
+thank youuuu. 🐒🎈
+
+[interesting designs] vehicles: the new united states postal service trucks
+[duck truck!](https://preview.redd.it/nnnkmuhcheod1.png?width=1440&format=png&auto=webp&s=6102db221a27575285ed0a3269dbd4793534c3e6)
+[bonus: a comparison of other products in oshkosh's portfolio](https://preview.redd.it/eiruvi4wkeod1.png?width=1263&format=png&auto=webp&s=271570096b8e65424213e91e701d0d8b03f24acb)
+older preview:  
+[https://lasvegassun.com/news/2024/jun/17/new-truck-a-modernizes-mail-service-fleet-leaping/](https://lasvegassun.com/news/2024/jun/17/new-truck-a-modernizes-mail-service-fleet-leaping/)
+today's topic: **new shiny postal service trucks**. these replace grumman llvs (long life vehicles) which were introduced all the way back in 1987.
+so this thing has been in the works for a while. lots of interesting quirks of practicality in the design that seems to be working out to positive initial reviews.
+* larger payload area
+* big doors for tall people
+* air conditioning (esp. for the american south)
+* the duck bill (no mistaking that silhouette)
+* the giant windshield and the low front profile provides great visibility. for those of you not in the states we actually have a fucking epidemic of giant trucks that basically makes kids and shorter people near invisible to drivers
+* [https://www.npr.org/2023/11/14/1212737005/cars-trucks-pedestrian-deaths-increase-crash-data](https://www.npr.org/2023/11/14/1212737005/cars-trucks-pedestrian-deaths-increase-crash-data)
+* [https://www.consumerreports.org/cars/car-safety/the-hidden-danger-of-big-pickup-trucks-a9662450602/](https://www.consumerreports.org/cars/car-safety/the-hidden-danger-of-big-pickup-trucks-a9662450602/)
+one concern is the much larger size profile and weight difference. curious as to what different regional postal workers, esp those in denser street locales will think of these.
+[size comparison of the older and incoming vehicles](https://preview.redd.it/gcbwv017oeod1.png?width=716&format=png&auto=webp&s=b0afe7eb2b2c8356e0ecd27ef2010aab157535a6)
+super interesting project and outcome imo. any other interesting vehicles and/or municipal designs from other parts of the world?
+
+what things outside of ux influence your design?
+for me, the last few years i’ve been doing some exploring in my personal life and have really found some incredible wisdom in zen and chinese philosophy like daoism and confucianism. that, and specifically the idea of “wu wei,” or as the late philosopher alan watts calls it, “not interfering,” has really influenced the way i approach my work. so rather than forcing an idea that i have, whether the idea itself or how it’s implemented in a design, i find myself examining patterns and the natural flow of something and looking for the best way and place to introduce the new idea or method. 
+what are some ideas or beliefs or philosophies that aren’t necessarily related directly to design and ux that you’ve incorporated into your approach and methodology?
+
+design awards ?
+i want to participate in some genuine design contests, and maybe wish to win some of them. not only am gonna learn alot but also would love to win some and add it to my ego-resume
+can you guys suggest me some good design contests that happens annually or something
+
+susan kare giving a ux demo of the mac in 1984
+https://youtu.be/zmwotf4ziso
+
+what kind of labor reform would you like to see with hiring? what rules or laws?
+i'm seeing plenty of posts about people having terrible experiences getting ghosted after doing work for free during interviews, interviews leading to bold rejections, and interviewers saying "we just wanted to see if there was local talent". ghost jobs, 15 rounds, refusing to share salary. 
+there are so many issues with what's happening lately with hiring. we're creative, so i thought we might have ideas and get some catharsis from listing and discussing what our top problems and solutions are for this.  for example:
+* required compensation equivalent to an hourly wage of the posted salary when requesting homework
+* required posting of the compensation range and type regardless of the size of the company or comp
+what are some other laws, fines, or regulations you'd like to see enacted to protect workers? bonus points and gratitude for folks who share laws already on the books in certain places that seem to curb some of these issues locally.
+
+what would you do with an education allowance right now?
+my company gives me an annual education budget, and i’m at a loss for how to use it. i’m able to spend it on a course, conference, books, etc. i think it’s somewhere around $500.   
+would love to know if you’ve seen anything that falls in these categories that’s caught your attention!
+
+do not forget to cancel your interaction design foundation membership
+yesterday interaction design foundation charged me annualy without a proper notice. here is the story;
+i was aware that my subscription was about to renew couple of weeks ago. however when i canceled the membership they were going to close my account. yes there is an option to "keep my benefits" but there were no clear indications that renewal will stop. 
+then i tried to remove my payment method, but guess what there were no option to remove payment a single method and no related information provided how to do it. 
+they sent me an email with a topic "get ready for another great year with the interaction design foundation" well, they informed me but how. we all know that this email would be much clear to notice people such like "your membership renewal ..."
+well i asked a refund because i canceled my account immediately but they said no. they said that i can donate my membership or transfer to somebody else. 
+the fact that i'm pretty pissed off, these people are advocating ux. they keep saying "stay away from using dark patterns, inform users clearly, provide clear messages etc etc" however they do everything opposite they say. 
+this is the summary of my negative experience about ixdf, beware.
+
+has anyone ever paid and attended a nn/g training ?
+i am looking to pay $1k and attend the into to ux virtual training . has anyone ever attended ? is it worth the money ?
+
+the world we're designing
+&gt; one day, james williams—the former google strategist i met—addressed an audience of hundreds of leading tech designers and asked them a simple question: 
+&gt; 
+&gt; “how many of you want to live in the world you are designing?” 
+&gt; 
+&gt; there was a silence in the room. people looked around them. nobody put up their hand.
+https://gomakethings.com/the-world-were-designing/
+
+anyone ordered the new nng book: digital icons that work?
+wondering if it's worth it.
+[https://www.nngroup.com/articles/digital-icons-ux-quiz/](https://www.nngroup.com/articles/digital-icons-ux-quiz/)
+
+reading list (must read only)
+like it says in the title
+so far i have:
+the design of everyday things (read) 
+100 things every designer needs to know about people
+i remember a lot of people mention a particular book in a thread once. i think the thread was about being a senior ux designer or a team of one, or something to that effect. 
+i was a bootcamp grad and i take continuous learning to heart, thanks for any recommendations.
+
+2020s tech rollercoaster
+https://i.redd.it/wzrzeywyswmd1.png
+
+has anyone taken the ooux masterclass? i need some insiders' opinions
+hello all,
+i have been trying to understand sophia prater's ooux/orca process for a while now, and i feel super dumb because i cannot understand the practical aspect of it. i watched some of her yt videos, read some articles, even bought the udemy course with joe natoli and i'm half way through it but still unable to undertand what the heck is she talking about!
+note that i have programmed in the past, i understand oo, databases, relations..., i am also working in the field of product design for years, so i'm nowhere near being a beginner. i just need to take a look at the practical aspect of it to see how/if it could help me make sense of complexity. but all i'm getting out is the hype.
+one major problem i noticed is that sophia is a terrible teacher. she talks a lot and overhypes things and then tells very little. or perhaps she's doing this on purpose to drive people towards the masterclass.
+so here are my questions for those who went through the masterclass (if any), is the explanation/outcome better than what's freely available online? is she the one teaching? did you really get any benefit from it?
+
+best ux + ai books?!
+any suggestions for some excellent reads??
+
+shades news’ ux internship: a masterclass in exploitation?
+https://www.feedme.design/shades-news-ux-internship-a-masterclass-in-exploitation/
+
+looking for guidance and resources on high-conversion landing pages.
+i've been designing apps using resources like material 3 guidelines and various online articles. now, i need to transition to website design, specifically focusing on creating high-conversion landing pages. however, i've had trouble finding good resources on this topic. can anyone recommend articles, guides, or resources that can help with designing effective landing pages? additionally, if there's a resource that tracks trends in website design, i'd love to check that out as well. thanks!
+
+[let's learn from] video games: interaction design and shadow of the ninja reborn
+so, anyone who's seen my posts around here might know me as a b2b/enterprise complex design guy. but i'm also a very extensive player of video games (paging u/scottberkun), which is a phenomenal source of learning for design along with other non-web sources.   
+since we have lots of fear, gloom and doom, portfolios, repeat topics, etc, around here (many justified even if people are worn out), i thought i'd try a little light hearted but deep learning series around topics that aren't a website i'd like to call: \[let's learn from\]. at least this time, i'm just going to recommend a video for you to watch and learn from, and explain why.  
+today's topic: **video games**. specifically, a reimagining of a classic nintendo run and gun action platformer:
+**shadow of the ninja reborn**
+i think, if you have some time, you should watch this \~30 minute video analyzing and praising some of the designs of this game. why? well...
+[https://www.youtube.com/watch?v=eonpktxuej8](https://www.youtube.com/watch?v=eonpktxuej8)
+[screenshot of ninja kaede slamming a grappling hook into a little spiked monkey monster as soldiers and robots surround her](https://preview.redd.it/ffp9t401vuld1.png?width=2034&format=png&auto=webp&s=b120b6582a997ff1ec6dfaf69a7520e8728da847)
+so, this analysis goes into a lot of the small design details with a ton of parallels to aspects of good interaction design, including:
+- risk and reward mechanics, cost to decision making
+- zoning and the importance of spatial relationships for interactions
+- balance of interlocking game mechanics and interaction systems over overreliance on a single one
+- values of using constraints to change and augment experience and playfulness (example: item system)
+- how animations and motion can support and provide visual translation for interactions
+if the design world is bringing you down, try a half an hour break to examine and learn from the joys of a game.
+happy weekend y'all.
+
+what are your go to resources or places for inspiration?
+i'm a begginer web designer and trying to find more design resources for inspo than dribbble or behance, but also let me know if you think these 2 are enough.   
+also please dont recommend awwwards as i think their websites are not very user friendly.
+
+getting started in ux freelancing and contract work
+biting the bullet and trying to get an llc started if contract work should come along, and wondering the easiest set of resources for uxers to get started.  my goal is still full time employment but might find a few side projects in the meantime.
+would love any good books, communities, associations and software you've found useful and any decent places for finding contracts - i'm in the us in nyc for now.
+some of the paperwork might be covered by gov't web sites, but would really love to know how as a ux designer you keep things successful for part time work.  i know that aiga has a [template](https://www.aiga.org/resources/aiga-standard-form-of-agreement-for-design-services) for contracts but would love any ideas in particular for those of us blending ux, research and product work.
+finally, any ideas on the state of the ux freelancer market or thoughts on if we see this as being a viable path while everything in tech is volatile would be much appreciated.  thanks!
+
+what is your biggest pet peeve in the ux design industry?
+i'll start: the term "ux/ui design"
+
+i found this picture online of how professionals (including designers) in different fields view one another. i find it funny, but at the same time, my organization departments perceive others the way they are depicted in the picture. how does yours fit in? (apologies if the flair selected is wrong)
+https://i.redd.it/a06img6rm8ld1.png
+
+biographies or memoirs from product designers?
+i'm still starting out in product design (have yet to even land an interview). biographies and memoirs have always been the books i gravitate towards, so i was wondering if anyone here had recommendations of stories given by successful product designers about their journey into the field and thoughts on the craft a la *on writing* by stephen king.
+
+another free slave hire
+this should be just illegal and linkedin need to ban these companies.
+profiting from free labor? wtf is wrong with this company
+
+growth.design course (product psychology) worth it?
+hi all! i'm curious to know if anyone here has taken the product psychology course from growth.design? 
+[https://growth.design/case-studies](https://growth.design/case-studies)
+i've enjoyed their weekly newsletters but i'm wondering if their course is worth taking on financially. currently if you sign up for a solo lifetime plan, it's $1,500 usd.
+would love to hear some feedback from people who have done it :) 
+thanks!!
+
+is nobody doing any research on finance saas? i like baymard's comprehensive study and free research they share on e-commerce but can't see any finance websites in their research. anyone having any leads on such platform(s)?
+https://i.redd.it/yvj335iwa0ld1.png
+
+physical button interaction with screens/ux: any literature?
+looking for recommendations for resources on design decisionmaking for how physical buttons should function in interaction with a gui. thinking about remote controls, buttons on phones, video game controllers, watch buttons, etc. how are they designed to select and navigate on a screen? when are they used to navigate between screens, to make choices, take actions, etc.?
+any books, articles, media, or courses? any personal experiences or frameworks for this kind of thing?
+
+need book recommendations on data table design
+hi,
+i have been trying to find some books that offer advanced lessons on the ux of data table design. unfortunately, nothing specific to this. the close ones that i have come across include engineering side too. any recommendations regarding books in this area specifically best practices?
+thanks.
+edit - found a few chapters on table design in 'show me the numbers' by stephen few. good book!
+
+laid off and locked out of figma. how do i include this work in my portfolio?!
+i worked at a company that recently laid off a lot of people. all designers who were let go were locked out of figma before being made aware of the layoffs. myself and lots of other designers ranging from 2-10 years at the company now do not have access to our figma work; for some of us this was our first job since college so now we have nothing to show while we look for new jobs.
+i would really appreciate some advice from design managers and seasoned ux/ui/product designers on how to format a portfolio when we don't have visual references of any of our work. designers working on internal products are especially in trouble because we can't take screenshots of the live websites.
+we can't reach out to anyone for help as the employer is monitoring figma exports - my former coworkers and i need advice on what to do when we **cannot** get our old files. no access and no one to contact to get them. is there any situation in which text-only writeups are acceptable?
+please, no "always back up your work" - we're way past that.
+
+toasts are bad ux
+https://maxschmitt.me/posts/toasts-bad-ux
+
+share some experience based wisdom
+this is an attempt to get interesting non-whiny discussion going. 
+tl;tf? skip to the last line. 
+development has codified some experience based software project and coding wisdom into principles like these:
+* dry - do not repeat yourself. basically means that code should’t contain the same information in multiple places. if it does, it will soon be wrong in some of them.
+* yagni you are not going to need it. meaning, don’t put in code for features that you expect will be added in the future.
+* kiss. keep it simple, stupid. don’t try to be clever (even if you are). simple is faster to do and easier to get right, for you and others.
+i didn’t go to design school, so maybe that’s why the only comparable nugget of wisdom from design i can think of is “less, but better.” there’s fitt’s law, gestalt laws and such, but those are rather specific knowledge more than wisdom.
+what other design wisdom is there? feel free to formulate your own.
+
+initial interview is case study presentation now?
+never the case before but seems to be so now. is this the norm? no more advanced notice for these?
+
+doing an online course - any advice
+so i’ve watched people do online courses for years on design. how come when i try to make it it feels so hard. 😂
+did you also have growing pains when you made your first online course in ux?
+did it take a lot of recordings to get the voice right, etc?
+
+where do extra ordinary designers judge work?
+i'm trying to achieve new milestones in my design career. i want to be recognized as someone with extraordinary ability (for visa purposes) and one of the requirements is judging the others work in the field. where do i do that? any suggestions?
+
+autistic designers - looking for community
+if there are any autistic designers in this sub, are there any communities specifically created for us you can recommend? i'm in a number of neurodiversity groups, but i'm looking specifically for resources on how we think about and approach design. i've only recently learned this about myself and i think it might be impeding my job search. thanks!
+
+how to showcase an award in my portfolio without displaying the work
+a few years ago, i won first place in my college’s commencement art contest for web design. while i’m proud of the achievement, i’ve grown significantly as a designer since then, and the project itself no longer reflects my current skill level.
+for those who have faced a similar situation, how do you incorporate such awards into your portfolio without showing the associated work? 
+any tips or examples would be greatly appreciated!
+
+the optimal length for a portfolio case study
+a few days ago, this discussion mentioned some great examples of folio case studies:  
+https://www.reddit.com/r/uxdesign/s/8vbocbfj3g
+folks pasted some great links to very thorough case studies. 
+**which brings me to this:** some case studies seem very extensive. a designer’s target market (hiring managers/other decision influencers) will spend 1 minute maximum in your case study. therefore, is it worth having long case studies (especially with many words rather than images) in a portfolio? 
+imo, having a high level case study with your contribution and a solid process and decision making seems optimal. then one can have a deck with more extensive info if needed.
+what are your thoughts?
+
+any former architects in here that have made the switch to ux?
+would love to hear from any of you who have made the career pivot from architecture to ux. i’m curious if there are any resources you would recommend, or common pitfalls to avoid. any and all information would be very much appreciated, thank you!
+
+why would you like to work for us? tell us about your most recent project.
+do you guys answer these type of questions when you're applying for jobs? i don't really mind getting chatgpt to answer those questions for me but i've just noticed a couple adverts mentioning they will automatically reject ai-generated or generic answers. personally, i really don't see the point of this. everything they need to know is included in my portfolio/cv and if they have questions they are more than welcome to do so over an interview.
+
+how do you keep up with design trends, news and all the juicy stuff happening in the product design world?
+hi all of you talented frens of ux design reddit, help a fellow designer out to keep uo with the stuff happening!!   
+who do you guys follow on twitter? what podcast actually help you? do you login to product hunt of reddit, awwards etc often to check whats up?
+
+anyone interested in tech discourse and how it trickles down to ux?
+https://www.betteroffline.com/
+
+~$1000 usd budget for professional training - wwyd?
+title - manager has given myself and other designers $1000 usd budget for professional development / courses. was considering nng but the timezones for their courses don't work for me (i'm in australia). anyone been in a similar situation? what did you choose?
+
+which studies on behavior/cognition/sensation/perception are actually trustworthy?
+there is so much anecdotal storytelling about cognitive bias and poorly constructed research (eg. [daniel kahneman's research on the priming effect](https://retractionwatch.com/2017/02/20/placed-much-faith-underpowered-studies-nobel-prize-winner-admits-mistakes/) failing peer review, yet still being upheld as a source of knowledge in design communities), that i find it hard to know what's actually trustworthy. 
+intuitively it seems like there must be some universal truths about behavior, cognition, sensation, and perception, but i don't have the energy to be poring through tons of psychology studies just to be able to design some screens. 
+as a designer, are you content to rely on cognitive biases based on anecdotes or research you haven't checked the peer reviews of? are there articles/books about these topics that you feel you can genuinely rely on? am i trying too hard to find information that is scientifically valid, when anecdotally powered insights really should be sufficient to do my job?
+
+recommend a high quality course on ux and user research (with certification)
+i am a certified and experienced product manager and aspiring startup founder in early stages, i would love to get the foundational knowledge in ux and user research. please recommend a high quality non basic course (on ux and user research), ideally with certification at the end.
+
+thoughts?
+https://i.redd.it/rtmyu0ci5ugd1.png
+
+killer case study narratives?
+now working on a new case study i would benefit from strong examples of narratives covering a project.
+what are narratives that impress?
+what is engaging?
+what gives a deep-enough look at the process?
+what are important take-aways (learning exp, solved problem, friends made, learned from mistakes, etc.)
+how could it address the audience? (we solve the problem together vs. i did this…) 
+i’m not looking for basic star-type advice, what does storytelling that kills look like?
+
+a brief history of ux - its evolution from 1900 until now
+https://valerian-kleinschnitz.de/a-brief-history-of-ux-9813d7e916c6
+
+the ultimate dark pattern?
+https://i.redd.it/k97zvoc8yfgd1.jpeg
+
+understanding and implementing a design token system as a product for users to scale their products with consistent branding
+i’ve been thinking about the kind of designer i want to grow into and since i’ve tried a lot of spaces and never the whole design system part of it, that right now seems like a good challenge for me to take on. i’d like to learn and be a design system designer as an ic. 
+now i’ve gone through a lot of design systems, carbon, lightning, material 3, ant and hig are the ones i’ve studied closely. 
+if i was to productize the whole process and let users scale their systems, enabling consistent ui efforts, i feel half of the dev and design qa time can be saved. 
+i have this idea, would love to be pointed in the right direction forward though. any thoughts or resources on the subject matter are welcome! 
+thank you again :) 
+i’ve found this community to be so welcoming and so many amazing people mentoring here with so much passion for the craft and i feel really lucky to have this kind of community and resource to help me scale up.
+
+is this the career for me?
+i’m 26(f) have 6 years work experience in digital marketing and have a wide skill set from social media marketing, website design and management, email marketing, events management and execution (both in person and online), crm etc. also have an undergrad marketing degree.
+my interests lie heavily with websites, web design, seo, and the results from campaigns and how people got from a to b and testing, i’ve done a bit of research into ui / ux experiences and can recognise the differences in each pathway but sometimes they overlap slightly on different websites.
+would this be a good career for me looking at my passion areas? what would you suggest i can do to develop skills in this space? any good courses, videos, reading etc?
+not in a rush to leave my current role so happy to take on a long term course and also happy to hear suggestions.
+
+how are you upskilling yourself?
+what are you learning these days and why? (share link if possible)
+what skills do you think will continue to maintain the strategic advantage for designers?
+
+how often should bottom sheets reappear?
+are there any articles or literature about how often bottom sheets should re-appear to users after they dismiss them?
+my first recommendation was that they shouldn't reappear as the user has shown they aren't interested but i didn't win that battle. the team is suggesting every 5-7 days so i'm  looking to find readings or research to further support my stance against being that intrusive to users.
+
+examples of genius ux design
+what are some examples of ux that are considered extremely high level. i'm really eager to learn and improve but think that currently i'm quite average at this, would like to understand what is considered "genius" level ux
+
+invited sam cuevas, a ux designer from the games minecraft and forza motorsport 8 to share her realistic advice on entering the gaming industry.
+hello, it’s my first time here. 
+i’m a game designer, and i’m a lot more active on r/gamedesign & r/gamedev.
+i often get asked questions outside my expertise, so i prefer to source answers from actual industry experts and practitioners.
+recently, i was asked about tips on getting into the gaming industry as an ux designer. so i invited one of my colleagues, sam cuevas, to share tips, resources, and insights on breaking into the gaming industry as a ux designer. 
+she designed and contributed to games like minecraft and forza motorsport 8, in addition to working on dozens of commercial websites and mobile apps.
+sam breaks down the core skills and essential software you need to learn, including the most popular ones in the industry.
+this post is geared more towards beginners and aspiring ux designers who are interested in the gaming industry.
+(r/uxdesign mods, if this violates any rules, feel free to remove it. i added this guide because i think it’ll be valuable for aspiring ux designers. not trying to spam.)  
+i encourage the folks with more experience to chime in and share their prespesctive and tips to help future ux designers work more effectively, i’d love to feature your insights.
+this might give some hope to those trying to break into the gaming industry as ux designers.
+* focus on demonstrating that you can already do the job that’s relevant to the context of the studio’s game through your portfolio.
+* having a degree is less and less relevant each day especially in the current times. a solid portfolio without a degree trumps having a degree without a portfolio.
+* many game design/dev college programs require you to go through an internship in a studio as a graduation requirement, which means internships are just as (if not more) competitive than entry-level positions.
+* use case studies, attention retention techniques, and context matching to help your portfolio stand out.
+* unlike game art, animation, or programming, where what you see is what you get. use case studies to demonstrate your process, how you solve ux problems, and before/after results.
+* recruiters skim applications quickly. use storytelling in your case studies to capture and retain recruiters’ attention within the first 5-6 seconds.
+* studios heavily considers how contextual is your skills to their game. you’ll have an advantage by identifying the games you want to work on and tailor your portfolio to them.
+* for game engines, familiarize yourself with the big two (unreal and unity) along with their scripting languages, and you'll cover most studios’ technical requirements.
+* even for studios with proprietary engines, this will imply you can quickly adapt to their engine as needed, since they work on similar principles.
+* you’re not a technical designer, so you don’t have to be very proficient.
+* for visual and graphic design software, figma is the best bet since it’s becoming an industry standard, and it's easier to learn than photoshop or illustrator.
+* for example, the candy crush and minecraft team (sam worked for) uses figma.
+* layer a strong understanding of design principles and how players experience the entire gameplay, since ux designer touches almost every part of the game.
+* this will also position you for a possible creative director role down the line.
+* here are some job application tips that you might already know, but i’ll share them just in case.
+* don’t worry about having 100% of the job requirements. if you hit 50% of the requirements, apply. you’ll learn as you go.
+* if you're less experienced, look for larger studios that will offer training, as smaller studios require you to hit the ground running because of their limited resources.
+* if you find a studio you want to work with but don't see a ux position available, apply anyway for a play tester position. it's much easier to transition once you're already part of the team.
+* reach out to the folks at a studio where you want to work and see if they are willing to share their journey and give you feedback.
+* use linkedin to find and message people with the job title you want. remember, everyone is busy, so it's okay if you don't get a response right away or none.
+* and study their resume, portfolio, and linkedin as well.
+* it’s a numbers game, which means the more you apply, the more likely you’ll get it.
+here’s the complete guide if you want to take a deeper look - [https://gamedesignskills.com/game-design/game-ux-designer/](https://gamedesignskills.com/game-design/game-ux-designer/?utm_source=organic&utm_medium=reddit)
+let me know if you have feedback or if something valuable was not covered, and i’ll share it with sam.
+
+is it me or is our industry full of snake oil salesmen and bad work expectations?
+i've got around 20 years of experience building products in various roles. 
+seems to me most ux experience jobs are less about research, and more about creating visually pleasing somewhat useable designs (based on basic psychology and design theory). so your job is more about making good looking designs that kinda work, as opposed to anything else. 
+clients rarely listen to a designers perspective, and are generally happier if you produce exactly what they ask you even if its not something that makes ux sense. 
+linkedin and other platforms are full of guru's regurgitating content, producing little in the way of real value but fattening up their wallets by being able to sell to the ux designers fears and perceived shortcomings. 
+those who actually know what they heck they are doing are too busy ensuring their jobs remain secure by working hard, and they don't really post their experience online. 
+yeah this rant doesnt have much value. i guess what i am trying to say is, i've found it much more valuable for me to be someone who can create good visuals while listening to the client, doing exactly what they say, and not really providing much creative output. it keeps my work flowing in steadily and the clients happy. also the moment i start following ux guru's advice i find myself second guessing my every decision and thinking of myself as a generally bad ux designer lacking knowledge in every department.  
+also none of the flairs apply to my post so i'm just picking one that makes the most sense.
+
+the importance of research
+https://i.redd.it/noqq8tvuc2fd1.jpeg
+
+a brief interview with nomnoml creator daniel kallin
+https://pldb.io/blog/danielkallin.html
+
+best books/guides for beginners to quantitative research for ux designers?
+hi! i am looking for suggestions for the best books/textbooks/guides (even videos) for beginners to quantitative research and quantitative data analysis. what are some of your favorite resources? thanks!
+
+mock whiteboarding exercise room
+hi, following a previous post i made here, and based on a few suggestions, i have created a discord channel purely to practice whiteboarding with other peers who are interested.   
+in a few weeks i have a whiteboarding interview coming, and i'm planning to prepare as much as i possibly can with people who share the same interest with me. i am also open to act as an interviewer and experience the other side if anyone needs that, but don't expect much from me because i only have three years of experience in the industry.  
+please feel free to join.  
+https://discord.com/invite/gv9mzmfs
+
+anyone here taken the aj & smart workshopper master course?
+i've been so interested in this for a while. i'm already facilitating (self taught) but really could do with some advanced knowledge/skill to expand and specialise as a facilitator. i'm a product designer but have been doing a lot more facilitation and teaching over the last few years.
+the course is absolutely one of the most expensive ones out there for learning facilitation, if not the most expensive. i'm certainly committed, but i'd be paying independently from my own savings, and just want to make sure that the course is a worthy investment, and worth the huge sum of money. i also understand that to continue with the additional coaching etc, i'd have to continue to pay a large sum each year.
+has anyone here taken this **aj & smart workshopper master** course? what were your thoughts? would you recommend it?
+
+horrible px size n proximity kills my confidence
+so i'm struggling to get hold of text, icon size and things like proximity, space even gap when it comes down to mobile designs.
+i wish there was a fairy out there to tell me the perfect space between an icon and text or the like a line height! i want to gain confidence and satisfaction like "oh that's the perfect of size of the heading" 
+i lack in this dept so bad 😭 searching the net drives me crazy 😧 everyone keeps on suggesting different px or advice.
+what shall i do guys? it's the main reason i don't apply for work even cause i haven't mastered it yet.
+
+warning to all: this field is saturated into complete annihilation
+applied to over 1,300 jobs in the past 18 months since graduating with a professional diploma in ux design and a professional certificate in ui design from ux design institute and have gotten only 2, yes 2, first-round interviews and no offers.
+one of those was for a completely volunteer position where they were interviewing more than 50 people for the volunteer position.
+i have completed multiple portfolio reviews, resume / cv reviews, and mock interview skill building sessions both through ux design institute and other organizations / resources. there is seemingly nothing wrong with my applications, but the field is just so so so saturated. i cannot stress that enough.
+i'm in my upper 30s and haven't even gotten interviews for the intern positions that don't require you to be enrolled in an actual university.
+responses to mid-level positions are radio-silent.
+junior positions are nearly non-existent and the ones that there are, are receiving 1,000+ applications, within the first few hours of posting, according to the job site statistics.
+unless you know someone who literally has a job waiting for you, do not try to go into this field and whatever you do, do not pay any money for a bootcamp or any course. you can find everything online. if you do insist on a non-university program, make sure it's one that has a job-find/money-back guarantee, look over the details like a lawyer, and follow it to a t. because you won't find a job, and maybe you can at least get your money back.
+anybody want to take over this username? because i am done.
+
+designer affiliates list
+i do a lot research and documentation. i put together lists of design resources for myself to refer back to.
+i am thinking of putting together a list of affiliates that would be attractive to designers in a board with details like commission rate, cookies and sign up requirements. 
+i’m doing research on what you guys think? what details would you like for me to highlight?
+if i get enough inbox messages, i’ll be happy to send a draft copy!
+
+the end of portfolio reviews?
+robert powell, a ux leader for shell, recently wrote that he won’t do portfolio reviews any longer because they are a “waste of everyone’s time”. 
+he has some really good points. i wonder how we would react to returning to a time when one would use white papers to talk through scenarios, though.
+
+are there any whiteboarding mockup groups?
+i'm trying to do one whiteboarding challenge everyday for an upcoming interview i have that is going to be a one hour onsite whiteboarding challenge. i'm using ai chatbots to evaluate my results and give me feedback, but it's not like a real person being on the other side talking to me. i was wondering if there's a community of people that would do mockup whiteboarding challenges together online?
+edit: i have created a discord channel purely for whiteboarding. pm me if you want to join the server for the link
+
+best podcast episode on ux design of 2024?
+i'm curious what has been the best podcast episode you've ever listed to on ux design or done by a designer in the last year? if there hasn't been one, what topic do you think needs to be done or discussed?
+background: i've been asked to go on a podcast and i'm trying to get inspiration. 
+appreciate any and all ideas or links!
+
+what tools, programs or services are you using to stay afloat, train or retrain if you are jobless?
+**what have you run into that's helpful out 'in the wild' of a terrible ux job market?** 
+please share your experience, or post links and value related to ux or general life support or help. and i (and potentially others) would also be interested in how easy, hard, informational you've found things you've used. 
+here's a few i've amassed or uncovered a few over the years. in general these are us-based:
+# ux training or general training
+[**linkedin learning**](https://www.linkedin.com/premium/products/?trk=trk_default_learning&upsellorderorigin=learning_member_upsell&utype=learning&upselltrk=lil_upsell_defensibility-hero_subscription&upselltrackingid=xuay9fovrtufnoey8suhjw%3d%3d&destredirecturl=https%3a%2f%2fwww%2elinkedin%2ecom%2flearning%2f%3fsrc%3dgo-pa%26trk%3dsem-ga_campid%2e20913166733_asid%2e159042219324_crid%2e702112495436_kw%2elinkedin%2520learning%2520enterprise_d%2ec_tid%2ekwd-322594029763_n%2eg_mt%2ee_geo%2e9198901%26mcid%3d7148407339128156170%26cid%3d%26gad_source%3d1%26gclid%3dcjwkcajw1920bha3eiwajt3lsqulcvdly5clud_bnyn4u0lbiekducqqmrpznysjfvo9thq_j1sy0roc5siqavd_bwe%26gclsrc%3daw%2eds%26trk%3dtrk_default_learning&_l=en_us) **(free month-$20 a month value)**
+linkedin offers a free month every year or so as a trial.
+**linkedin learning - library-assisted (totally free, ongoing value)**
+check with your county or city library system. in many cases, your library system has virtual 'seats' for library card holders to use to access linkedin learning (mine has 45 or so seats, and never have been blocked.) call them and ask about it. they love helping people find new programs. it's likely a 4 letter code that identifies your library system that you need (and better yet a bookmarkable link.)
+you can also link your current lil account. you'll just need to start on that login page specified for your county.
+**wioa or workforce investment act ($2000-5000, one time per layoff)**
+you can use this to build your skills, or jump to a new career. this is a program created by the clinton administration in 1998. it's a federal program from the us department of labor, but fulfilled at the state level. you do need to be accepting unemployment for this program, however it's not affiliated with unemployment. you can look up your state 'workforce' group. the wording can vary by state, but here's a place to start:
+[https://www.careeronestop.org/localhelp/americanjobcenters/find-american-job-centers.aspx](https://www.careeronestop.org/localhelp/americanjobcenters/find-american-job-centers.aspx)
+you might find they will push a state program or classes. mine did, but i didn't push back because i felt i was pushing it. they also may offer resume or interview classes. simply say no, if you aren't interested.
+*i was able to get a scrum master certification (2 days), product owner certification (3 days) and do pmp project management (5 days) training—about $3500 worth of classes. i had to do a good amount of paperwork and it varies by group how much and what sort of classes you can get.* 
+*\*\*\*a friend of mine in another county near me who is a developer got $5000 worth of nielsen norman group ux training via the program even though it was out-of-state. \*\*\**
+# general help
+this site [https://www.benefits.gov/](https://www.benefits.gov/) was passed onto me by a friend who purposefully stays at the poverty level and caps himself at $12k a year. most of these are income-based, so you can have stock, assets, etc but if you aren't making good money–you can apply and see what happens. and i'm not sure how the lookback period is—but i was reviewed 3-5 months of past income/work. 
+this is not tied to unemployment benefits, but they do want to know if you are or aren't on that program. and you may be eligible for more programs too. in the earlier part of the year, there was available monies for power/energy. my friend who has a farm received $3000. and that program starts in the fall after congress refunds it (annually). there's also an internet subsidized program that works similarly.
+**snap/ebt/food stamps ($300 a month)**
+[https://www.benefits.gov/benefit/361](https://www.benefits.gov/benefit/361)
+[https://www.fns.usda.gov/snap/state-directory](https://www.fns.usda.gov/snap/state-directory)
+this can vary state-to-state. i'd applied, gotten a call by a case worker, was asked about my last freelance project and gave my total for income this year. it's well under the poverty level so far. it is not affected by your assets.  it's very low for me and at the moment $0. 
+i had to mail in a form and 2-3 days later i received my temporary card loaded with june ($250)  and a few days later got july ($291) added. there can also be cash benefits as well, so apply and see. i did not get this, but don't recall why. i think it was last year's tax returns. im not sure how long snap benefits last. you also may need to reapply if there's an automatic cutoff.
+**medical assistance ($400 a month up to unlimited $?)**
+look up your state, and find the 'state care' program your state offers.
+[https://www.benefits.gov/categories/healthcare%20and%20medical%20assistance](https://www.benefits.gov/categories/healthcare%20and%20medical%20assistance)
+this is coverage for health insurance, prescriptions, eye care, dental care, and may vary by your state and your income. again this is not affected by your assets.  i was told i will have medical assistance that will cover all my copays, premiums, and any procedure i have—as well as any of my outstanding medical bills. i also applied right at the end of june, and cancelled my personal policy. i'll be getting refunded two months of premiums as well.  
+in my state, first you're put on medical assistance for two months as a temporary way to get immediate help. then i selected a provider (like blue cross) but with medical assistance paying for everything. then i get a provider policy, and anything that is not covered by their health, eye, and dental coverage will be paid by the state/medical assistance. 
+***what programs have you found helpful?*** 
+***in general, i had a stigma about doing any of these, as well as using my savings. but these programs are made exactly for situations like ours. and do consider some of these resources may be cut depending on the fall election.*** 
+***also going to a physical office for ebt is sobering as well.*** 
+***please share your details if you are comfortable or just direct people to any resources. also, dm with any questions and i'll try to help.*** 
+***additionally, if you know someone who needs help please pass this along.***
+
+top voices in product design
+i’m looking to find more “top voices” or thought leaders in product design. especially those that create digestible info and resources. the three that come to mind for me are below. who are some other people you like?
+vitaly friedman
+[linkedin](https://www.linkedin.com/in/vitalyfriedman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+filippos protogeridis
+[linkedin](https://www.linkedin.com/in/protogeridis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+zander whitehurst
+[linkedin](https://www.linkedin.com/in/zanderwhitehurst?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+figma tutorial: how to bend text along a custom path
+https://youtu.be/ywz0afnnvlc?si=j7snap653datnjfq
+
+i'm incredibly bored by chatbot ux, so i curated a list of designers, design labs, prototypes, and papers that are doing novel things with ai or llm-augmented products
+note: i created this list based on only two criteria: "i think they're neat" and "not a chatbot." i'm not affiliated with any of the groups or products mentioned here. it is also partly influenced by the research that others have done, so those blog posts and papers are also listed here. 
+[~ink & switch~](https://www.inkandswitch.com/) is a ux prototyping and research studio that prototypes novel interfaces. some notable examples include: 
+* [~muse~](https://museapp.com/) - a “canvas for thinking that helps you get clarity on things that matter.”
+* [~potluck~](https://www.inkandswitch.com/potluck/) - “dynamic documents as personal software” 
+* [~untangle~](https://www.inkandswitch.com/untangle/) - “solving problems with fuzzy constraints.” note: this is a research project, not a prototype
+* [~embark~](https://www.inkandswitch.com/embark/) - “dynamic documents for making plans”
+[~andy matuschak~](https://andymatuschak.org/) is an applied ux researcher with a portfolio of interesting projects related to learning and memory.
+* [~“how can we develop transformative tools for thought?”~](https://numinous.productions/ttft/)
+* [~orbit~](https://withorbit.com/) - “helps you deeply internalize ideas through periodic review.” see also: [~quantum country~](https://quantum.country/) utilizes a “mnemonic medium which makes it almost effortless to remember what you read,” which is an application of orbit techniques.
+[~uc san diego creativity lab~](https://creativity.ucsd.edu/ai) generates many ai- and llm-related prototypes and research papers.
+* [~sensescape~](https://dl.acm.org/doi/pdf/10.1145/3586183.3606756): enabling multilevel exploration and sensemaking with large language models
+* [~graphologue~](https://dl.acm.org/doi/pdf/10.1145/3586183.3606737): exploring large language model responses with interactive diagrams
+* [~luminate~](https://dl.acm.org/doi/10.1145/3613904.3642400): structured generation and exploration of design space with large language models for human-ai co-creation
+[~lightrail~](https://www.lightrail.ai/) ([~github repo~](https://github.com/lightrail-ai/lightrail)) is a platform for cross-app ai actions. it is developer-focused but has an interesting feature set that can pull context from apps and run actions.
+[~maggie appleton~](https://maggieappleton.com/) is a designer who explores different interfaces primarily with figma prototypes, but also with some development.
+* [~language model sketchbook~](https://maggieappleton.com/lm-sketchbook) - daemons, branches, and epi are different explorations.
+* [~eve project~](https://witheve.com/) - “programming designed for humans.” referenced in maggie’s “[~computational notebooks~](https://maggieappleton.com/computational-notebooks).” see also: [~deepnote~](https://deepnote.com/)
+* [~ambient copresence~](https://maggieappleton.com/ambient-copresence)
+[~henry lieberman~](https://web.media.mit.edu/~lieber/lieberary/letizia/aia/aia.html) at mit explores “autonomous interface agents” with several examples, including “letizia.” largely pre-llm research, but interesting nonetheless.
+* [~webwatcher~](https://www.cs.cmu.edu/afs/cs/project/theo-6/web-agent/www/project-home.html) - a “tour guide” agent for the world wide web. 
+[~generative interfaces beyond chat~](https://www.youtube.com/watch?v=rd-j3hmycqs)
+[~casual creators~](https://computationalcreativity.net/iccc2015/proceedings/10_2compton.pdf) - “defining a genre of autotelic creativity support systems.”
+[~language model uxes in 2027~](https://vishnumenon.com/lightrail/2023/09/17/ai-interfaces.html)
+[~visar: a human-ai argumentative writing assistant with visual programming and rapid draft prototyping~](https://www.youtube.com/watch?v=qmd03kffy8q)
+[~dead or alive: continuous data profiling for interactive data science~](https://www.domoritz.de/papers/2023-autoprofiler-vis.pdf)
+[~spellburst~](https://spellburstllm.github.io/)
+
+from gui to gen ai
+the article talks about the paradigm shift from gui to genai over the years and its implications on design and tech: [https://medium.muz.li/from-gui-to-gen-ai-8e1bded36fe7](https://medium.muz.li/from-gui-to-gen-ai-8e1bded36fe7)
+
+educational resources phycology of ux help?
+hello!
+i was curious if any one had recommendations of a good book, or video resource on the psychology of both flow and behavior in relation to ux for websites, and games(mobile and oc).
+basically things like, where do the most important buttons go?  why does it go there?  what creates a good experience and flow for the user?  
+there are so many resources out there i have a hard time knowing what is good vs. bad advice given that i never had schooling on the subject or boot camp.
+thanks!
+edit: sorry i had brain fart in posting it’s psychology.  early morning where i live and not sure how to change the title xd
+
+i made a video on how to build products people actually want (with a real ai example)
+i've been working in product for years, and i've noticed a common pitfall: jumping into solutions before fully understanding the problem. this is especially risky when working with ai, where it's easy to get caught up in the "cool factor" and lose sight of actual user needs.
+so, i made a video walking through my process for unpacking product opportunities. here's what you'll learn:
+1. how to create an opportunity discovery document
+2. why this extra step is crucial (especially for ai products)
+3. a real-life example using an ai-powered meditation bot
+i break down:
+* defining the problem and opportunity
+* creating job stories
+* forming hypotheses
+* setting impact metrics
+* outlining high-level solution requirements
+[`https://www.youtube.com/watch?v=nigddnbtkci&lc=ugw04ega3vydj_b-s2f4aaabag`](https://www.youtube.com/watch?v=nigddnbtkci&lc=ugw04ega3vydj_b-s2f4aaabag)
+i'd love to hear your thoughts! do you use a similar process? what other techniques have you found helpful for avoiding the "solution-first" trap?
+
+why i'm not leaving ux
+1.  i get paid which helps me buy food and a place to live plus some extras.
+2. overall it's not a monotonous job and despite some of the challenges, i enjoy it
+3. i can do this job in almost any industry and almost anywhere in the us and other countries without issue
+4. people find it to be an interesting job in conversations about career paths
+4. sometimes it's really fun
+5. i like project-based work, seeing a project end gives me a deep sense of accomplishment
+6. fellow ux designers in general are a pretty cool crowd and fun to chill with 
+7. i get to work remotely
+8. most companies that hire ux designers have pretty modern working atmospheres that are very flexible with your schedule.
+9. there's always more to learn about the job
+10. i get to be in a largely forward-thinking job that so far seems like it will be around for a long time
+
+why i’m leaving ux design
+i have 11 years of experience and am currently a senior level ux designer at a faang company. i worked at 2 fanngs most recently, smaller digital agencies, a large marketing/advertising agency and a medium size product company. this is why i am sick of being a ux designer:
+1. constantly getting unsolicited, uninformed design feedback on wip figma files from stakeholders and having to explain countless times the design process and the uxr testing we rely on to help guide ux decisions, despite having processes in place for more formal design reviews that will be more informed and productive.
+more generally, the constant feeling that everyone thinks they can do my job better than i can. 
+2. leadership offering up weak design solutions on the fly without really thinking about the user goals and journeys. 
+3. having to constantly wear multiple hats, fulfilling aspects of roles namely product management and program management due to the natural overlap with these areas, but no clear demarcation between what i’m responsible for vs them. role ambiguity to the max. 
+4. only about 10-20% of my time is spent actually designing. the rest is presenting decks and mocks for deck updates, facilitating alignment, evangelizing concepts and vision work, negotiating product scope and launch milestones, working on cross team requests, bugs, the list goes on. a lot of the work is tedious and not fulfilling. 
+5. design leaders who are so incredibly out of touch and provide useless and counter-productive feedback.
+6. lack of career upward mobility and the pressure to be more “visible” and “above and beyond” with work so that i can build a case for promo and essentially fight for it on my own, while already having roles and responsibilities that take 50-60hrs a week to fulfill. 
+7. eng constantly saying design is “blocking” but once they get the approved design specs they take their sweet time and over-scope features saying they take x% more time to build than they actually do. 
+8. product managers who don’t know how to lead teams, communicate effectively and have  an ego the size of a bus not to mention massive control issues. fun example: i had a pm who would use uxr findings as his weapon of choice when it suits his agenda, but when ux pushes for something different based on uxr results, he fights back saying it's a lower priority. honestly he really sucks working with, and is the bane of my ux existence.
+so yeah, i’m done lol. moving on and out of the role and the tech industry. super done. 
+edit #1: thank you all so much for the responses.. seriously.
+a lot of you have asked what my next plans are. to be honest, i don’t really have one. i plan to take a career break and try to heal my mental health and reassess from there. i am working through some career assessments to see what else could be a fit for me. ideally i want to do something that makes a positive impact on the world! will keep you all updated.
+
+are certificates/degrees needed?
+like a lot of people here, i’m on the job market looking for roles and trying to optimize every which way i can. i am noticing more and more that degrees/certificates in design are “requirements” for most postings. do you all get the sense that recruiters filter out candidates if they don’t have relevant education? 
+i’m currently employed but unsatisfied at my current role. have just over 5 years of experience. i know it’s a tough job market but it just feels like you’re playing the lottery with recruiters actually getting to see your resume. hence trying to leverage anything. 
+thanks!
+
+current state of the design job market
+just saw this on linked and i thought i’d share 🫠🫠
+
+design coach - thoughts
+linkedin has been flaring up with design coaches and their content is all over my feed. as an early stage designer, what would be advice from some of the sage wisdom on this group? is it necessary to have one to make a career in this field?
+
+articles about ux and frontend and how to prototype more efficiently
+i am a rapid prototyper wirting about how to build product from ux to frontend. here you can see an example of voice + screen interface but you can find a lot more. [https://bootcamp.uxdesign.cc/designing-multimodal-interfaces-voice-screen-db8e04c38d0a](https://bootcamp.uxdesign.cc/designing-multimodal-interfaces-voice-screen-db8e04c38d0a)
+https://preview.redd.it/ga5ou3xrinbd1.jpg?width=1728&format=pjpg&auto=webp&s=e9df3b010632668551c563a1e8dc9f849fbdc291
+
+any interesting stories?
+lately, all i’ve been hearing about is config. does anyone have any unique or obscure stories of how design made a significant impact? also, this does not necessarily have to be about a digital product.
+
+if jules winnfield was a ux boss and interviewing candidates
+\*\*\[interviewer (jules winnfield style) enters the room, dressed in a sharp suit, glaring at the candidate.\]\*\*
+\*\*jules:\*\* so, you’re the hotshot ux designer, huh? sit your \*ss down. we’re gonna have ourselves a little chat.
+\*\*candidate:\*\* yes, sir. i’m excited to be here.
+\*\*jules:\*\* excited? \*excited?\* did i ask if you’re excited? i don’t give a damn about your excitement. i want to know if you can design, and design well. now, tell me, what’s ux design to you?
+\*\*candidate:\*\* well, ux design is about creating user-friendly interfaces that—
+\*\*jules:\*\* hold up! did you just say user-friendly? do i look like someone who gives a f\*ck about friendly? \*\*does the user look like a b\*tch?\*\*
+\*\*candidate:\*\* no, sir!
+\*\*jules:\*\* then why you tryin’ to f\*ck them like one? ux is about making users \*happy\*, not just friendly. can you make 'em \*happy\*?
+\*\*candidate:\*\* yes, i can make them happy.
+\*\*jules:\*\* good. now, imagine a user’s got a problem. they’re clicking around, confused as hell. what do you do?
+\*\*candidate:\*\* i would—
+\*\*jules:\*\* you would what? throw a bunch of f\*ckin’ tooltips at 'em? maybe a pop-up or two? \*\*does confusion look like it needs more f\*cking pop-ups?\*\*
+\*\*candidate:\*\* no, i would streamline the process and ensure clarity.
+\*\*jules:\*\* damn right you would. streamline that sh\*t like it’s a f\*cking bullet train. and if i see one more f\*cking modal window, i’m gonna lose it. now, how do you handle feedback?
+\*\*candidate:\*\* i take feedback seriously and—
+\*\*jules:\*\* oh, you take it seriously? like a heart attack, huh? let me tell you something, feedback isn’t a suggestion; it’s the f\*cking bible. you implement that sh\*t like moses parting the red sea, got it?
+\*\*candidate:\*\* got it.
+\*\*jules:\*\* speaking of the bible, what’s your take on user personas? you got a book of personas you pray to every morning?
+\*\*candidate:\*\* i use them to guide design decisions and ensure we’re meeting user needs.
+\*\*jules:\*\* guide decisions? let me tell you something, personas are the ten commandments. if you’re designing for \*karen the tech-savvy mom\*, you better know what karen eats for breakfast. now, imagine your app is a trash fire. users are pissed. what’s your move?
+\*\*candidate:\*\* i would diagnose the problem, fix the bugs, and improve the performance.
+\*\*jules:\*\* \*\*damn right you would.\*\* and while you’re at it, you better a/b test that sh\*t till it bleeds. because if you don’t, \*\*i will find you, and i will make sure you never design another f\*cking interface in your life.\*\*
+\*\*\[interviewer stands up, still glaring.\]\*\*
+\*\*jules:\*\* you know what they call a terrible ux designer in paris?
+\*\*candidate:\*\* no, what?
+\*\*jules:\*\* \*\*le dead.\*\* 
+\*\*\[jules reaches into his briefcase and pulls out a laminated script.\]\*\*
+\*\*jules:\*\* you ever heard of ezekiel 25:17?
+\*\*jules:\*\* there’s this passage i got memorized. sorta fits the occasion. 
+\*\*\[jules leans in closer, voice dropping to a menacing whisper.\]\*\*
+\*\*jules:\*\* \*the path of the righteous designer is beset on all sides by the inequities of poor user flows and the tyranny of bad design choices. blessed is he who, in the name of clarity and usability, shepherds the users through the valley of confusion, for he is truly his brother’s keeper and the finder of lost interactions. and i will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my users. and you will know my name is the lord when i lay my design upon you.\* 
+\*\*\[candidate gulps, visibly shaken.\]\*\*
+
+this spatial ui prototype was made without code and runs natively in ar mode on iphone
+https://v.redd.it/o1zef65takbd1
+
+how much shall we charge?
+hi folks,
+my company (ux design agency with many big names as clients) is about to launch a 3-month coaching program for ux designers working in corporate, mid to senior, with the aim to elevate their skills in workshops organisation and moderation, discovery sessions, hypothesis validation strategies, and prototyping.
+the coaching will comprehend a live session per week, a one-time 1:1 session, and access to a forum, at the end there will be a certificate issued by us.
+how much would you pay for this?
+thank you!
+
+started a repository for ai-features
+hey everyone!
+as i’m doing ux freelance work and interviewing for jobs, ai related solutions/questions never fail to come up again and again. i started with an  figjam inspo board but thought i’d start tidying it up to share with others. i've always found it useful to see real-life examples, especially across industries. 
+it focuses on ai-features embedded within larger software products and can be filtered by ai capability.
+if anyone comes across any interesting ai features, lmk, i’d love to add it to both my brain and this repository.
+[https://www.uxdrivenai.com/](https://www.uxdrivenai.com/)  
+hopefully someone finds this useful :-)
+cheers
+
+how do you accidentally run for president of iceland? a digital endorsement process gone wrong due to a failure of content design
+https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e
+
+ux, ai, & content design
+i compiled a guide that will make your life easier as a ux or content designer. i would appreciate any feedback on it. 
+[https://www.figma.com/community/file/1368172166947412129/ux-ai-content-design](https://www.figma.com/community/file/1368172166947412129/ux-ai-content-design)
+
+ui materials
+hey, i’m looking for  f r e e  materials to improve my ui skills. i already know the basics but i’d like to reach advanced lvl in ui. 
+can you recommend free (or not expensive at least) materials - books, videos?
+
+7 helpful figma resources you need as a designer (jan — april 2024)
+https://medium.com/muzli-design-inspiration/7-helpful-figma-resources-you-need-as-a-designer-jan-april-2024-16bf3f75ee46
+
+is there any content for saas, complex enterprise b2b products on the internet, videos or books or content creators you know. seriously most of the ux design content i see online is either for beginners or directed towards b2c commercial apps like duolingo, instagram, tinder etc. please suggest some
+i know the basic principles of the design is more or less but i think designing for enterprise, b2b apps, complex internal tools, very large design system for web apps is very different. and i am unable to find any good resources or videos or books about people who talk about designing these kinds of products. there's saas shots, mobbin and some smaller pattern library but it doesn't really have depth and complexity. things like what are some good culture or processes to follow. if anyone knows any content creator or books or resources about these.
+
+book recommendations around the topics information design/information visualisation?
+hi everyone, 
+i am looking for good books about how to create good information visualisations. but most books i found so far are mostly focusing on presenting quantitative data. i am looking for a book on how to design all kinds of info-graphics. something that contains design principles, best practices, examples etc. kind of a bit like graphic design for ux designers, if that makes sense...?
+can anyone recommend a book like that?
+
+which ux series is your favorite?
+https://i.redd.it/hwjkk1u7awxc1.jpeg
+
+where the design jobs are: a data-based guide to who’s hiring right now—and what they’re looking for
+https://www.fastcompany.com/91073057/where-design-jobs-are-salary-city-graphic-product-brand-ux-architect
+
+saw this at waterstones and wanted to ask, is it worth it considering how fast ux/ui changes?
+https://i.redd.it/okgdg2mbvmxc1.jpeg
+
+15 essential ux design principles and practices for developers
+https://www.uxmatters.com/mt/archives/2024/04/15-essential-ux-design-principles-and-practices-for-developers.php
+
+can anyone share their experience with exponent?
+i found the exponent youtube channel when i looked up mock interviews for case study presentations, app critiques, whiteboarding etc. the videos were extremely helpful and it turns out some of the stuff they share is very similar to the whiteboarding structure they teach in the book solving product design exercises by artiom dashinsky which i'm currently reading. [exponent](https://www.tryexponent.com/) offers detailed training for people who are preparing for interviews, looking for jobs, offering referrals etc.
+&#x200b;
+i wonder if anyone has a membership. what is your experience?
+
+high level critiques of faang apps?
+i've come across a couple of youtube channels where product designers analyze and critique apps, and it's fascinating to hear their insights on screen design choices and engage in brief debates with others. 
+in some of my past jobs, we've had weekly creative meetings where we discuss articles and conduct short retrospectives, similar to the discussions on app pros and cons.
+have you discovered any resources for app critiques by ux designers or product experts? i prefer videos or shorter formats over screenshot dumps. thanks!
+
+ux discovery
+hi team!
+my biggest weakness is conducting discovery. prd breakdown, project effort scoping (t-shirt sizing), research studies, research synthesis, presenting findings, and execution plan (defining design epics and stories).
+does anyone know of an education resource focused on ux discovery?
+
+what is not talked enough about in the topic of information architecture
+i feel like it's such a big and influencial topic. especially with ai coming into the picture so the amount of data to orgenize in any structure is enormous. and yet it is kinda left behind. what have you learned in this topic that you wished you knew sooner?
+
+what’s your experience with attending figma config in-person?
+heya, i’m an australian-based designer trying to decide whether it’s worth using my training budget on config tickets. my company won’t be paying for flights or accomodation, but i already was planning to do a yosemite tour anyway around the same time.
+before i jump the gun, i’d like to hear your experiences from attending past configs and what its value is in your opinion.
+for me, i’m hoping that this would give me an idea of the tech scene in sf as i’d like to move there in 2 years time.
+cheers!
+
+recommendations for a design conferences and/or programs targeted at lead or higher ?
+budget: $8000 
+are there specific conferences targeted at lead or higher levels for ux designers? 
+alternatively- courses or programs to up level leadership skills? 
+thanks!
+
+thoughts?
+if i’m being honest? i hate this. i hate the grind 24/7 mentality. i hate the idea that just because an activity doesn’t bring you closer to a goal, it’s not worth while. and thats not necessarily on the internet. idk i can’t stand this delivery, it effectively gives me the “ick”. 
+idk i don’t believe in waking up to work and im not going to change that, and seeing the opposite is weird to me. 
+also, not using auto layout is crazy to me. its such a good tool, especially when you hand off designs to developers.
+
+creating a product design course
+hi all! a question to junior designers or those who are planning to get into product/ux design field: would you be interested in an online course, that doesn’t teach you design and ui, but focuses on what job actually implies and what methodologies, strategies and routines are involved. thanks in advance for your reply - i am thinking to share my knowledge and experience and wanted to check if it will be in demand, since i haven’t seen many courses like this :)
+
+is there a ux newsletter that is actually useful?
+i subscribed to jakob nielsen's newsletter but i am not a big fan, but i do enjoy getting ux insights and news in the form of an email.
+is there any newsletters you guys can recommend that is well written and informative?
+thanks in advance!
+
+request：invite only membership
+【 need help 】
+my dear folks, anyone knows how to find invitation only design organizations that i can apply. some of them does not accept new members, some of them do not accept fellow below 15 years working exepreicence.
+i wonder what kind of organizations can i apply to invite? thank for any hints or resources.
+
+ux design dictionary resources?
+does anyone have a good resource for what certain components are called? or a visual dictionary for components. some of my learning struggle comes from not knowing what to search when i’m trying to design specific components. for example, most of us can agree what a card is, but searching for a swipe up menu yields wildly different results. 
+looking through this sub i found uxdictionary.io which is a good start for basic ux terms. this is mostly abstract terms about research, user flows, etc with less info about actual components. 
+i’ve also searched through google’s material design library and i’ve noticed different companies/designers call components by different names. 
+tl:dr is there a visual resource for component names?
+
+what are your favorite resources for casual, continued learning?
+i’ve been working as a designer for about 4 years and i know enough to get my work done. however, i would love to continue learning best practices, new ideas, new work flow efficiencies, etc etc. i don’t think i’m in a place where i need a course or certification, but more casual learning like youtube videos to watch over lunch or a book or blog i can pick up on the weekends. does anyone have any resources or media that they could recommend? youtube channels, accounts to follow on social media, substacks or really whatever for casual consumption. tia!!
+
+great design starts with writing — sebastian stockmarr
+https://sebastianstockmarr.com/great-design-starts-with-writing
+
+design ladder resource
+does anyone have resources for a design ladder (with different levels, responsibilities, and salary requirements) that they can share?
+
+ux evolution in a meme
+https://i.redd.it/jx9b6crq73vc1.png
+
+what is the deal with the rosenfeld’s conference recordings and their subscription membership?
+so i signed up a few months ago to get the recordings of the  advancing research 2024 conference, and when i was logging in today i saw that the $500+ i paid only gives recording access for 30 days. 
+the event just happened, so i still have access, but i think that’s pretty weird and i’m a bit miffed i have to rush through watching an entire conference before my access expires. i assumed i would have access for at least a year. 
+but rosenfeld also have some kind gold subscription membership that’s supposed to give access to all past recordings.
+https://rosenfeldmedia.com/rosenfeld-workshops/gold-membership/
+except this page seems to be a placeholder, because the lead paragraph says
+&gt; general copy that says that we offer memberships–free and paid–that give you access to the wide range of content and experiences/engagement that rosenfeld media offers. (a note about the promise of our content–curation and editorial processes.)
+so even though this is the only page that explains the membership, the content is all placeholder, and the signup button doesn’t work. 
+but! the membership does exist! if you go into your rosenfeld account settings, then find the membership tab, then there’s a short credit card form to make a purchase.
+at this point i’m super confused about what’s included in the subscription, because none of their past recordings pages mention it at all:
+https://rosenfeldmedia.com/events/past-events/
+each of these past events charge $500+ to get access to recordings for 30 days, which makes no sense when their gold membership is supposed to be $20 a month for their entire conference archive?
+i am very confused what’s included in what, and sort of miffed that i don’t even know if i should feel ripped off. 
+has anyone signed up for the gold membership? what’s actually included in it? is it a handful of talks from each conference, or only conferences 2+ years ago, or only certain conferences but not all of them? i feel like none of the pricing makes sense at all.
+
+rec for continued education?
+im a ux designer with over 2 years of experience and i am currently working in a company with a very complex project. i would say the most challenging part of it is ia and just making sense of the mess. i have been looking into courses or degrees that will be worth the money and i haven’t found anything that makes me believe it is worth the money. i keep seeing people here and online saying working and books are the best bet. how does everyone feel about that? is working and books more valuable than expensive and extensive courses at institutions? does anyone have good recommendations for schools and online resources? 
+ps. the only “course” i found of any value is abby covert weekly meeting that she does for her books. and it is more of a discussion than a course.
+
+design position/role names and hierarchy
+does anyone have a resource on how to read job descriptions or it is just unorganized chaos when a job post says "staff ux designer" that depending on the company, that could be someone with 3+ years of experience and with another, they are looking for someone with 7+ years of minimum experience? or perhaps how microsoft says ux designer ii in their job posts. is there a classification structure i just need to learn or no? do i just have to click on every job description to figure out what "level" the role is?
+
+5 books for product and ux desginers
+https://preview.redd.it/ucyu11mss9sc1.png?width=1600&format=png&auto=webp&s=145dd7b5b262bd121bdca3c033a2cd572e35ad01
+hello fellow ux-ers! a couple of weeks ago i wrote about influential books that shaped my journey as a product designer. now i am excited to share 5 other idea-generating and inspiring books: 
+\- “when coffee and kale compete” by alan klement
+\- ”inspired” by marty cagan
+\- ”continuous discovery habits” by teresa torres
+\- ”product-led growth” by wes bush
+\- ”hacking growth” by sean ellis
+check out my article for more details: https://medium.com/@llsbet/product-designers-bookshelf-part-2-f0eda51f751e
+
+apple researchers develop ai that can ‘see’ and understand screen context.
+another step closer to ai’s that can “use” the software we design. soon we’ll probably think of a11y as for ai readers as well as humans.
+
+opportunities for ux designers in bitcoin and nostr
+hello fellow designers. i usually am more of an observer here in this space, but i know there is often a topic of looking for project ideas or ways to build a portfolio. i'd like to suggest some avenues of exploration into ux design, freelance work, and open-source contributions within a more niche space - but one that can be seen as applicable to many industries. this is not a request for free work. whatever your opinion of cryptocurrency may be, there are active projects in need of intuitive and collaborative designers, researchers, and developers. level up your skills, network with designers, contribute to world-changing projects, and most importantly learn along the way. i'm no expert in these areas or the links provided below, but figured i would share as i continue to explore and get involved.
+bitcoin core mobile app is a qml-based bitcoin core application that is currently in early development. the goal of this site is to document and make easily accessible various considerations and decisions that go into the design of the user interface and user experience. read more here: [https://bitcoincore.app](https://bitcoincore.app) here, contributors are gathering early feedback, testing, design tasks, and more. find ways to contribute here. [https://bitcoincore.app/contribute/](https://bitcoincore.app/contribute/)
+[stacker.news](https://stacker.news) is a reddit-like site inspired by bit devs and the bitcoin community, and yes, is a slight play against the hacker news community. from the origin story: 
+"behavior in human communities develops as a result of the incentives humans in the community are given, and existing online communities influence behavior by format, pseudo-reputation, gamification, and moderation. basically, their communities develop as a result of expression limits, rewards backed by nothing, and centralized control. my assumption with stacker news is that bitcoin fixes this by having users stake something other than pseudo-reputation, bitcoin, and earn rewards that are worth something in the external world, bitcoin." the incentive is that you can receive tips on the lightning network directly. read the full post here [https://stacker.news/story](https://stacker.news/story). 
+this is the 'design territory' over there. join up, tag yourself, and start discussions or collaborations. [https://stacker.news/\~design](https://stacker.news/~design)
+open design challenges are 'a series of competitions or project ideas to encourage the design, development, and sharing of open-source ideas and help them come to life. this means the ideas you'll share here are freely available for anyone to use, modify, and share. a great way to promote your creativity, and innovation, and foster collaboration.' read more about them here: [https://stacker.news/items/393580](https://stacker.news/items/393580)
+these challenges are hosted on stacker news, find his list here [https://stacker.news/design\_r](https://stacker.news/design_r).
+now for nostr. nostr is a simple, open protocol that enables global, decentralized, and censorship-resistant social media. remove the middlemen that are farming you for data and content. get started using nostr here [https://nostr.com/get-started](https://nostr.com/get-started) or learn more here [https://nostr.how/en/what-is-nostr](https://nostr.how/en/what-is-nostr)
+the nature of this open-source protocol and the use of clients to access the network, means there are heavy explorations into various use cases that of course come with their own design impacts on user experience. a beautiful design guide is being assembled here [https://nostrdesign.org/](https://nostrdesign.org/) and resources for learning [https://nostrdesign.org/docs/intro/](https://nostrdesign.org/docs/intro/). for clients, i prefer damus (ios) and nostrudel (in my browser), but there are many available and more clients will be in demand as use cases continue to progress.
+happy monday designers!
+&#x200b;
+
+hey guys! need some advice. been applying for a product designer job for 5 months and not even a call for an interview. i don’t know what i’m doing wrong.
+i have adjusted my resume multiple times and changed my portfolio based on others feedback. applied for at least 4 jobs per day…getting not even 1 interview. what’s going on guys, i’m desperate right now. i’m based in vancouver with 5+ years in web design and i want to specify into product design.
+
+don't you feel overwhelmed by linkedin's ux design gurus?
+i've been noticing a shift compared to 5 years ago in the ux community. i used to read a lot of articles on linkedin and medium, and i felt the tone was very open about new ideas and practices. we even shared a lot of those ideas in the agencies i was at and debated whether we should implement them or not, but there was never a moment where we shouted at others.
+**"we should do this way if not it's not ux"** 
+&gt;now, however, i see a hostile environment with posts on linkedin such as:  
+&gt;  
+&gt;"you are not getting interviews because you are not doing these 10 things..."  
+&gt;  
+&gt;"do a case study in your portfolio, or it's not ux design."  
+&gt;  
+&gt;"you are not a real ux designer if you can also make ui design."  
+&gt;  
+&gt;"if we don't measure kpis, you do not have a seat at the table."  
+&gt;  
+&gt;"if you don't use design thinking workshops, you are not a 'real' ux designer."  
+&gt;  
+&gt;"wireframes are useless; go directly to ui."
+everyone seems entitled and is gatekeeping information, it's very hostile, especially towards juniors who may think they need to do "1 million things" to do ux design when, in reality, it's much simpler than it seems. the majority of deliverables are still the same as before. 
+i feel that it's super petty and negative coming from those influencers because they just want to show off their ideas of "know-it-all," "look at all the processes i had, double diamond, blah blah." this only influences junior designers and companies who know nothing about ux design to then sell their courses, teachings, and consulting - yes because the majority don't even have skin in the game.
+but in the end, i also think it influences us indirectly because it will always question us to think "are we doing ux the right way?" after changing to 5 companies i realized it's all the same, some are more mature than others - of course, agencies are different tho because we work between designers.
+but how did such a nice and empathetic environment we had 5 years ago become filled with these people?
+is it just me who feels this way maybe? i don't know.  
+[this article explains what i'm saying](https://bootcamp.uxdesign.cc/i-am-tired-of-design-acfbb0c99380)
+
+we should ignore nn?
+would love to have a discussion about this recent medium article. i’ve not been following the personality issues with nielsen, i’m surprised to hear about it, and disappointed. i’ll have to look into it more after posting this. however, i do agree that i’m concerned that nn isn’t the trusted source i used to consider it to be, everything is behind paywalls that are, frankly, outlandishly expensive. i don’t know who the thought leaders are for ux and uxr then, if not them? 
+article link: nielsen and norman should be ignored https://rbefored.com/nielsen-and-norman-should-be-ignored-3908aca8085b
+
+forget the double diamond: use the quintuple diamond design process
+https://archive.org/details/guidetocreativea0000parn/page/n7/mode/2up
+
+generative ui and outcome-oriented design (nng)
+https://www.nngroup.com/articles/generative-ui/
+
+i suck at auto layout
+i love figma and i just never understood autolayout. i’ve tried watching a couple of tutorials but it doesn’t make sense to me. my last role i was able to just use frames other people had made and modified them. i want to be able to do it on my own. has anyone been in the same boat? if so, can you please recommend the sources that helped you? i find all the content available overwhelming and would like to know what worked for others. thank you for your help
+
+the role of micro-interactions in modern ux
+https://www.interaction-design.org/literature/article/micro-interactions-ux
+
+ev ui design
+does anyone know if there’s a website that hosts the full designs for some, or any, electric cars? i’ve watched a bunch of reviews for evs and some of them have pretty bad ux for their displays
+
+5 books a ux / product designer should read
+these books gave me valuable insights and practices during my first years as a product designer. also attaching the link with more detailed descriptions: 
+- hooked, nir eyal
+- lean startup, eric ries 
+- ux for lean startups, laura klein
+- sprint, jake knapp
+- ux strategy, jame levy
+
+2023 state of information architecture — report from the world information architecture association
+https://medium.com/worldiaday/2023-state-of-information-architecture-d3b289b86d95
+
+which books/articles improved your career for the better
+hi all, finished a medium level job not that long ago after a toxic relationship with product & development, which left it marks, so in order to improve my confidance to where it was before and for me to keep growing and improve my portfolio as well i'm looking for reading material to help with the process.
+thanks in advance
+
+the big design freak-out: a generation of design leaders grapple with their future. did business really break up with design, or did it just break up with a generation of design leadership?
+https://www.fastcompany.com/91027996/the-big-design-freak-out-a-generation-of-design-leaders-grapple-with-their-future
+
+podcasts for product designer
+recently i was looking for podcasts for product designers, where you can check the recent trends, hear the stories of other professionals, and learn much more about the design world. i would like to know what podcasts inspire you the most, and where you can find useful information.  any suggestions?
+
+a different ux design reading list
+**i'm looking for books** to make me **think in new ways** about **usability**, **empathy**, **design**, **the digital world**, **the future**, **accessibility**... anything related to ux design really. it can be non-fiction, fiction, how-to, self help... **i'd love to break away from just text book style ux books**, as long as it somehow ties back to user experience.
+i've been doing this a while and have read all the standard suggestions *(design of everyday things, don't make me think, 100 things every designer should know about people, about face, hooked, thinking fast and slow, predictably irrational)* so i'm looking for stuff that breaks beyond those classics. anything goes, as long as you can rationally tie it back to the theme of ux.
+
+virtual events - out of the box ideas
+**ask**
+what are some of the more enjoyable or unique professional events, ideally virtual, that you've participated in?
+---
+**context**
+sourcing some feedback/ideas from the community - i recently volunteered with a ui/ux group for lgbtqia+ as an event coordinator. there's lots of examples in the past of virtual panel discussions or talks from industry leaders, but not gonna lie, it's been done to death and back.
+
+what should i do as a ux designer in a new company?
+i have been a product manager for some time with an affinity to ux design since the beginning of my career as a pm. after freelancing for awhile as a ux designer, i have finally gotten a full-time job at a pretty big fintech company. i have always been stronger on the ux side of things but i feel a sense of having to prove and improve my ui design skills since i have always been a working on my own as a freelancer. 
+1. what are the actionable steps i can take to improve my ui skills asap?
+2. what do you recommend me to do as a designer in a new company to get familiar with the design practice?
+
+looking for a qualifications with no attached course, just an exam
+**what i am looking for:** a qualification which only requires taking an exam (similar to [scrum.org](https://scrum.org) qualifications). all of the courses i have taken in the ux space have involved a course with coursework/exam at the end which is time consuming if we are providing training and practice internally. 
+**why:** at my company i am considering creating our own ux design training program, this would involve learning and experience that is relevant to our company and the types of projects that new team members will actually be working on. i felt it would be more valuable than providing a generic course. however, i also felt it would be useful for team members to come out of it with a qualification for external credibility (and also for them to have on their cv if they decide to move to a new role/company). 
+probably worth noting, the internal practice projects could not be used as coursework in an external course due to security issues.
+
+looking for help to find a ux airline design consistency video
+hi all, hoping someone can help me find this video, or possibly article. i can not for the life of me remember.
+the video is about design consistency and a person talks about how an airline (i think) used asterixs in forms reverse to how they are used outside of the platform
+the moral of the story is that design consistency matters in context
+
+looking for design content creator recommendations
+i love watching videos to learn about design in my free time. i’m currently a huge fan of juxtopposed and was wondering if anyone had recommendations for others like that account.

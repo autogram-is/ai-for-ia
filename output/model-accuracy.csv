@@ -1,93 +1,93 @@
 model,technique,family,total,matches,errors,minutes,cost,accuracy
-Aya Expanse 32b,Prompt,Other,1800,622,58,72.19,,34.6
-Aya Expanse 32b,Proximity,Other,1800,320,0,44.17,,17.8
-Aya Expanse 8b,Prompt,Other,1800,482,32,17.41,,26.8
-Aya Expanse 8b,Proximity,Other,1800,247,0,11.02,,13.7
 BGE-Large,Proximity,Bert,1800,314,84,1.81,,17.4
 BGE-M3,Proximity,Bert,1800,382,0,2.00,,21.2
-ChatGPT 4 Turbo,Prompt,GPT,1800,711,121,20.97,10.78,39.5
-ChatGPT 4o,Prompt,GPT,1800,810,0,11.30,2.67,45.0
-ChatGPT 4o Mini,Prompt,GPT,1800,850,0,15.41,0.59,47.2
-Claude 3 Haiku,Prompt,Claude,1800,431,5,34.88,0.86,23.9
-Claude 3.5 Sonnet,Prompt,Claude,1800,727,2,34.08,4.29,40.4
-Deepseek v2 16b,Proximity,Other,1800,277,0,37.85,,15.4
-Deepseek v2 16b,Prompt,Other,1800,134,642,41.76,,7.4
-FireFunction v2,Prompt,Llama,1800,557,130,99.60,,30.9
-FireFunction v2,Proximity,Llama,1800,189,0,80.69,,10.5
-Gemini 1.5 Flash,Prompt,Gemini,1800,543,1,9.41,0.08,30.2
-Gemini 1.5 Flash 8b,Prompt,Gemini,1800,671,14,8.83,0.03,37.3
-Gemma 2b,Proximity,Gemma,1800,406,0,5.87,,22.6
-Gemma 2b,Prompt,Gemma,1800,232,558,10.57,,12.9
-Gemma 7b,Prompt,Gemma,1800,416,66,19.05,,23.1
-Gemma 7b,Proximity,Gemma,1800,297,0,13.35,,16.5
-Gemma2 2b,Prompt,Gemma,1800,462,102,13.85,,25.7
-Gemma2 2b,Proximity,Gemma,1800,180,0,5.35,,10.0
-Gemma2 9b,Prompt,Gemma,1800,637,68,17.13,,35.4
-Gemma2 9b,Proximity,Gemma,1800,201,0,12.24,,11.2
-Google Text-Embedding,Proximity,Gemini,1800,659,0,5.04,0.06,36.6
-GPT Text-Embedding-3 Large,Proximity,GPT,1800,562,0,11.89,0.03,31.2
-GPT Text-Embedding-3 Small,Proximity,GPT,1800,685,0,8.42,0.01,38.1
-Granite3-Dense 2b,Prompt,Granite,1800,232,965,12.47,,12.9
-Granite3-Dense 2b,Proximity,Granite,1800,111,0,5.30,,6.2
-Granite3-Dense 8b,Prompt,Granite,1800,409,175,18.78,,22.7
-Granite3-Dense 8b,Proximity,Granite,1800,203,0,12.53,,11.3
-Granite3-MOE 1b,Proximity,Granite,1800,114,0,13.50,,6.3
-Granite3-MOE 1b,Prompt,Granite,1800,27,1690,21.84,,1.5
-Granite3-MOE 3b,Prompt,Granite,1800,221,212,33.97,,12.3
-Granite3-MOE 3b,Proximity,Granite,1800,119,0,25.51,,6.6
-Hermes3 70b,Prompt,Llama,1800,624,5,113.74,,34.7
-Hermes3 70b,Proximity,Llama,1800,317,0,92.81,,17.6
-Hermes3 8b,Prompt,Llama,1800,582,6,13.84,,32.3
-Hermes3 8b,Proximity,Llama,1800,263,0,10.37,,14.6
-Llama 3.1 70b,Prompt,Llama,1800,714,4,110.38,,39.7
-Llama 3.1 70b,Proximity,Llama,1800,268,0,92.71,,14.9
-Llama 3.1 8b,Prompt,Llama,1800,600,29,13.35,,33.3
-Llama 3.1 8b,Proximity,Llama,1800,255,0,10.44,,14.2
-Llama 3.2 1b,Proximity,Llama,1800,311,0,3.30,,17.3
-Llama 3.2 1b,Prompt,Llama,1800,148,857,7.76,,8.2
-Llama 3.2 3b,Prompt,Llama,1800,416,17,7.01,,23.1
-Llama 3.2 3b,Proximity,Llama,1800,222,0,5.96,,12.3
-MiniCPM-V,Prompt,Qwen,1800,332,162,15.98,,18.4
-MiniCPM-V,Proximity,Qwen,1800,174,0,8.49,,9.7
 MiniLM,Proximity,Bert,1800,594,0,0.76,,33.0
-Mistral Nemo,Proximity,Qwen,1800,163,0,17.27,,9.1
-Mistral Small,Proximity,Qwen,1800,158,0,33.17,,8.8
 MixedBread (doc),Proximity,Bert,1800,419,0,1.57,,23.3
 MixedBread (query),Proximity,Bert,1800,586,0,1.57,,32.6
-Nemotron 70b,Proximity,Llama,1800,253,0,92.78,,14.1
-Nemotron Mini 4b,Prompt,Llama,1800,211,421,13.33,,11.7
-Nemotron Mini 4b,Proximity,Llama,1800,59,0,5.71,,3.3
 Nomic Embed Text (classify),Proximity,Bert,1800,448,0,1.09,,24.9
 Nomic Embed Text (cluster),Proximity,Bert,1800,490,0,1.08,,27.2
 Nomic Embed Text (doc),Proximity,Bert,1800,409,0,1.08,,22.7
 Nomic Embed Text (query),Proximity,Bert,1800,450,0,1.07,,25.0
 Paraphrase,Proximity,Bert,1800,481,0,1.31,,26.7
-Phi 3.5,Proximity,Other,1800,338,0,6.76,,18.8
-Phi 3.5,Prompt,Other,1800,330,97,10.30,,18.3
-Qwen 2.5 .5b,Prompt,Qwen,1800,225,213,6.16,,12.5
-Qwen 2.5 .5b,Proximity,Qwen,1800,155,0,4.10,,8.6
-Qwen 2.5 1.5b,Prompt,Qwen,1800,469,10,55.89,,26.1
-Qwen 2.5 1.5b,Proximity,Qwen,1800,283,0,43.94,,15.7
-Qwen 2.5 32b,Prompt,Qwen,1800,785,6,111.76,,43.6
-Qwen 2.5 32b,Proximity,Qwen,1800,167,6,2.17,,9.3
-Qwen 2.5 72b,Prompt,Qwen,1800,777,2,117.00,,43.2
-Qwen 2.5 7b,Prompt,Qwen,1800,762,9,13.37,,42.3
-Qwen 2.5 7b,Proximity,Qwen,1800,306,0,9.92,,17.0
-Reflection,Proximity,Llama,1800,230,0,91.69,,12.8
-Smollm 1.7b,Proximity,Llama,1800,187,0,1.48,,10.4
-Smollm 1.7b,Prompt,Llama,1800,10,1772,6.50,,0.6
-Smollm 135m,Proximity,Llama,1800,154,0,3.34,,8.6
-Smollm 135m,Prompt,Llama,1800,12,1767,8.57,,0.7
-Smollm 360m,Proximity,Llama,1800,183,0,1.44,,10.2
-Smollm 360m,Prompt,Llama,1800,5,1774,6.47,,0.3
-SmolLM2 1.7b,Prompt,Llama,1800,282,239,6.72,,15.7
-SmolLM2 1.7b,Proximity,Llama,1800,181,0,3.30,,10.1
-SmolLM2 135m,Proximity,Llama,1800,159,0,2.20,,8.8
-SmolLM2 135m,Prompt,Llama,1800,16,1729,7.71,,0.9
-SmolLM2 360m,Proximity,Llama,1800,181,0,2.24,,10.1
-SmolLM2 360m,Prompt,Llama,1800,54,1529,7.27,,3.0
 Snowflake Arctic Embed 110m,Proximity,Bert,1800,464,84,1.31,,25.8
 Snowflake Arctic Embed 22m,Proximity,Bert,1800,474,84,0.94,,26.3
 Snowflake Arctic Embed 335m,Proximity,Bert,1800,392,84,1.91,,21.8
-Solar Pro,Proximity,Other,1800,217,0,34.44,,12.1
-Solar Pro,Prompt,Other,1800,112,754,50.29,,6.2
+Aya Expanse 32b,Prompt,Command-R,1800,622,58,72.19,,34.6
+Aya Expanse 8b,Prompt,Command-R,1800,482,32,17.41,,26.8
+ChatGPT 4 Turbo,Prompt,GPT,1800,711,121,20.97,10.78,39.5
+Aya Expanse 32b,Proximity,Command-R,1800,320,0,44.17,,17.8
+ChatGPT 4o,Prompt,GPT,1800,810,0,11.30,2.67,45.0
+Aya Expanse 8b,Proximity,Command-R,1800,247,0,11.02,,13.7
+ChatGPT 4o Mini,Prompt,GPT,1800,850,0,15.41,0.59,47.2
+Claude 3 Haiku,Prompt,Claude,1800,431,5,34.88,0.86,23.9
+Google Text-Embedding,Proximity,Gemini,1800,659,0,5.04,0.06,36.6
+Gemma 2b,Proximity,Gemma,1800,406,0,5.87,,22.6
+Claude 3.5 Sonnet,Prompt,Claude,1800,727,2,34.08,4.29,40.4
+Deepseek v2 16b,Prompt,Other,1800,134,642,41.76,,7.4
+Gemma 7b,Proximity,Gemma,1800,297,0,13.35,,16.5
+FireFunction v2,Prompt,Llama,1800,557,130,99.60,,30.9
+Gemma2 2b,Proximity,Gemma,1800,180,0,5.35,,10.0
+Gemini 1.5 Flash,Prompt,Gemini,1800,543,1,9.41,0.08,30.2
+Gemma2 9b,Proximity,Gemma,1800,201,0,12.24,,11.2
+Gemini 1.5 Flash 8b,Prompt,Gemini,1800,671,14,8.83,0.03,37.3
+Gemma 2b,Prompt,Gemma,1800,232,558,10.57,,12.9
+Gemma 7b,Prompt,Gemma,1800,416,66,19.05,,23.1
+GPT Text-Embedding-3 Large,Proximity,GPT,1800,562,0,11.89,0.03,31.2
+GPT Text-Embedding-3 Small,Proximity,GPT,1800,685,0,8.42,0.01,38.1
+Gemma2 2b,Prompt,Gemma,1800,462,102,13.85,,25.7
+Granite3-Dense 2b,Proximity,Granite,1800,111,0,5.30,,6.2
+Gemma2 9b,Prompt,Gemma,1800,637,68,17.13,,35.4
+Granite3-Dense 8b,Proximity,Granite,1800,203,0,12.53,,11.3
+Granite3-MOE 1b,Proximity,Granite,1800,114,0,13.50,,6.3
+Granite3-Dense 2b,Prompt,Granite,1800,232,965,12.47,,12.9
+Granite3-Dense 8b,Prompt,Granite,1800,409,175,18.78,,22.7
+Granite3-MOE 3b,Proximity,Granite,1800,119,0,25.51,,6.6
+Granite3-MOE 1b,Prompt,Granite,1800,27,1690,21.84,,1.5
+FireFunction v2,Proximity,Llama,1800,189,0,80.69,,10.5
+Granite3-MOE 3b,Prompt,Granite,1800,221,212,33.97,,12.3
+Hermes3 70b,Proximity,Llama,1800,317,0,92.81,,17.6
+Hermes3 70b,Prompt,Llama,1800,624,5,113.74,,34.7
+Hermes3 8b,Proximity,Llama,1800,263,0,10.37,,14.6
+Hermes3 8b,Prompt,Llama,1800,582,6,13.84,,32.3
+Llama 3.1 70b,Proximity,Llama,1800,268,0,92.71,,14.9
+Llama 3.1 70b,Prompt,Llama,1800,714,4,110.38,,39.7
+Llama 3.1 8b,Proximity,Llama,1800,255,0,10.44,,14.2
+Llama 3.2 1b,Proximity,Llama,1800,311,0,3.30,,17.3
+Llama 3.1 8b,Prompt,Llama,1800,600,29,13.35,,33.3
+Llama 3.2 1b,Prompt,Llama,1800,148,857,7.76,,8.2
+Llama 3.2 3b,Proximity,Llama,1800,222,0,5.96,,12.3
+Nemotron 70b,Proximity,Llama,1800,253,0,92.78,,14.1
+Llama 3.2 3b,Prompt,Llama,1800,416,17,7.01,,23.1
+Nemotron Mini 4b,Proximity,Llama,1800,59,0,5.71,,3.3
+Reflection,Proximity,Llama,1800,230,0,91.69,,12.8
+Smollm 1.7b,Proximity,Llama,1800,187,0,1.48,,10.4
+MiniCPM-V,Prompt,Qwen,1800,332,162,15.98,,18.4
+Smollm 135m,Proximity,Llama,1800,154,0,3.34,,8.6
+Nemotron Mini 4b,Prompt,Llama,1800,211,421,13.33,,11.7
+Smollm 360m,Proximity,Llama,1800,183,0,1.44,,10.2
+Phi 3.5,Prompt,Phi,1800,330,97,10.30,,18.3
+Qwen 2.5 .5b,Prompt,Qwen,1800,225,213,6.16,,12.5
+SmolLM2 1.7b,Proximity,Llama,1800,181,0,3.30,,10.1
+SmolLM2 135m,Proximity,Llama,1800,159,0,2.20,,8.8
+Qwen 2.5 1.5b,Prompt,Qwen,1800,469,10,55.89,,26.1
+SmolLM2 360m,Proximity,Llama,1800,181,0,2.24,,10.1
+Qwen 2.5 32b,Prompt,Qwen,1800,785,6,111.76,,43.6
+Solar Pro,Proximity,Llama,1800,217,0,34.44,,12.1
+Qwen 2.5 72b,Prompt,Qwen,1800,777,2,117.00,,43.2
+Deepseek v2 16b,Proximity,Other,1800,277,0,37.85,,15.4
+Qwen 2.5 7b,Prompt,Qwen,1800,762,9,13.37,,42.3
+Phi 3.5,Proximity,Phi,1800,338,0,6.76,,18.8
+Smollm 1.7b,Prompt,Llama,1800,10,1772,6.50,,0.6
+Smollm 135m,Prompt,Llama,1800,12,1767,8.57,,0.7
+MiniCPM-V,Proximity,Qwen,1800,174,0,8.49,,9.7
+Mistral Nemo,Proximity,Qwen,1800,163,0,17.27,,9.1
+Mistral Small,Proximity,Qwen,1800,158,0,33.17,,8.8
+Smollm 360m,Prompt,Llama,1800,5,1774,6.47,,0.3
+Qwen 2.5 .5b,Proximity,Qwen,1800,155,0,4.10,,8.6
+SmolLM2 1.7b,Prompt,Llama,1800,282,239,6.72,,15.7
+Qwen 2.5 1.5b,Proximity,Qwen,1800,283,0,43.94,,15.7
+SmolLM2 135m,Prompt,Llama,1800,16,1729,7.71,,0.9
+Qwen 2.5 32b,Proximity,Qwen,1800,167,6,2.17,,9.3
+SmolLM2 360m,Prompt,Llama,1800,54,1529,7.27,,3.0
+Solar Pro,Prompt,Llama,1800,112,754,50.29,,6.2
+Qwen 2.5 7b,Proximity,Qwen,1800,306,0,9.92,,17.0

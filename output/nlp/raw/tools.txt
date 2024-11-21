@@ -1,0 +1,991 @@
+looking for design system recommendations
+i work with clients who often don't have a design system (e.g., early-stage startups), and would greatly benefit from one but have a limited budget for customization. i'm looking for a design system that i can standardize across multiple clients, customize enough that they don't all look similar, and that allows the customization to be done with minimal to no development effort (as in, a designer makes the customization and it can be directly exported). what i'm especially hoping for is a system that's extremely tokenized & semantic to a degree that allows significant visual changes purely through tokens.
+any suggestions? i've found no shortage of semantic, token-based design systems that directly connect to code (e.g., emulsify), but none yet where the tokens are extensive/versatile enough to significantly overhaul the visual appearance without fairly heavy development updates.
+
+how can i let people try our app
+hi, need some inspiration on how we can let potential users try our mobile app before subscribing.
+our app includes a voice over when text is shown on a screen (text to speech) and requires voice input to complete a task which makes some of the demo tools out there (like storylane) not suitable. 
+current idea is that we give people access to a test account in the app itself, but i'm not keen on this idea because they first need to give us an email address, then we create them an account and share it with them, and then they install the app and can try it. the whole process is laborious and we know the people wanting to try the app are very short on time and are likely to want to try the demo for 5-10 minutes. 
+so i'm looking for a quicker solution for our users and also one which factors in our app features. do you know of any solutions which might be suitable?
+thanks!
+
+chat gpt briefs
+i am wondering if i am the only one that gets annoyed seeing briefs from clients that are just blatantly copy pasted from chat gpt?
+while i understand that clients and managers have limited time and this is the fastest way for them to share tasks, is it really that much work to go through the input and make sure it actually makes sense in the context?
+i've spent time working on apps screens for the app store, actually trying to come up with content that reflects the features of the app and now the "feedback" on the designs is a chat gpt pasted screen by screen description of how each page should look, and the visuals that are mentioned don't even exist in the app!!
+i got no actual feedback on my work, just "their" new ideas, which probably means they want me to redo everything. but this is not the way constructive criticism and feedback should work. 
+i had this happen before with briefs for product design tasks and flows (from other different people and projects) that also included some unrealistic and irrelevant points, so i assume it has become a common practice. i'm curious to know if it has happened to anyone here and am i the only one annoyed by it?
+how do i politely say that they should revise the input they get before sharing it with me?
+edit: i forgot to mention that the first version was discussed with one of the stakeholders and the flow/content of the pictures was agreed upon before by the same person who now shared the chat gpt brief.
+
+using figma like flash?
+*not sure if this belongs in the case study stickies post, but i couldn't post multiple screenshots there.*  
+i had an idea to design a site where you could zoom in and out on content as a form of navigation. this would have been pretty easy in flash, but i wanted to try prototyping it in figma using my [about me site](https://abl.design) as a reference.
+getting the components and animations to scale appropriately was a definitely challenge.
+[marquee interaction](https://preview.redd.it/yw9a6igrmfod1.png?width=1265&format=png&auto=webp&s=27cccbff780204bd5822667d91b716d349283172)
+one of the most difficult interactions was getting the marquee to keep animating on hover, which should show a text masked animated gradient when doing so. in the first few attempts the mask kept breaking or the timing of the animation would be off. i finally found that i needed to have the two animation components, one of the black marquee and one of the animated gradient, in the same frame and do a component swap on hover and another with a mouse leave interaction to reset the color.
+[wires and interactions](https://preview.redd.it/13kz1g71lfod1.png?width=3842&format=png&auto=webp&s=5edc8d78d72830840db5fe62a988ce07d7c46182)
+i also wanted to allow keyboard navigation so there was a lot of turning off component interactions as components scaled or were in different parts of the site to remove unexpected interactions.
+[variables](https://preview.redd.it/3wnquvf5ofod1.png?width=1210&format=png&auto=webp&s=707c72c9da37a3d7dcd4567955c451fd54a47684)
+finally, variables made it easy to create a dark mode and even make my navigation text smart when changing modes.
+there’s some figma animation and prototype glitches because of all the scaling it has to do, but once it loads into cache, the animations are a lot smoother, although this gives me pause considering complex animations in figma slides. unfortunately the figma prototype (or at least this one) causes figma to crash and reload on mobile, so desktop only.
+the experiment: [abl.design/exp/](http://abl.design/exp/)
+i'm pretty happy with how it came out. what you think using figma to create a scaling site like this or using zoom for navigation. good ux? bad ux?  
+thanks for reading.
+
+rejected after final round and got this email
+after 2 months long interview process, they can’t even tell me which of these applies to me.. is it worth asking them for feedback? so disappointed because i thought i was close and final round was a “behavioral cultural fit” interview with the ux director. i have no other leads.
+
+ux dashboard mockup - no more bringing leadership/stakeholders into our precious tools!
+terrible ui, i know. but hear me out. 𝐈 𝐖𝐀𝐍𝐓 𝐘𝐎𝐔𝐑 𝐅𝐄𝐄𝐃𝐁𝐀𝐂𝐊!
+when i was a product manager, a lot of time was spent on "what metrics mattered" and "what does leadership care about," or worse: "teach leadership how to use a tool to see how features are coming along," and i mean a lot of time.
+teaching leadership how to use 'view only' access in my azuredevops instance? forget it.
+"hey, can you share your jira roadmap with me?" lol... what are they even looking at? eye-roll, pretend they know what you're talking about, and go about their day.
+[rough ui mockup of a ux tool to share with stakeholders.](https://preview.redd.it/ohk5ewupd2nd1.png?width=2790&format=png&auto=webp&s=72efe7611c07b410c88c369c919957b043672fda)
+this is a very rough mockup, but is there any interest in a ux/product dashboard out there? you could upload .csv's (or eventually connect to your tool/data-feed of choice) to see exactly how much time-on-task a user spends to get insight on whether or not your ux team is doing their job?
+find out how many of your users actually complete that check-out process v. abandon cart. and did the metric go up with your dev. team's last update? or did it go down?
+without having to teach anyone how to use a tool, these are the metrics that actually matter to businesses and the bottom line.
+want to protect your job? prove your solutions are making a difference. something like this could easily be self-hosted or used as a saas tool and everyone at a company could have access. there is no learning curve, no taking time out of your day, and you can see what metrics need improving, are improving, and (hopefully not) getting worse as you update ux/ui.
+anyway, i'm done ranting, but really i'm just gauging interest in a tool like this... lemme know what you think!
+thanks!
+
+would love suggestions on unorthodox platforms for creating a portfolio
+i really don't wanna use something like wix, squarespace, adobe, canva, etc.
+can someone suggest some niche but amazing platforms? i've looked at framer and it seems really good. is the free plan sufficient? 
+webflow's learning curve seems a lot at this point. any other platforms?
+
+is it okay to put "i recommend this case study" on your portfolio next to your best case study?
+i have a total of 2 major case studies and 3 minor case studies on my portfolio, is it okay to highlight one case study as the best one?
+
+google messages (texting on android)
+is it just me or did google messages used to have an option to mark all unread text messages as read? they no longer have the option and it's such a frustration. you now have to select each message thread and mark it as read, can't even hit a select all button, and then select 'mark as read'. in my opinion having a 'mark all as read' is a necessary setting in any kind of mail/text receiving application nowadays with all the spam you get. what were the uxers thinking?
+
+android/ios/ web
+hi. i’m leading a team at a start up. our initial offering was just a web app, and we’re finally getting to native app development. 
+when i first did this 10 years ago, we had a big development deck helping the devs use the native tooling and controls so that each native version of the app looked like it belonged in that ecosystem’s universe (back buttons on the header for android, etc) however, looking at modern apps, this seems to have been abandoned, mostly, and all apps endeavor to just kind of look the same cross platform.
+is this your experience too? or do you differentiate based on platforms? and what guides do you use as cheat sheets?
+
+functional prototype
+hey
+in to make a functional prototype like this (amie app ui). what is the best tool to achieve this. iknw this will be troublesome to do in figma since it’s not possible to track finger-drag events..
+
+ux app or articles good to learn or read.
+can you guys suggest me what's good to learn or read for new ui/ux trend? either it's an app, a course or any reading materials. my boss wants me to give him a documentation of what do i want to enhance in the ui/ux field. tbh, i'm not sure. i read more frontend development since it's much easier to understand and apply for ui/ux but it needs frontend tools. now, he wants me to learn a tool or something just for ui/ux. i now how to use figma and adobe xd btw, i've been using them for a very long time.
+
+invision freehand alternative?
+i haven't found any tools that match the quality of invision freehand experience for creating low-fidelity wireframes
+i'm not a fan of anyother features in invision, but its freehand is second to none..having full freedom of sketch experience and easily bump up the fidelity of idea from very low to somewhat okay level not to the high fidelity level (i don't even need higher fidelity and don't expect it from invision. highfidelity can be perfectly done in figma)
+what is the possible alternatives that could give me
+- freedom of sketch feeling
+- some basic tools that can still provide some neat shapes like basic geometries
+- sticky notes
+- lien weight changes
+- opacity changes and free hand shape drawing and option to fill it or not.
+for example, figjam snapping is ridiculous so it's really hard to draw sketch in figjam
+most of the tools are having ridiculous line snapping, which makes it very hard to draw straight lines without constraints. and no tools provide freehand shape fill.
+i highly doubt there would be anytools that could give similarly nice feeling like invision though, if any please do let me know. 
+one good news is that miro acquired invision freehand and hoping they would run the same experience as invision is currently doing. (miro knows good shit. nice job and kudos!)
+
+google’s ai “interview warmup” tool
+dropping this here in case it's of value to some folks.  google created a llm tool that asks typical interview questions and helps analyze your answers.  it's geared towards a number of roles including ux.  https://grow.google/certificates/interview-warmup/category/
+
+need suggestions
+are there any apps in your day to day life where it shows you an increase (or decrease %) in your habits or activities. for eg., myfitnesspal showing this after logging a meal “you increased your protein intake by 19% today”. it doesn’t have to be nutrition related. but any apps that shows this kind of increase/decrease data visually in a way you like?
+
+card sort tool to send out to users?
+we have a piece of software that is used mostly by our own internal staff, along with a few external clients. 
+the navigation is a mess and has been just ad-hoc bolted on to over the years and has no real rhyme or reason. 
+as such, i'd like to do some card sorting excercises. has anyone used a tool where i could send out a sortable/group-able list that an end user could sort through and send back? 
+i could just use email or a word doc but was wondering if there's something a bit more tailored to this task out there. 
+miro comes to mind as one option, but may be too complex for just a simple card sort excercise i'm asking people to take some time out of their day to do.
+
+glasses with camera for capturing experiences / interfaces
+i'm not interested in these meta glasses, but i would like a more covert way to capture using interfaces.
+for example, my grocery store's checkout is pretty much everything that could be wrong. i got my wife to pretend to be looking at her phone and capture it - but it's not that great - and having worked at a grocery store, taking photos and video in there isn't really allowed.
+there's also a local pizza place with layer upon layer of the weirdest ux, including prepaid cards and scanners, so you can pour your own beer by the ounce.
+i'd really like to calmly work through these things and videotape them in a "straight as i see it" type of way without a planned-out production.
+has anyone had any luck with any of those spy type glasses? i'd imagine there are some pretty fancy options these days. it seems like this could be interesting for user research too.
+
+desktop monitor recs?
+hi! 
+i have a macbook m3 and i’ve been doing my ux/ui work on it this whole time without a monitor. now i’m thinking i’d like to buy one to help ease the eye strain and put everything up on a bigger display\~ 
+anyone here have recommendations on what monitor i should consider buying? i definitely want to avoid the super expensive apple monitors.
+thanks!!
+
+what's your go-to for remote usability testing?
+i'm looking to expand my toolkit for moderated usability testing and would love to hear your recommendations! 
+💡what tools do you use for running remote usability tests? whether it's something well-known like uxtweak or lookback (i guess), or a hidden gem that has transformed your workflow, i’d appreciate your thoughts! 🙏
+for context, i'm uk based, working for a small start-up (small budget), user base is worldwide. i need to conduct 3-10 tests per a major feature, perhaps every 1-3 months.  
+cheers!
+
+prototyping tool
+hey guys, i’m struggling with figma prototyping limitations - i need a more detailed prototype for usability testing purposes, and i need to use micro animations. so far been using figma and finding loopholes to get the animation i’m looking for, but i’m wondering if there’s a better way? 
+had a look at protopie since it’s all over my linkedin feed - but the plugin only exports screens and individual objects but not sure how to export design system, nested components, variables, etc.
+edit:
+one of the things i need to do is have a sticky cta at the bottom that’s triggered by y axis (after you reach a certain degree, it pops up) 
+i tried to replicate this using “touch down” on a frame that users will likely touch when scrolling down. now the problem is that it’s not smooth at all, and when testing it, many users didn’t touch the frame.
+
+as an interviewee or interviewer, what is your perspective on linkedin invites after an interview?
+what do you think on either case if you've been on both sides of the fence? or just one side.
+how do you feel as an interviewer, sending or receiving an invite from an interviewee?
+as an interviewee, sending or a receiving an invite from an interviewer, how do you feel about it?
+in any scenario, i'd imagine it depends on the people, chemistry, likelihood of getting hired and all that—but generally, what is your mindset or philosophy outside of a scenario—like if you were taking a poll on reddit or if you have a perspective on linkedin and your network there.
+note: i had to pick 'flair' and the closest one i guess would be 'linkedin" as a networking tool.
+
+your experience with avp & spatial ux
+a couple of months ago, i got involved with a group of engineers, visual designers, spatial audio experts, 3d artists… and now we are experimenting with different app ideas, prototypes, and also client work, specifically for apple vision pro.
+i would love to learn / hear experience from other spatial designers / product people / uxers. 
+feels like the platform shift is about to happen, but the design comunity seems tiny at this point… so it’s hard to get feedback. 
+sounds weird and maybe pretentious… but you can’t really discuss spatial with non-spatial people. sometimes feels like that decade-old feeling: explaining mobile design to designers without a smart phone. 
+it seems to me spatial is a totally different beast, quite different from quest and mobile. what is your take on that?
+do you use it for work? how many hours / day?
+[view poll](https://www.reddit.com/poll/1f3kju1)
+
+do you use any tools outside figma for conversational design or chatbots?
+i've used both sketch and figma for layout of some basic flows. 
+i did a project that was a self-diagnosis for laptops. it was pretty simple as a utility, but it was built up over the years.
+back around 2017, i put the artboards in sort of a set of paths so i could do a flow that i understood. (a) this got more complex, and i did other flows in the same manner—but it helped the uxr and the ba understand the flow.
+the ba and i then mapped out the supporting apis (b), and that helped me understand the apis and tagged each screen where those apis would attach to knowledge bases.
+later on, i mapped out the general series of questions with themes like—device? physical issue or software? mac, pc? etc and did it more of a flowchart (c).
+i'd also worked with a repair tech who had an excel doc that was really hard to  follow as a whole document, but if i were troubleshooting i was able to walk a path.
+have you worked on any chatbots where you have more of a tool to help you visualize flows for yourself or coworkers? i likely wont need a prototype, but that would be a 'nice to have'. i was excited that i found about 6 listed in an article, however exploring them—they were now offline or purchased by tech giants.
+are there any tools you recommend? 
+(my screens are purposefully obscured but just wanted to get the point across.)
+[a](https://preview.redd.it/glydviknyeld1.png?width=807&format=png&auto=webp&s=907586777449374b243192488bcdaf24077463a6)
+[b](https://preview.redd.it/1d29llyoyeld1.png?width=544&format=png&auto=webp&s=38d4b717337ce58bb7e023cb47e1c54233693ee4)
+[c](https://preview.redd.it/hyfpytz4zeld1.png?width=250&format=png&auto=webp&s=413109583298ec775b9de5ca9c69b532c4b27c93)
+
+newbie to sketch: is mac with m1 enough?
+i'm used to use figma but has to work with sketch for one client. i'm windows user and need a cheap second mac laptop, now considering some with m1. 
+as i'm not familiar with the perfomance (issues?) would you recommend it?
+
+what are your thoughts on better ux for reading materials such as research papers?
+21m here; kinda new to the whole ux space
+been looking in to better ways for interacting with documents/research papers — than a whole stack of things like:— [google chrome, pdf reader, an ai chat website, chat-with-documents apps (lol, tired of them)]
+the problem with this set of things, for me, is—
+- there's distraction from the topic and at times one ends up going down a rabbit-hole with 100+ open tabs and unorganized "qna with the ai" 🤦🏻
+- it makes the process really demotivating and dull; i mean, sure... it is an important part of research field to go through a lot of material and derive insights and bring novelty or improve on the current work, etc. — but it feels like the process has potential of being more fulfilling than it currently is
+also it keeps me awake at nights sometimes— thinking about better ways than "chat" interfaces with ai for interaction, insights, generation, etc. (whatever ai does)
+i would love to ideate something better; whenever i have sought internet's help with this, i have always somehow found myself converging to chat-interfaces or hands-free audio based interaction systems.
+tl:dr— in your opinion, what has potential to be better ux than pdf readers [chat-with-pdf- ai's, etc], and chat interfaces for ai explaining stuff? i'm kinda inexperienced and torn on this 🥹 
+would love to hear your insights and opinions on such a tool of there were to exist.
+
+is it a good idea to share a portfolio in the form of a figma prototype in job applications?
+hi all, i am a product designer with 5 yoe, in the process of making my portfolio as i’m planning to move on to a new role sometime in the near future. i’m not looking yet but i would like to start updating my portfolio as it’s pretty dated right now. previously i’d used squarespace for hosting but it’s got really poor interactions and too many limitations. i have a lot of 3d prototypes and lots of 3d software work which have a lot of interactions. i’ve also done most of my work on iot software and wanted that to reflect in the personality of my portfolio. so i’ve started creating some interactive experiences in every section of my portfolio. 
+do you think this is an idea that will make my portfolio stand out? i would really appreciate the opinion of some hms in this group who can tell me what they think of this, what the limitations of this approach are and advantages  too (if any)
+
+anyone have any luck with linkedin messages, commenting on linkedin posts, or cold email outreach in their job search?
+i'm curious to know if any of these methods are effective or a waste of time.
+
+conditional with open overlay
+i'm facing a problem using conditional with open overlay. 
+i've got an icon and it's set to true and false.
+when i add open overlay to it (with conditional), only "true" works and when i wanna put it on "false" its not working anymore (true and false works perfectly unless i add open overlay). 
+to clear out, now we have a open overlay, and the icon that is on "false"  
+what's the problem? the false icon won't turn into "true" when click.
+the only thing that came into my mind was to add a conditional that if "icon" is on false, set it to true, but it won"t possibly happen.
+if u guys need photo or something for visualizing the situation better, let me know.
+thx for reading helping out!
+
+storybook and figma integration
+hi team!
+does anyone have experience setting up storybook and connecting it figma for a design system. 
+my dev team have never done it before so i am looking in to the whole thing and hoping to get it moving as they are pretty over worked.
+i would love and advice or experience on this.
+
+i think i’m losing it! my pdf portfolio is way too big. any advice on what i can do?
+hey everyone,
+i’ve just finished putting together my portfolio, complete with all my relevant work. however, there’s one major issue—the file size. the entire portfolio totals 152 mb, which is far too large. i need to reduce it to around 5 mb. the portfolio consists of 12 pages, and the page format is 1920 x 1080.
+i created the portfolio in figma and exported the pages as a pdf directly from there.
+does anyone have any advice on how i can significantly reduce the file size without compromising too much on quality? any help would be greatly appreciated!
+edit:  
+i finally got it!
+it was a fucking pain in the ass, but it worked out—even though it might not have been the most efficient way to do it.
+i basically rebuilt everything except my large screenshots in illustrator. all my screenshots i saved as webp. i compressed it down; doesn’t look too bad. 12 pages with interactive buttons that the user can use to navigate between my projects, all in about 3.6 mb!
+thanks so much for all the advice, everyone! y’all really gave me some great suggestions :)
+
+figma maxi but want to grow/learn new tools..ideas?
+hey fellow designers, ive used figma for years and absolutely love it, but am feeling like i’ve stalled out on continuing to grow my skillset and get better as /ux/ui/product designer. any suggestions what tools i should dig into? 
+i’ve dabbled with framer and webflow, should i go deeper with either of these? any others?
+
+figma plugin for importing/exporting variables collection from/to excel or csv?
+hello everyone, 
+i'm looking for a way to import a large number of strings in an *excel* sheet, to figma as variables. 
+basically the usecase is enabling localisation in the prototype itself, so i just need an easier way to get the strings and the translations in an excel sheet imported to figma as a variables collection with modes preferably. 
+any recommendations for a plugin that i can use to get this done? 
+tia.
+
+which tool to build your ux portfolio?
+dear fellow designers. i’m wondering which tools/builder you all use to build and maintain your online portfolio?
+i’ve since 8 years working as a ux designer i’ve only had my portfolio as a pdf. but have recently been thinking of both redesigning my portfolio and also putting it publicly online (mostly due to the hardship of finding a new job). i’m looking for something a bit more customisable than dribble and behance since my work is not very “visual” and more of a case study format. i’ve previously used squarespace ages ago , but wondering if there are better tools around?
+thanks in advance for any advice:)
+
+using a template for the portfolio site?
+curious on opinions with buying and using a framer or webflow template for my portfolio site rather than designing it from scratch.
+i’ve got 15 years of experience and run plenty of interviews to know what to put in the portfolio. i’m wrestling with the time sink to design and build something from scratch (and make it responsive, bug free, etc.) versus just finding a nice template as a jumping off point, since the portfolio is such a big barrier to start interviewing.
+does anyone have opinions on this? am i running the risk folks would notice or am i overthinking this?
+
+origami studio vs figma
+i am a bit new to ux and ui, so i have a question. what is the difference between origami studio and figma?
+
+what is your dream wireframing tool? is there a really simple wireframing app out there for beginners?
+i’m not a ux designer but i like coding. i want  to learn more design, but i find the overhead to learn figma well is quite high - but i think the prototyping feature is useful, to test things before mvp
+i’ve done one hci class- learnt about lofi prototyping and really enjoyed it because i think the sort of feedback you get on lofi prototype instead of hifidelity prototype is different. it’s more high level feedback.
+how often do most ux designers use wireframes?
+i’m of the belief that web and app development will get more and more accessible. i think eventually teachers will be making the tools for teachers etc. but i think it’s actually pretty hard for the everyday person to start designing an app.
+i want to make a tool for really really simple wireframing, jotting down layouts, and playing an interactive prototype.
+the closest i know of, is i used marvel pop where i converted ipad drawings to screens with navigations on hand drawn boxes to other ipad drawn screens. it was good enough to test the flow of an app but i think could be better.
+are there good wireframing or lofi prototyping tools i am missing? what’s your dream wireframing tool? whats good for beginners? i’ve heard of other things like balsamiq but not tried. i’ve heard people just use figma to make lofi prototypes but frankly i think if you just plonk someone with figma they will feel lost. i want to make describing ux features for everyday people with an idea more intuitive, so that they can build ideas with minimal background, send basic pre mvp versions to actual designers etc, or just a tool for someone to start learning before they move on to something more advanced like figma
+
+are there figma widgets for better prototyping and for better organisation of layers?
+or maybe theres some ai tool to help out in this?
+
+what size should my pdf portfolio be?
+hello everyone,
+i'm currently reworking my portfolio and i'm not sure what size i should make the pages. in my previous pdf portfolio, i used standard a4, but since i’ve worked a lot on websites, i'm thinking about using 1920 x 1080. however, this might drastically increase the overall file size, which could also be unfavorable.
+i would really appreciate any insights from you all.
+
+best ipad app for drafting wireframes
+hi there, i recently got an ipad pro and i want to use it to sketch wireframes using the pen.
+i used to make initial drafting on pen and paper but now i want to sketch on the ipad so i have a better overview of all the screens. which app do you recommend that is free, intuitive and simple. im also terrible at sketching so i would love that the app fixes my messy circles and squares automatically.
+thanks!
+
+after the hype: which ai tools have provided you with real added value?
+the topic that has polarized and moved the most so far this year has probably been everything to do with ai. there were certainly a lot of nonsensical tools that wanted to ride the wave of hype, but there were probably also some really helpful tools for the work of a ui/ux designer.
+now that the hype has died down a bit, i would like to use the swarm knowledge to find your go-to tool in terms of ai support.
+**which tools do you particularly remember because they were very useful in everyday life, helped you creatively or strategically or were simply very entertaining?**
+i look forward to an exchange on these topics!
+
+ui garage down?
+hey, i've noticed recently i can't access [uigarage.net](http://uigarage.net) anymore. does anyone know what's going on?
+
+instagram dying before our eyes? 🤔
+as a person who admittedly uses instagram more for messaging a lot of friends whose number i don't have or talk to often, i can't help but notice how awful the ux on instagram is becoming and how tiktok is a *vastly* superior app. 
+some things i've noticed (that are irritating as hell once i've decided to scroll again):
+1. **every 3rd post is either sponsored or suggested content.** which to me is insane, bc i'm here to see what my friends are up to and get inspiration and don't mind an ad here and there, but it literally goes: friend post, suggested content, sponsored content, friend post; and occaisionaly sponsored content back to back.
+2. **the algorithm is now extremely sensitive.** e.g. i never used to watch relationship content, i do now. literally every suggested post is relationship stuff, every single 1 not 1 non-relationship suggested post. this isn't the case on tt, it seems tt looks to throw in random tangentially related things which are actually great. let's say for example you're into interior design, instead of seeing inside people's homes, it'll show people who make custom home fixtures/furniture or interior house plants. instagram will literally just show you more and more interiors.
+3. **i thought this was a photo app?** as an amateur photographer, i can name the number of people from my city who've literally come up on instagram in it's early days (2012-2018). it was a special time. i saw friends go from selling their sneaker collection, to buying dslrs, and posting wicked shots of cityscapes daily to having big brands like adidas, pro sports teams, canon, and magazines reaching out to them. they became full time photogs and feed their families now thanks to instagram.
+4. **you can't pause reels, and the muting feature is broken.** another post in this thread mentioned muting something on ig is so hard and cumbersome for literally no reason. it's becoming an obnoxious app that when you open in public you're like fml. tiktok has a simple mute on open feature that you choose in the settings. boom, solved.
+tldr; i used to love the photo-first features of instagram, and they've slowly got rid of everything that i loved them for. i think tiktok is much better, even in their algorithim and in their user controls. instagram is becoming insufferable imho.
+thanks for coming to my ted talk. 
+edit: vastly superior was a reach.
+
+windows or ios, what to pick for ux career?
+hi redditors, i have previously used a windows desktop extensively for visual design. now, i am getting into ux space completely and continue with visual design. so, wondering what particularly changes?
+
+adobe flash experience necessary
+had a laugh about this. so much junk to weed through on linkedin jobs, like this gem i saw this morning that appears to be written in 2012. i mean, i do technically have experience with adobe flash because i am that old. it's a job description for a "ux designer" by a recruiter agency. i never apply for anything on linkedin but use it to find postings on the companies websites.
+
+is it just me or does squarespace fuckin' suuuuuuuuuuuck
+?
+
+i'm looking for a figma plugin or any plugging to recreate this effect
+the effect on this website
+[https://republi.sh/#home](https://republi.sh/#home)
+
+ux help
+i am in the process of designing the ui for my own product. i have a designer who works with figma, but when it comes to ux, i need to understand which elements should be included and which should not. how do i decide what elements should be part of the product and what should be excluded? are there any tools available that can help in choosing the right ui elements based on quantitative and qualitative research? i would also appreciate any information on principles to follow that could assist me in providing data to my designer for the app's design. since this is my first product, i want to be more involved and delegate less to specialists. although i am eager to do this myself, any help from you or the community regarding tools or other resources that could make my job easier would be incredibly helpful.
+
+seeking prototyping tool with cross-page calculations and data export capabilities -- axure or protopie?
+i've been using figma professionally for three years, and i've hit a roadblock with prototyping. my upcoming project requires creating a multi-page form that can be used both for user testing and as a concept to present to clients.
+i'm looking for a tool that allows for calculations across pages—for example, taking a value entered on page one and another on page three, and then calculating a total on page five. additionally, i need to save user inputs, ideally exporting them into excel or another format for data gathering.
+i've explored axure and protopie, searching for a platform that supports variables, functions, and data saving. however, i haven't found any documentation or plugins that offer this data-saving functionality.
+does anyone have experience with these tools? is it possible to save user inputs during testing and presentation? if not, is there another application that offers this capability?
+we've considered outsourcing the concept development to hubspot for presentation purposes, but ideally, we'd like an application that enables our ux team to iterate while saving user inputs. this would greatly streamline our development process.
+thanks for your help!
+
+looking for a tool to edit/redesign an existing site in an efficient way
+is there any platform that designers can use to redesign a webpage without importing it in another tool like figma? all website builders and tools like webflow, the whole site should be published with its environment, but is there something that can break an existing page into an editable/designable piece?
+
+ai tools for ux
+hi all, i know there have been posts about this previously, but ai tools and their current state of proficiency change so rapidly that i thought i'd like to see where people are landing currently.
+i'm a freelance ux & product consultant (generalist/designer/researcher), and have been investing my time quite a bit in getting familiar with ai tools and finding ways to speed up workflows and get input/assistance with my work as i'm often working on projects on my own. i pretty much go from blank page to full fidelity prototyping in my work, so i'm interested in all of it!
+**i'm curious to know from the community:**
+**a. what tools do you use/love and for what purpose?**
+**b. if you recently switched tools for a specific use case** (e.g. *"i just switched from chatgpt to using claude for the discovery phase of my projects* \[interview question starter docs, competitor analysis suggestions, research plans, research data synthesis, etc.\])
+(for context, i do currently use chatgpt for those purposes and others within the job, but experimenting more with claude to see about switching. i also use a combo of dall-e and stable diffusion for anything from illustrations used for persona docs, to "stock photography" images for e-commerce mockups. otterai for user interview transcription. perplexity for live web-based knowledge. that's all i can think of right now...)
+
+robust and realistic prototyping tool for designers?
+hi all! uxui designer here. a client of mine is asking for a prototype of an app that can be installed on their ceo's phone for demonstration purposes. my go-to is figma but i don't think asking the ceo to install and navigate figma will be acceptable. are there any alternatives to figma prototyping that 1) look realistic, 2) can be installed on a phone, and 3) don't require code/ development (i.e., can be built by a designer)? thanks!
+
+feedback on a small but important ui update
+i'm working on an updated version of my figma/miro plugin. the plugin offers product designers/ux researchers ai tools that helps speed up their design research process.
+one of the tools is affinity mapping/clustering. what i want to achieve is allow user to either paste from clipboard, select stickies content as input, or upload research document to run thematic analysis.
+as designers/research:
+* is there a better way to label those selections?
+* are tabs ui obvious enough?
+[qoqo.ai affinity mapping](https://preview.redd.it/y2s7w7ea0uhd1.png?width=900&format=png&auto=webp&s=1c0d15e6f977dc02d883cc88c36d781e1bbbaa23)
+
+anyone know how to remove figma library references? (taking your work with you, when you leave a company)
+hi all, this might be a bit of a sketchy question.
+my work files, i've locally saved some of them and have uploaded them to my personal figma account in effort to put some case studies together for my portfolio.
+however, the figma files reference a lot of the design libraries from my company, even when uploaded to my personal account. now, i can't open those libraries from my personal account, reads "access not permitted or whatnot". it would take a long long time to manually detach components, remove libraries, remove styles,
+i'd like to remove all references to these libraries in my personal file. anyone know how to do this, or the best way to save the work you do, to your personal figma account? if there's some kind of plugin or some like, command i could run?
+
+experts of figma: how did you learned and mastered figma? what's are the do's and don'ts to build prototype using figma?
+i am having beginner level figma knowledge and now i am challenges to make a prototype for new project. 
+i seek your help to suggest me the courses and resources for becoming expert in using figma. also help me with do's and don'ts so that i start prototyping the right way.
+
+has anyone used square online to build a site?
+i’ve moved from wordpress & squarespace over to webflow and framer for the most part, but i have a client who has to stay on square due to the way his business is setup. can anyone share some nice examples of a site built on square online? a bit concerned on its lack of customization but we’re designers and can get creative in most situations.
+
+card sorting related question: is there a way to extract all of the link text from a website?
+i want the text itself and not the link. for example, i want 'home' and not 'www.website.com/home'.
+i tried using link grabber on google chrome, but it doesn't give me the text. thanks!
+
+is it normal to windows os when working for enterprise company?
+basically i've been a mac user since the first time i started designing. i am finally moving to corporate setup and they want me to use windows.
+is it the norm to move to windows? they bought a  windows  laptop  and i am not sure if i should insist that either they'll buy a mac device or i'll just use my own mac devices.
+what are the constraints i have to keep in mind? probably most software are now not limited only for mac except sketch 😂
+
+advice for creating privacy policy?
+i'm making my personal portfolio website and want to use tools like google analytics or hotjar to optimize my content. how should i create the privacy policy? generator tools like termly seem intense for my purpose.
+
+got this mail from invision today
+https://i.redd.it/krha9ai8ztgd1.png
+
+which website builder to choose?
+i want to build a small website for client. she has no experience in webdesign and i was wondering which provider is best, so that she can do small adjustments and changes by herself later. 
+i have worked with wordpress and framer and thought about using wix, webflow or jimdo? what are your thoughts?
+
+what happened to squarespace
+i made the wrong mistake in rebuilding my portfolio site in squarespace thinking it would be faster than webflow, etc. 
+where did they go wrong? i feel like i’m in a constant collapse and expand trying to make changes, struggling with their limitations in simply making hover states for buttons and lost in like 40 different styles that are totally irrelevant. 
+anyways.
+
+worrying about using ui kits for a small team, but then the team could grow
+i was wondering if anyone has purchased either a solo license or small team license ui kit when freelance designing for your client. 
+i’m in a situation where i work directly with a founder and an engineer, so it’s a small team of 3 (and i’m the only designer). so theoretically since i would be the only one truly working with the ui kit, i could purchase a solo license. but what if down the road, the startup adds more designers and more people that may have a hand in the design file.
+i dont have that much experience as a designer, so i’m not even sure what the practice is of utilizing purchased ui kits. do startups really use ui kits starting out, or is it better to just create and build your design system from the start. the only experience i’ve had working for a client who purchased anything was an icon set (which was purchased before i came on board). any thoughts?
+
+is axure rp 14 out?
+my boss has told me to make a comparison list between figma and axure to see which one should we use more frequently within the company. however when i google i only find rp 10 instead of 14, maybe he meant 10 and said 14 by mistake. chat gpt on the other hand gives answers when i ask about 14 but i'm sceptical. 
+thank you in advance to everybody who responds
+
+has anyone moved back from penpot to figma?
+penpot has been here for a while, i see a lot of posts from people moving from figma to penpot, but how many ended up moving back to figma? what made you move back?
+
+thoughts on figma html.to.design?
+has any of you used figma's plugin html.to.design? what is the biggest value you got from it? what stage of design process do you use it at? do you use it day to day?
+
+who here uses telegram as their primary work communication tool?
+i'm curious to hear from people who use telegram as their primary communication platform for work and i'd love to hear about your experiences and how telegram fits into your daily work routine.
+
+case-study documentation challenges.
+i've been updating my portfolio for several years throughout my career and one consistent issue is always how do i showcase my process in a condensed way that would impress a recruiter / hiring manager.
+here are some of the challenges i've faced.
+1. i have a large amount of usability testing information that i sometimes struggle to condense into insights (and maybe show some raw data as well). do i focus more on metrics or observations?
+2. my user flows sometimes seem complex and convoluted which makes analyzing them a chore.
+3. i have gotten feedback that i have too many ui screens.
+4. design system documentation is always challenge. i have tokens, patterns, code-components, atomic components....so showcasing all of them would heavily extend the portfolio which a lot of recruiters don't appreciate.
+are there any templates or tools / platforms that i can use that make it simple to document my portfolio. i know that the analysis process is largely subjective (especially when they harp on the storytelling portion of the case-study), but having a framework or template could really help automate my process instead of me restarting my case-studies from scratch.
+this has a been a repeated problem in my career as i've done multiple adp sessions and each designer has their own views on what goes / shouldn't go into a portfolio.
+
+portfolio 2024
+hey lovely peeps! 
+so i used to have my portfolio done with wordpress. 
+unfortunately, it’s currently down and i would like to refresh everything with the current trends and methods. 
+what kind of portfolio building tool would you recommend? 
+framer? webflow? wordpress? 
+could you share your portfolios and creation methods? 
+thanks a million. wishing a great day for you all!
+
+anyone using read.cv for their portfolio?
+curious what kind of reactions or traction you’re getting on the job front if you are.
+
+i made my first figma plugin - tokenify - for tokens/variables
+hello, i'd like to present to you my very first figma plugin called tokenify  
+it was created based on my needs, when i found layers in some of the files that were not connected to the right collection.
+[https://www.figma.com/community/plugin/1396983967915872088/tokenify-replace-colors-with-tokens](https://www.figma.com/community/plugin/1396983967915872088/tokenify-replace-colors-with-tokens)
+how it works:
+* **fetch token collections:**
+* the plugin fetches all local variable collections (tokens) available in the figma file and presents them in a dropdown for selection.
+* **recursive token resolution:**
+* the plugin resolves token values recursively, ensuring that even nested or aliased tokens are accurately identified and utilized.
+* **scoping and application**
+* tokens can be scoped to specific properties such as frame\_fill, shape\_fill, text\_fill, stroke\_color. the plugin respects these scopes, applying tokens only to appropriate elements.
+* users can specify which properties (fills, strokes) should be considered for replacement via checkboxes.
+* **processing nodes**
+* the plugin traverses all selected nodes, including those nested within frames and groups, ensuring comprehensive coverage.
+* for each node, it determines the type (frame, shape, text) and checks if the fill, stroke, or effect colors match any tokens in the selected collection.
+* **replacement with tokens**
+* if a match is found, the corresponding color in the node is replaced with the token, ensuring that the design stays consistent with the defined color system.
+[https://www.figma.com/community/plugin/1396983967915872088/tokenify-replace-colors-with-tokens](https://www.figma.com/community/plugin/1396983967915872088/tokenify-replace-colors-with-tokens)
+i hope you enjoy it and find it helpful ;) feel free to share your comments 🫡
+
+looking for good ux copywriting tools and resources
+i’m the only senior product designer working at a small saas startup. the company values good ux design and ux research, but they don’t have a lot of resources to hire more people like ux researchers and ux writers.
+i am good at ux design and research in general; however, copywriting is my weakest skill, and english is not my first language. i currently ask chatgpt to review my microcopy a lot, to make sure the copy is concise and helps users understand how certain features work. then i pass it to the marketing team to review the copy again. but it is really time-consuming. (i could spend 2-3 hrs to create a copy for a complex feature)
+so, i was wondering if there are any good ux copywriting-focused tools i can use, or any articles that can help me gain more skill in this area?
+thanks a lot.
+
+how do you *actually* understand how to use figma to design everyday? i can't connect the dots between fig tutorials on autolayouts etc to using all that into creating designs on ideas. pretty aware of how dumb that sounds but wasted lot of time being stuck with this?
+so i've done alot of lectures learning figma on auto layouts, components, styles and interface's features. as a starter, it's a good load of info to proceed with. the problem comes after finishing all these lectures!
+i'm clueless about what's next thing to do? i'm sensing a disconnect between learning fig tool & getting comfortable with designing ideas on fig, ending up doing entire uxui, on paper ffs avoiding learning clickable prototyping altogether! it's been too long being stuck in this place, desperately want to get through whatever this hump is! its been keepin me from being able to design to my full potential
+
+guidance on picking a web builder?
+yeah there's plenty of posts about this but man... it's still really hard to narrow it down. i wanna discuss pro and cons of each with clients and potential clients, but there's like a billion. i know how to tweak a bit of html / css but i'm not the most well-versed in it. budgeting is also a major factor and these things tend to have a million options and additional stuff to consider as well. like plugins and domain costs etc. i have a bit of choice paralysis of what to look into.
+here's essentially my impressions of the different web builders:
+wordpress - the swissarmy knife option basically, has self hosting, use brix?  
+elementor - compared to wordpress, i've heard the performance isn't the best  
+hubspot - also compared to wordpress  
+woo comerce - commerce   
+squarespace - the expensive one lol  
+godaddy & weebly - do people use these?  
+wix, framer, webflow, and web .com - options that exist that don't need coding but less customizable in comparison to wordpress. idk what really seperates them apart tbh
+
+how are product videos like this are being created?
+i came across this website and there is a hero video that has a nice snappy animations on the oversized stylized mouse pointer with some motion blur. is there a screen recording software that does this oversized pointer look for you to screen record a software demo? or is it all done in figma and after effects not using the actual product? here's the reference [https://www.booth.ai/](https://www.booth.ai/)
+
+developing plugins for figma
+hello fellow designers! what figma plugins do you think are still missing and can be really useful? i am planning on developing a plugin and your insights would be very helpful!
+
+best analytics tool for tracking customisable dashboards and menu navigation in a complex product?
+hi everyone,
+i’m working with a complex product that allows users to customise their dashboards and menu navigation items. tracking user interactions and analytics in such a dynamic environment is proving to be a challenge. we currently use mixpanel, but we find it heavy to set up and instrument.
+i’m looking for recommendations on the best analytics tools for this scenario (that can handle capturing behavioural analytics across personalised dashboards and menus), as well as your experiences in making sense of analytics given such variance in setup. we interview customers and users, as well as conduct usability testing, but we want to measure post-implementation effectiveness.
+any insights or experiences with specific tools would be greatly appreciated!
+thank you!
+
+best tool for wireframes in 2024?
+what tool do most people use for wireframing these days? i’ve used whimsical in the past and i like it, but i wish it could do clickable prototypes as well. (yes they’d be lo-fi prototypes.)
+i haven’t found a great, easy-to-use wireframing kit for figma either.
+
+using confluence as a ux designer is my nemesis?
+this is a pretty niche ux complaint but here goes... anyone else who has worked on federal design contracts absolutely hate that the standards design management / documentation tool seems to be confluence? not only is it terribly ugly and from my perspective an ineffective tool for expressing design decisions and processes, but even the most diligent teams i've worked with seem to never keep up with their page management or have a consistent page set up-- perhaps unsurprisingly, making for a painful new member onboarding. it could be also that i come from a commercial background where the designers were lucky enough to use their own tools and would only be pulled into the jira and confluence world when doing refinement. does anyone else feel this way? maybe my teams are just using confluence all wrong and it's actually awesome for designers? or is this just something you have to get used to working in the fed space?
+
+ux design and ai
+hi all
+i'm a product marketer at the moment (so am somewhat familiar with the product management and design process) however i am considering pivoting into ux design.
+i'd be interested to know whether this forum thinks that the ux designer role is threatened by ai long-term? my inkling, as an outsider, is that the actual 'design' elements could be automated but the 'value' elements (i.e. the empirical/empathetic and/or strategic side) could not be easily automated, at least by ai in its current form.
+thanks for your input in advance.
+
+tools you use to manage time as a contractor/freelancer
+hi, i've always been working full time but i'm starting a part-time contractor position soon. i'm wondering what you all use to bill the company and manage time, like how do you ensure you don't go over your 20 hours per week for example.
+thank you.
+
+good device mockup sources?
+beginner designer trying to make my portfolio, and i'm looking for some sources to get some quality device mockups. i found a lot on mockupworld that i really liked, but they're pretty much all psd files, and i don't have photoshop. i looked around at a couple of the figma plugin ones, and a few other sites, but the quantity and quality of the free mockups seems to be lacking. (or maybe i'm just being picky.) i'm wondering if i should bite the bullet and buy the adobe creative suite (student plan for $20.00 a month) or just go with the selection i have from the free figma plugins/other sites.
+my only concern with the adobe route is the whole terms of service issue that they had going on recently that a lot of people were angry about. i don't know all of the details surrounding it but it seemed like a lot of people were/are done with adobe in general. any thoughts/comments or suggestions for other quality free mockup sources would be appreciated. thanks!
+
+building a highly interactive multi step form advanced prototype, possible in figma or just go to axure?
+is it possible or worth the headache to build a multi step form prototype in figma with text fields they can actually type in and have those values be saved and put on a summary/review page and functional navigation/table of contents, or is it just worth it to use another tool like axure or penpot or ??? any resources or suggestions would be loved
+
+so i just got this ad…is this even legal ?
+https://i.redd.it/4p7a291vfkdd1.jpeg
+
+i love mobbin as it helps with gathering inspiration but its darn too expensive!
+inspiration is fuel to design — for me — and mobbin has done a lot for me in that sense. but it’s getting expensive for me to keep up with and im scared i’ll eventually get to the point where i wont be able to take in that expense. what do i do?
+any cheaper but equally great alternatives out there ??
+
+anyone need help transferring invision files?
+my summer intern studied the format of invision and wrote a python app that will convert invision to svg files. i had a bunch of mockups i wanted to refer to and the python app has been a godsend. if you are in the same situation, ping me
+
+i want to know if there is any free website builders for portfolios
+i want to create my own website for my ux design portfolio, i dont know how to code is there any free websites or tools that might give a free website to publish and even a domain too if possible
+
+what ai tools are you making use of in your workflow?
+hi everyone, 
+currently working at a large tech company that contracts agile delivery teams to large enterprise organisations. i am curious to know what ai tools designers are currently making use of in real project work?
+for example i have used large learning models like chatgpt to generate realistic dummy data to populate prototypes before testing them with users. of course you cannot input any proprietary information into the open models, but curious to know what tools and processes designers on the sub are managing to streamline with ai and what tools they are using if any.
+
+request new equipment (macbook?)
+hey uxers!
+i recently joined a company based in the uk. they provide equipment to new hires who request it. so i'm wondering if should i request it or not. if i request what will they provide? windows laptop, macbook, brand new or used?
+and if i get that, will i be able to use it for personal work and keep it after leaving the company?
+do they ship internationally?
+i'd love to know and get advice from you. cheers!
+---
+edit: to be more specific about my situation: i ran an agency business besides my remote job. no intention to use the laptop for any personal data (like family documents). but rather i'll use to work on the job and my agency besides working hours.
+i was planning to buy a brand-new macbook pro but when i saw the equipment option from my company -  i got confused that should i buy my own or get one from the company (which would save me money and fulfill my both business and job work)
+
+how are the monitors on your desk laid out?
+honestly curious! my macbook is right in front of me and i have the right monitor for my chats, spotify, and secondary research. my macbook in front of me for googling everything i need to google. and my left monitor for design. but i feel a little bit uncomfortable lately. not sure if my design screen should be on my right side or right in the front. but having a large screen right in front of me feels la little blinding. 
+i think i research a lot more, so i think my front screen might need to be researching? 
+idk i'm just curious how all your desks are laid out... specifically people with multiple monitors.
+
+is there a good way to get invited to the "designer hangout" slack community?
+i was looking for some good slack communities to join, and "designer hangout" keeps coming up. it sounds like it's invite only, and their website, "https://www.designerhangout.co/" goes to a fisherman's guiding service lol. 
+if anyone has any other communities that would be good to join, i'd love to hear them too! i see that there was a post 4 years ago asking this question, but i'm imagining that a lot has changed since then. 
+thanks in advance :)
+
+carpal tunnel using figma. tips?
+i use an apple magic trackpad using figma for over a year now and have been facing an intense pain near my wrists and upper arm (called the radius i think). it’s especially hard because you need to pinch your fingers together and expand to zoom in and out constantly while working on figma. 
+has anyone faced this problem? any tips or mouse keyboard people in this community use that helps reduce this?
+
+designing for a single purpose
+despite “[do one thing well](https://bdickason.com/posts/do-one-thing-well)” being common advice for people building products, finding examples designed this way becomes difficult.
+in a bloated culture, i think the idea of [designing for a single purpose](https://productidentity.co/p/designing-for-a-single-purpose) has been forgotten. i find a refreshing novelty in products that embrace such an attitude.
+* you can only read e-books with a **kindle**.
+* there’s no app store on the [**light phone**](https://www.thelightphone.com/).
+* the [**bic pen**](https://sublime.app/card/4abeed95-jpeg) has remained untouched for almost 70 years.
+using a product that was designed for a single purpose brings back joy. it removes all the unnecessities and emphasizes an experience essence in a calmer environment, and with a real purpose.
+what's your view?
+
+how do you run an empathy map activity successfully?
+curious to hear if others here do empathy mapping in their ux roles. what you do to ensure successful outcomes, templates, apps or tools you use, etc. what kinds of things have you learned that you'd do differently in a future session? how do you pitch it to a team or leadership?
+
+just a reminder to think out loud
+this might seem obvious, but it’s something i often forget.
+i can only speak for myself, but when i’m stuck on a problem, or trying to brainstorm…i think out loud - physically speak the problems. ask your questions out loud. trying to problem-solve strictly inside your head can only get you so far. there’s something about physically speaking my problems that helps me understand them better and see things differently.
+mods - the flair is because this is a tool i suppose? lol
+
+what's in your "stack?"
+what programs/software do you use to create your deliverables? what are you creating most often?
+i'll start in the comments...
+
+any fellow figma users? i just made a plugin which made my life a lot easier, you can create designs based on columns way easier. make them all equal size or even different sizes per item. hope this will help you guys!
+https://v.redd.it/4nxgsctr62zc1
+
+figma's config conference - worth it to be in person?
+my organization isn't paying for in-person but thinking about paying to go myself. never been to this one though i've seen my fair share of conferences so i'm not 100% sure if in person and wanted to ask the community. thank you for your time.
+
+why designers have pay for their tools but, developers don’t?
+i mean adobe, figma, sketch, autodesk everyone charge a lot it’s user but, android studio, vscode or any developing tool doesn’t ask for any subscription.
+i know devs have to buy library but, also designer have to buy ui kits and other assets sts all the time.
+this feels unfair🥹
+edit 1: sooner or later both the communities pay, designer while designing developers while making their product live or maintaining their libraries.
+
+suggestions for usability testing tools for prototyping and behavior analysis
+hello all
+i am looking for different usability testing tools which i can use to test prototypes, analyze behavior, and gather actionable data.
+so far, i found [uxtweak](https://www.uxtweak.com/) which offers these features. are there other tools in the market which have similar offerings?
+
+what's the difference between kit, template and mockup
+i'm confused about the difference between these names and what is their use.
+
+looking for advice: best plugin for automatically adding products to a toy finder created/build on figma published on a shopify store?
+i'm working on a shopify website - shop and i need to create a toy finder feature. i use figma to create wireframes without restrictions. can anyone recommend a plugin that will automatically add each uploaded product for resale to the toy finder?
+
+i look for a tool for creating storyboards
+hey there, i am searching a tool for creating storyboards that have many characthers and scenes templates. i found some tools but they are terrible. 
+do you know any paid or free tool?
+
+which tool is best for xr ux design and prototyping?
+i use figma for design, which for me is enough but the main problem is prototyping. i currently do it on unity directly, but does anyone know if its good on bezi?
+
+would you accept feedback if it was from ai but is useful feedback?
+curious as it seems to be inevitable as ai keeps finding new use cases. saw [https://feedbacklabs.ai/](https://feedbacklabs.ai/) and has left me wonder. if the feedback felt like it was from a human and was valuable to me, i think i'd be open to it. expecially with how painful it can be to arrange in person sessions these days. i dont think ai replaces human feedback but could compliment the design process.
+
+mockup help.
+hi guys i really like how this final mockup looks. does anyone know how to make cool mockup like this. is it a plugin or some website.
+
+mobile app audit tools
+first post here! i'm looking for some good tools, resources, or even approaches for documenting and presenting a mobile app ux/ui audit. what has been the most successful route for you if you've done this? 
+in the past, i've used google slides and just went screen by screen each slide with annotations but i'm considering alternate approaches--possibly plugins in figma/figjam or other software? is there a way to effectively present an app audit outside of a  powerpoint format? open to any/all ideas!
+
+what are your favourite fonts right now?
+i’m tired of seeing the same ones over and over again. it would be nice to see what everyone is using at the moment!
+
+project management tool
+anyone have any recommendations for planning out sprints for a project? i have an internship this summer and my client has asked that i plan my own design sprints for her approval. this is my first time doing this so any tools or recommendations would be greatly appreciated!
+
+figma split tabs.
+finally, a split option after 5 years of asking and not charging extra for it!  
+&#x200b;
+https://preview.redd.it/io7sngg4olxc1.jpg?width=804&format=pjpg&auto=webp&s=5c7a92e1adc317843ae38422ccdbd9b4772cf348
+
+looking for external monitor recos for ux design - connect to a macbook pro
+hi all,   
+i am currently working on a 14 inch macbook pro 2023 as a ux and brand designer. i'm looking to purchase an external monitor to connect to. i'm wfh full time and just retired my 27 inch imac. 
+currently i'm debating purchasing the lg 27un880-b ultrafine monitor 27 uhd, the samsung m7 also came up during my research. 
+hoping to keep it under or around $500 cad. any suggestions or other recos are greatly appreciated.
+
+[looking for advice] new to macs and looking for good specs for ux/web design work
+so, as the title says.. i'm a ux designer and have worked on windows for my entire life, so i'm completely clueless as to what to look for when browsing for a new macbook.
+the bare minimum that i know i would need is 16gb ram (or 18 if m3) / 512 gb ssd, and preferably on the bigger screen size (for context i spend my days on figma mainly).. after that i'm out in the cold.. is there another ux designer in the house that could point me in the right direction? thanks in advance!
+
+how often do you use design tools like figma plugins/ checkers to help with accessibility?
+i am trying to incorporate some tools like color contrast, typography checkers etc. in my company to help with building an inclusive design. i wanted to understand if it's worth investing in the same.
+[view poll](https://www.reddit.com/poll/1cfqst9)
+
+is macbook air m2 any good for ui design?
+at work i use the company’s macbook pro m1, and i’m thinking to get a personal mb air m2 for side gigs. i’ve read mixed opinions online about it, but wanted to hear some opinions from people in the same industry. 
+have any tips? is it worth it, or rather just save up to get a mb pro instead?
+
+how do you build ui components?
+i think that this is probably the most annoying aspect of work for me. wireframe stage - clients don’t understand or straight up don’t want to even look at them (they think i was lazy or smth). hi-fi stage - following all the conventions (border radius, stroke thickness, auto layout offsets and spacing) gets super annoying too, especially with implementing changes. 
+so how do you do it?
+
+what accessories do y'all recommend as a ui/ux designer?
+what accessories do yall use that you'd recommend to a newbie ui/ux designer. could be literally anything from the ideal monitor, to the keyboard and many more.
+
+what do designers like in the tools/ products they use?
+i am a product manager trying to build a product for designers to use.
+what should the product have ? 
+ex: i feel designers like products that are visually appealing and intuitive to use. 
+any other to add on ?
+
+lean ux canvas form
+i'm using lean ux at my design job. it really helps bring teams together on what the business problem is and what steps may be taken to bring resolution. i made this form to fill out the lean ux canvas, will make some updates, like being able to copy or save the summary, but sharing here in case it could help anyone else. [https://joshuamichaeldavis.com/lean-ux/](https://joshuamichaeldavis.com/lean-ux/)
+
+file and project structure in product design team
+hi. i've recently been thinking about optimising the project and file structure in my product. what does the structure look like for you? i'm thinking of two options:
+**variant a:**
+project 1 - design system,  
+project 2 - design master - one file - source of truth with screens that are equivalent to the production state,  
+project 3 - product design projects - this project will collate all the projects we are working on in the design team. example: sign in - adding a new login form etc.
+**variant b:**
+project 1 - design system,  
+project 2 - design master - one file - source of truth with screens that are equivalent to production status,
+project 3 - sign in (file: sign in - adding a new login form etc )  
+project 4 - sign up  
+project 5 - my account  
+...etc
+each larger area is a separate project in which there are specific files with the tasks we are working on
+what do you think, do these approaches make sense?
+
+forced to learn figma and love it
+i was forced to use figma for the first time ever last week -  client provided an invite figma “session” and i joined.  took me about 30 min to develop a pipeline to copy and paste into illustrator (sometimes photoshop) , mainly pngs but occasionally svgs.
+i gotta say - i really like the program.  i obviously give the fact that i was able to jump right into my adobe illustrator skills.
+however i found it to be very helpful for the ui stuff i was having to build out , the elements i provided to manage/ track, and the realtime updating from client when there were changes.
+glad i picked up this new tool for my toolbox 🙏
+
+ai tools for research
+i am a ux designer focusing in niche groups. more recently i have been focused on accounting. i have interviewed a lot of accountants and i decided i wanted to see how close and ai character is to the real personas. 
+i was impressed. curious if anyone else has tried doing the same thing?
+
+personal figma subscriptions
+do many of you pay for a personal figma subscription if you also have a figma subscription via your work?
+
+i just finished my prototype and am looking for the best tool to display it on my website. i'm not particularly concerned with the icons outside of the phone in the provided example; i just need a way to showcase my high-fidelity prototype within a phone frame. thank you!
+https://v.redd.it/4u0clzq29iwc1
+
+how an ux engineer portfolio looks like?
+hey, i'm a senior frontend engineer and a part-time ux engineer. i collaborate closely with design teams to develop the design system, conduct interviews with other developers to enhance our processes, and so on.
+i'm aiming to transition my career fully towards working on design systems, dedicating my time to tasks like aiding designers with mockups and creating figma plugins.
+i've noticed that having a portfolio is a must for job postings, and i'm inclined to believe that it should resemble a designer's portfolio rather than a typical engineer's.
+how can i find examples of portfolios? i'm considering using webflow or coding it myself, but i've never actually seen a real portfolio before.
+
+could you give ux feedback on my figma plugin? i'm just a ux designer learning to code in my spare time. nothing is for sale at all.
+https://preview.redd.it/oyefxr3z39wc1.png?width=1423&format=png&auto=webp&s=9e97baf1d34f3cecf3ceb00f12f6e7ab0cb55ee8
+i previously made a beta figma plugin working like text version of selection color which i got feedback from other communities. (https://www.figma.com/community/plugin/1350009882561653229/selection-texts for those might be interested)
+my previous plugin addressed the issue of managing text properties in multi-selected elements, which often fail to display text panels or show mixed properties.(i got real frustrated by this experience over years)
+while the some said would be helpful(mostly who are in a free sketch stage), i learned that designers using predefined styles found it less useful cause they can bulk-edit texts in styles anyway. however, this important feedback indicated that even those with styles struggle with repeated process of creating, linking and unlinking texts to styles.
+in response, i am now enhancing the plugin to provide comprehensive text control over the selected area and facilitate easy linking of texts to styles.
+could you share ux feedback or opinion on if you would want this in your daily ux work🤔 thanks!
+
+components in same file vs different file
+i'm working on an application with multiple modules and hundreds of screens. the designer who worked on the file before me has created components and moved them to a different component library file in figma.
+what is the good practice here? i prefer having the components in the same file because it's a lot more easier. going to the component library file, making changes, publishing it and updating on the main file is a hassle.
+also, which of the 2 methods saves system memory? please help.
+
+best figma wireframing kit
+what is the best ux wireframing kit? what is the best free kit and what is the best paid kit?
+looking for something that will allow me to produce mocks rapidly but i haven't come across one with all of the standard components and layout patterns. with most kits there are common components missing and sometimes it takes longer to work around what is already there. 
+i'm transitioning from web development to design and right now it feeks that coding is quicker. although i might be missing some cool figma tricks.
+
+what to look for in a monitor?
+hello, i'm in the market for a monitor for ui/ux design. i've been using my [lg ultragear](https://www.amazon.com/gp/product/b07ygzl8xf/ref=ppx_yo_dt_b_search_asin_title?ie=utf8&th=1) so far, but this was a monitor i got for gaming a couple of years back and i don't really know if it's suited for ui design. 
+just to be clear, while recommendations are appreciated, i'm not asking just for that. i'm asking about **what i should be looking for** in a monitor. what specs matter and why? i don't really know much about things regarding 4k, oled, etc. it's all pretty foreign, and while i have done some research into specific questions, i'm not entirely sure i understand what actually provides value in a ui/ux design context and why. i think my only strong need is a usb c connection just for practicality purposes but i'd love to hear your thoughts. thanks.
+
+voiceai as a feedback/research tool for ux designers? what do you think?
+this is a question for people here that want to/ do a lot of user interviews.
+i'm building a voice ai chatbot to get responses to forms, it'll be a real time voice chatbot similar to the demo here \[not affiliated with them in any way btw\] [https://vapi.ai/](https://vapi.ai/)
+this tool would create voice ai agents that people can talk to for filling out research/ feedback forms (they can talk to the ai through the browser or a phonecall).
+i'd love to get your thoughts on whether this is something you'd find useful and actually use a lot. some benefits i see are:
+* increased accessibility for participants with disabilities
+* higher completion rates as process of filling this form is less tedious
+* potential to get qualitative insights at scale
+thoughts?
+
+thinking to buy a subscription of one of those ui inspiration library. which library is really good and worth the money ?
+fyi i mainly work on saas application for desktop screen sizes
+
+some great ux w/ ring and fire stick
+https://i.redd.it/gzq6ltbkqxuc1.jpeg
+
+best route for learning webflow?
+hey all - need to redo my portfolio. not great with coding but it seems like webflow is the lowest barrier of entry to do some nicer custom stuff for my site without jumping into something like framer. was wondering if the figma to webflow plugin is a better route or should i just go straight into webflow? thanks.
+
+serious question: has anyone used the ai tools to job search and found them useful?
+i am just curious. are there any tools that claim to be ai job search tools (like resume .io, careerflow. ai etc) that were helpful in the process of looking for a job? if so, which ones? how were they helpful?
+
+what are your favourite ux tools?
+could be anything at all ranging from tools like google analytics, balsamiq, ux cam, kickstarter website, miro etc,. why do you like it or how has it helped you? 
+people are increasingly using tools these days to enhance their ux design processes. let’s help each other out!
+
+please, please learn auto layout (figma)
+i grade standardized video challenges for the role of ux/ui designer and the amount of senior candidates i see struggling with alignment and spacing is too damn high. need to add a new element? yeah let's waste an extra couple minutes rearranging everything again, and good luck not missing something until the end. if you're struggling to get hired at roles that require you to use figma and you don't master auto layout yet, that's on you. please catch up.
+
+best figma learning material ?
+what are some good free learning material for figma ?
+and whats the best way to learn figma ??
+
+hume ai (ai with emotional intelligence)
+hey guys, just a few days since i came across the latest ai tool called hume.ai. it can understand human emotion. what are your views about its impact on the design industry?
+
+using axure rp 10
+i am new to the industry and i am wondering how popular axure rp is? or if anyone is currently using this software if they had any tips/tricks? 
+&#x200b;
+&#x200b;
+
+is there a way to incorporate a working figma prototype into any website?
+something that users can interact with on a website but do not have build or code every interaction.
+
+work machine question
+i’m in the us and recently accepted a job offer at a new company. i haven’t started just yet, but i’ve received their work machine. it’s a basic “business” windows machine. everything is plastic, and the screen is cheap, and not sharp or color accurate.
+i’m debating requesting a better machine, or at the least a decent color accurate display. thoughts? am i just being spoiled?
+i ask in part because i’ve always been given a macbook pro or an equivalent windows machine so this feels a bit odd.
+
+i need to master sketch for my new job. do you have any great resources i can reference?
+i know how this community feels about sketch, and so be it… but the new job is an awesome opportunity so i’ll flex and learn the tool.
+yeah, i’m getting caught up on keyboard shortcuts and the app-specific vocab, but i’ll get used to it. however, i’m finding it difficult to find resources for the “intermediate”-ish learning level. this isn’t my first rodeo, but it is my first full-time sketch job and i’d like to get up to speed as quickly as possible. 
+can you recommend any good resources, tutorials, etc.? a lot of what i find is out of date due to sketch being less popular than the competition. 
+anyone out there? tia!
+
+is there an app that lets me doodle ui elements?
+sorry english isn't my first language but say "doodle" because want to doodle card ideas or app screen ideas using fixed shapes. as in i don't want to free-hand it but rather drop rectangles or squares on a screen and just come up with ul elements on the fly for later reference when do actual work on figma.
+don't know if i'm explaining it right but that's what i'm looking for.
+
+how to handle translations/ multilingual?
+cross-posting from other sub.   
+does someone has a good way to handle translations. atm we duplicate the screen and replace the copy with another language. but then it gets annoying if there are ui or ux changes to be made you have to you trough all of the screens. also this happens by leaving translation in comments everywhere and me needing to replace it. any better way to handle this? some figma plugins to recommend?
+
+figma library for creating component library
+is there a figma plugin for creating component library from existing design. unfortunately dint create an atomic structure or library while designing. if there was a plugin for creating library of components   that would  great in an existing figma file.
+
+frames in figma: best practices
+hi guys, 
+i’m working as the only ux designer in a startup and have had some wilde discussion with our freelance ui. the issue is that he absolutely refuses to use frames, while i am using them a lot. he says frames into frames look very unprofessional and that we should only use groups. i am relatively new into the field (1 year experience) so i start to doubt my methodology. what are your thoughts on this? how do you proceed with frames vs groups?
+the problem is that we don’t get a nice visual with structured alignments, and i find every modification long and difficult to manage.
+
+penpot v2 released -open source figma alternative
+https://penpot.app/
+
+a tool for identifying all colours used on a page
+hey all. i’m doing a ui audit on our product (probably about 150 screens), and i want to know if there’s a tool that can analyse each screen to identify all the colours used. 
+ideally, but not a deal-breaker, it would also let me identify where any unexpected colours actually appear, as well as listing each of the hex codes. 
+i’d imagine this would be a browser plugin, but i haven’t come across anything that gives me all the colours used, rather than just the colour of a specific pixel. 
+i’m not so concerned about ending up with a list that includes every change in a gradient, as we don’t use gradients much, and i can override any that we do have.
+
+should i start using chatgpt4 as a designer?
+what are the things that will open up for me if i do? can you share with me a few things you have used chatgpt for, and share anecdotes please? do you suggest i take mid-journey or any other ai image generation tool instead? 
+(i have never used any of them before)
+
+psa: uxfolio refunds yearly subscribers a year, but monthly subscribers receive only a single month for the recent outage. you have to write to them if you want more.
+i've been a monthly subscriber for 1+ year now, and by insisting, i got four months back. 1 as cash, 3 as credits on the platform. (it's still less than a year, but that was the max i could get.)
+
+is uxfolio down once again ?
+can’t even access the website now
+
+[inspo] made a mini map for my figma canvas
+made a fun concept but i struggle in finding my sections all the time! figma needs a mini map built internally. i guess someone had made a plugin for this? guess it was rasmus (inter font creator)
+
+specific ai tools in product development
+looking for any tools beyond the usual suspects y’all are using in your daily work, or even once in a while, that i can check out. 
+in short, i’m quite familiar with using chatgpt and writing accurate or useful prompts, and also comfortable with midjourney. but doing my share of searches just comes up with generic “ai can do this and that” without specifically calling out what tool or service actually does it. 
+among the workflows or problems i could imagine folks mentioning:
+* tools to build presentations
+* other image-enhancing or video-enhancing tools 
+* ux research synthesis or transcription tools 
+* even low/no-code tools to build light prototypes for quick feedback
+thanks for naming names and sharing links. can’t wait to check some of these out.
+
+[inspo] created these bouncy notification stickers yesterday
+[notification stickers](https://reddit.com/link/1bx8om7/video/0v0ezizz9usc1/player)
+created this bouncy sticker notifications as a part of learning prototyping. these can easily be made using protopie, principal or play and the output can be swiftui code.
+
+issue with formatting linked elements/components in a breakpoint in framer
+hi, i am really struggling with the sizing of the linked images in my ‘phone’ and ‘tablet’ breakpoint. any help would be highly appreciated🙏
+in the primary desktop view, i am able to edit and link ( i.e the 3 dots that appear on the end of the frame) various images.
+on my phone/tablet breakpoint, the frame is linked with the same set of images hence if i resize those, it will change in the desktop as well which i do not want.
+a) i am not getting the option of editing/sizing/adding/subtracting these images via my phone/tablet breakpoint.
+b) i tried changing each picture to a component so that i could create variants but that does not work since its still linked to the same component.
+c) if i copy paste the images again, resize them and try to link it to the phone breakpoint, in place of the overridden ones- they do not give me an option of the 3 dots. attached picture for reference. (inefficient method)
+i have a lot of images linked to the desktop and doing it all over again to phone and to tablet breakpoints individually sounds inefficient and not a long term solution.
+please advice.  
+https://preview.redd.it/bocf5ykiossc1.png?width=1063&format=png&auto=webp&s=d436fb972ecc23496be0044f68ed09ca65400968
+
+balsamiq alternatives in miro?
+i'm old-skool so i like making wireframes in balsamiq because you can quickly put ideas together in low-fidelity. however miro is obviously better for collaboration & group editing. the built-in miro wireframing tool outlives its usefulness in about 5 minutes for me. anyone have a viable alternative or a miro template?
+
+protopie is great tool but run by certified dickheads
+here's the link to the ongoing issue: [https://community.protopie.io/c/bugs/urgent-feedback-forced-update-has-changed-plan-limitations](https://community.protopie.io/c/bugs/urgent-feedback-forced-update-has-changed-plan-limitations)
+for those who have been following the recent update, they basically downgraded anyone with a valid student or individual plan to a basic plan without any prior notice. 
+this resulted in limited storage, the number of prototypes allowed to be saved, and so on, causing a lot of people to either lose their work or be forced to purchase a plan at 6 times the price of what they legitimately had, or face backlash from clients due to this sudden change.
+furthermore, the lack of proper support and mitigation only adds to the frustration, which clearly indicates that it was a deliberate move by the company to quickly gain some quick cash, which has backfired.
+even those with a valid student plan, that granted free pro plan status, were downgraded out of the blue.
+for those who recently applied, as the site clearly states that submitting a valid student id would grant pro plan status for one year, they received a reply saying that a "teacher" needs to apply on behalf of the "class".
+it made no sense for my cousins case, as he's getting an engineering degree and their uni has not adopted protopie or provides a course in it (like many other unis)
+it then says which you have to read with a straight face..that you have **"unlimited access to our free plan which allows you to use protopie with certain limits."** 
+sure!
+this isn't the first time the company has caused issues. a few years ago, a new update left windows users struggling with performance issues, which the company left unattended as it was not a "priority", and later, they significantly raised subscription prices by 6 times what it previously was.
+they recently announced a new plan for 25usd which had this title "you spoke and we heard"  
+forgot to mention that it was delayed by 2.5 years.
+
+uxfolio images are blurry
+i have exported the images from figma 2x, it exceeds the minimum suggested resolutions, but after uploaded to uxfolio, the image is blurry. i click on the image and even enlarged, it's blurry. 
+i know other folks that are experiencing this too. anyone know how to fix this? i tried searching uxfolio's help/support, but it's just recommending i do what i have already tried.
+
+any tools to create such a process flow?
+hi guys. i see these type of posts on linkedin. these are slightly animated - mostly dotted lines are blinking etc. can someone help me with how these are usually created? thanks in advance.
+
+price gouging - looking for alternative options
+today protopie forced an update of their software to fix alleged bug issues. what was not advised or mentioned prior to the forced update is that it would automatically change the payment tier of many customers while removing features they had prior to the update and paywalling them behind the more expensive tier.
+note, as of yet no one is grandfathered in. people who had the ability to save pies remotely have had this feature stripped and moved to the pro plan (which cost more monthly than the adobe suite). 
+looking for alternative options that would allow me to build and test apps on devices (cell phones, tablets, ipads) that works on and off line. any recommendations would be appreciated. 
+note: figma unfortunately does not meet the needs of testing the apps. also will be posting to r/ask and r/protopie
+
+i love what reddit is doing with the platform
+i've seen some hate around the new ui. i love it. i think reddit has been notorious for containing antiquated components, but i do see them slowly evolving their designs throughout the platform and that makes me really happy. 
+one specific feature i'm liking on desktop is having the recent posts on the right column. the right or third column is typically used for tertiary actions and information. being able to utilize that space for posts that i've looked at recently shows me that they are considering my tendency as a user to want to refer back to those posts (even when i didn't comment, save, or upvote it). 
+interestingly, i feel like upvotes, saves or comments were used as a means to refer back to the posts. and i also feel like they'd want these to be higher on average - so implementing this must have some repercussions in terms of conflicting metrics. 
+i think they are making bets, and are starting to think outside of the box and i'm here for it!
+
+uxfolio still down
+anyone heard any updates on this? i’m gonna probably have to work on moving my portfolio over to nolio today since i have a deadline for applications in the program i’m in, i tried to hold off (should’ve just done it over the past weekend) to see if uxfolio was going to get fixed by today but i can’t afford to lose any more time. 
+this just sucks. shout out to everyone else on uxfolio dealing with this right now. i’m sure a few of the rejection emails for jobs i’ve gotten in the last few days were probably partially due to my portfolio being all messed up on uxfolio.
+
+want to learn more/do more ui animation? should i start by learning ae first?
+as much as i love figma, i would like to do more with animations. i know everyone says ae is good for animation but i also heard that framer and lottie are good too. anyone advice on which one is best for me to start learning?
+
+ui/ux template hub?
+i'm working on a small web app concept to help people learn.
+i'd like to view some ui/ux templates to get a sense of what i like / dislike. what is your preferred platform that provide this sort of thing?
+&#x200b;
+
+figma plug-ins that you have pinned/ saved for frequent use. drop pics:
+https://i.redd.it/0dad271n8irc1.jpeg
+
+uxfolio down!
+opened my portfolio to prep for my interview to see that none of my images are loading, checked other uxfolio hosted sites and same. just got this email from them for anyone wondering why their portfolio won't load:
+
+learning to love the terminal as a designer
+as a designer, i spend a surprising amount of time in the terminal! i lean more technical and incorporate a lot of code into my design and prototyping workflow (also currently working on a developer tool product). i'm curious on what sorts of things you all do in the terminal and what command line tools you use in your design work.
+as for me, git and neovim are a big part of how i create prototypes and contribute to our codebase. i also use grep/ripgrep a ton when looking for stuff in our repository.
+i wrote up this short post to showcase some of the things that i use the terminal for in my day to day: [https://www.alexchantastic.com/designers-guide-to-the-terminal](https://www.alexchantastic.com/designers-guide-to-the-terminal)
+i'm hoping that something here inspires a designer who is looking to become more technical to begin to leverage some of the tools available in the command line.
+
+figma auto layout
+hi all, i am looking for some real world experience with auto layout. i am still learning how to use it, and i understand it can help with things prototyping for different devices. but what situations have you found it helpful in your day to day work?
+update: i now see the value of auto layout - thank you everyone :)
+
+figma plugins for repetitive tasks
+hey everyone! i'm curious about the figma plugins you rely on to automate those repetitive parts of your design workflow. which ones do you find yourselves returning to, and what makes them stand out?
+
+customer flow mapped on layout
+i don't know if this is the right place to ask, please send me onward if you know a more fitting subreddit!
+i am looking for a free tool that doesn't need much training where i can easily map the customer flow in my store. 
+i want to be able to draw or import the layout of my store and then draw lines to indicate physical customer pathing. i will manually input each customer's path and based on that i want the tool to create a heat map of which areas are most and least visited. 
+i need this to make a case for a change of layout. hope you can help me out!
+
+being a ux designer with adhd
+my academic background was in industrial design which involved more 3d visualization. i hardly remember reading any books or articles during my curriculum.  
+i switched to ux in 2020 due to lack of id projects in the consultancy firm i work for.  there was a requirement for a ux designer and i started working on the projects on the go and most of my learning has been hands on.  
+what've realized is ux as a field demands a lot of reading. it deals a lot with working on small chunks in a huge project and sometimes, it gets overwhelming due to presence of a huge number of chunks.  
+i struggle to read a single line without read it twice or thrice and i've seen this affecting my work, my upskilling and i hence end up spending lot more time on the projects than i'm supposed to.  
+information overload puts me down instantly and this has wrecked my confidence and my capability to learn things quickly.  
+so folks with adhd, how are you able to manage reading and upskilling in this field? how do you learn to deal with information overload and hence complete all the tasks on time?
+
+scrollytelling — what is the best tool for prototyping this kind of websites?
+[https://metaverse.neyroo.de/](https://metaverse.neyroo.de/)   
+i want to create something like this, if a bit simpler, but it needs to change on scroll.   
+like - you scroll, things get bigger, move around, some video triggers...  
+i usually work in figma, but it famously lacks "on scroll" trigger, so it will be a pain in the butt to try and make it, maybe "after delay" could work in a pinch...
+do you know other tools that work like figma, but have "on scroll" feature?  
+and general advice would be appreciated, never done this type of websites.
+
+penpot 2.0: early access
+https://community.penpot.app/t/early-access-unlocked-explore-penpot-2-0-today/4716
+
+opinions on trackpad in design workflow—figma
+hello! in terms designing in figma, always zooming in and out of a design, i find it really inconvenient to manually click commands for zoom in and zoom out on the keyboard when i’m using a big monitor. does anyone have experience using a track pad left hand and mouse right hand or vice versa? did it make your workflow easier?
+
+anyone have mobbin subscription? can you refer me ?
+can anyone send their referral link for mobbin ?
+
+protopie or webflow?
+considering what's in demand in the world of ux today, if you have 5 free days away from work to pick a tool to learn, which one would you pick?
+
+what are your favorite ai tools that streamline your design process?
+i just found one called dora ai that looks pretty useful. my favorites have to be chatgpt, uizard and dall-e (sometimes)
+
+i need to animate app logo for splash screen
+so basically, my po has asked me to animate our app logo for the splash screen.
+having never done animation and never used tools like after effects l, i'm very concerned.
+he has asked me for the eta and i said i'll be able to get it done by tomorrow morning in today's standup meeting.
+i've barely started working on it, and i'm very worried if i'll be able to get it done.
+is there a way i can somehow get the animation done? need help!
+
+is dev mode actually useful to developer on figma?
+i volunteered to put a small presentation together to show the developers how they can tale advantage of dev mode.
+i have gotten mixed reactions about so was hoping someone here could tell me of theres a specific area i should focus my demo on
+
+export miro board when you don't have rights, is there a way?
+hello i know it's on of their rules which i think is not good tbh.  
+i'm a viewer in a lot of boards of miro but i need to export to show my clients.  
+is there a way i can do a big printscreen of everything or export?  
+i'm trying to find some plugins can't find anything.
+
+what is the tool, resource, trick or methodology that has drastically upgraded your work?
+the title is already self-explanatory, but i was wondering if there is a **magic thing** that i've never tried that will improve my workflow or make myself a better ux designer :) 
+i start with mine:
+* since i have issues with concentration, listening playlists with beta waves drastically helps me concentrate. i know it's a weird one and not related to ux, but for me works.
+* when working with design systems, i found extremely useful this: [https://www.designsystemchecklist.com/](https://www.designsystemchecklist.com/)
+* a trick that recently made my work easier come from a colleague that found a workaround to make arrows in figma more friendly. if you copy an arrow from figjam and paste it into a figma file, it will remain attached to objects even when you move them. it has some bugs, but works fine. right now there are tools that do the job like autoflow, but the arrow stay static if you don't have the plugin open.
+
+best gadget you have owned
+ux designers. whats one valuable gadget you have owned?
+
+figma organisation stickers
+during our team's work, we encountered a problem: each designer had their own method for formatting design files, scenarios, and layouts., which slowed down our collective work. the solution was to create a guide that unified our approaches and methods of work.  
+one of the elements of unification was a sticker system. it helped us standardize the work on the layouts.  
+**how does it work?**  
+💎 **primary stickers** (ux comment, user action, component behavior): describe the key aspects of the design  
+🔄 **temporary stickers** (open ux question, question to pm, comment for future): act as internal notes, record current issues, and notify planned changes  
+🔗 **informational stickers** (link to functional requirements, link to jira issue): provide a link between the design and the tasks and documentation  
+🕵️ **research stickers** (good, bad): record marks made during the analysis of references  
+this system significantly improved our workflow and the experience of colleagues from other departments who interact with our projects 🌪️🔥  
+join the discussion and share your experience!    
+how do you describe user behavior and interface elements in your projects? 💬
+&#x200b;
+see the full guide at this link 👉 [ux design guide in figma](https://www.figma.com/file/ffppxqz4dy501a8e3czu0d/ux-design-guide?type=design&node-id=545%3a58711&mode=design&t=w7tqheajk2zgyxna-1)  
+https://preview.redd.it/8dddt4pofgoc1.png?width=4839&format=png&auto=webp&s=b0d6ed1291cfacb5df4cc55d84c36e99f71f7fe2
+
+token studio to figma variables sync
+hi all,
+i made a post a couple of days ago regarding spacing variables in figma and feeding them from token studio. 
+thanks to some of you guys i realised it was possible and that i could create spacing variables created from token studio into figma, and then publish to a library for designers to consume.
+the issue i’m facing now is i’m trying to achieve this workflow:
+repo pushes to token studio, token studio creates variables and then variables are published to a library - which is set up fine.
+the issue starts when we make a change in the repo, push to token studio and click ‘sync variables’ the local variables in figma aren’t picking up the change and i have to delete them and recreate the variables then publish again, which isn’t ideal.
+has anyone found a workaround to this or have any ideas?
+any feedback is much appreciated! 
+thanks
+
+tools for documenting ux works
+hello designer folks 👋,
+i’m curious about what effective tools that you recommend for product documentation with an aim of collaborating (communicating, updating project progress) with other stakeholders (pms, engineers, marketing)
+for a bit of context, i work at an early stage startup as the only ux designer with a very small team (10 people in total with 1 cto, 2 engineers, 2 founders, and sales/marketing team)
+
+what paid tool do you enjoy the most?
+i love having mobbin paid by the company. idk if i’d pay a personal license - unless i were really into freelancing - but it’s really good to do benchmarks using it.
+
+job posting requires 9 year of figma experience...
+&#x200b;
+[9 years of figma means you must have joined the figma invite only beta testing in 2015. not sure how one would fit this requirement of having 9 years of experience when figma launched september 27, 2016. say you have started using figma since that date it would be \(8 yrs of experience\). found this on indeed company called indominds solution](https://preview.redd.it/u214tq0gc5oc1.png?width=439&format=png&auto=webp&s=9bf273a4351ab5fd914474737ac1ffffff0ec1b5)
+
+pimp my figma skills
+i've been working for 3 years in figma almost every day and i feel like i'm not using it for its full potential. i don't have time to catch up on new features and so on. 
+can someone recommend a course? like figma pro. i've seen only for beginners.   
+i can't discipline myself for youtube tutorials
+
+people who have been in the field for a few years- how much time do you typically spend on figma, and how, if at all, has that changed?
+what were some of your longest days on figma? have you ever had times where you were on figma from morning to night for weeks or more consistently? if you were to guess your lifetime total time learning and using figma (yes, just watching tutorials and expanding your knowledge counts), what would you guess it is to date? what year are you starting from?
+
+token spacing in figma
+hi all,
+i’m currently with my team in the process of building out a design system in our org. 
+we’re creating tokens as we go to deliver a consistent experience across platforms, however we’ve an into the inevitable issue of spacing in figma. 
+right now we’re using token studio to pull down from the repo, assigning the values to styles where possible and then publishing to figma libraries. 
+spacing however seems to be the issue as you can’t obviously publish spacing styles yet. i’ve seen a few work arounds on various sites but just wondered if anyone had any interesting ways they had solved it within their teams? 
+thanks
+
+workshops with visually impaired people
+i'm looking into the practicalities of running workshops with visually impaired clients and wondered if anyone here has any first-hand knowledge/experience using figjam remotely while on a google meet or ms teams call. figma says figjam was designed with accessibility in mind but i want to understand if it's truly a viable option. one of the tips was to allow participants to add to the board asynchronously, but i'm wondering how well a real-time workshop would go if someone with a visual impairment was trying to navigate and add to the board.
+
+alternative to figma
+as the title says, what is your recommendation as an alternative to figma?
+my company wants to find cheaper alternative than pro figma so they can manage the user access 
+edit: no sketch, because we don't use mac

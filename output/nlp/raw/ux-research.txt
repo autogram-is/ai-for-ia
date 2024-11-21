@@ -1,0 +1,872 @@
+what design research methods do u use ?
+design research methods like aeiou, fly on the wall, task analysis etc. how to choose your research methods according to use cases.
+
+what framework/diagrams you use for new feature synthesis?
+what are some frameworks/ diagrams you make use of when you are a out to start to work on new product/feature, to get a ln understanding around expectations from different stakeholders.
+
+discovery methods?
+hey folks, question for y'all...
+i have a task (for an interview) to optimise an app i currently use. for me. i've selected what app and what experience and have built a journey map, listing out thoughts/feelings. opportunities/problems and touchpoints (i did it based on the journey the app is a part of, there are other apps involved).
+just after a bit of a sense check or if there is anything additional folks would do?
+the task is meant to be time boxed for 6 hours and cover the full e2e cycle through to final ui. i prob spent an hour or two on the journey map.
+
+double-clicking on a web app
+hi all. i found other opinions on double-clicking, and they are pretty dated and wanted to get a more recent opinion. 
+i'm working on a desktop/web app that has a lot of tables that open into an image viewer. one click on the row will open. i'm getting feedback from the team about changing this to a double click. we don't have a single/multi select functionality on these rows, but it's anticipated for the future. 
+i'm against it for some practical reasons; one the legacy functionality expected by users, two that double-clicking can be an issue for older / disabled audiences. 
+i would like to do some research as to whether the single click is currently an issue, but wanted to get some initial feedback other designers. i'm also familiar with [nielsen's opinion](https://www.nngroup.com/articles/when-to-open-web-based-applications-in-a-new-window/) on this.
+
+is it okay to redesign a website to an app if the target audience overwhelming prefers a mobile app?
+hello, building a case study. in the research i conducted , the majority of the users wished they'd a good mobile ui because the target audience is gen z. so is it okay if i include a mobile design, and not a desktop one ?
+
+prototype fidelity
+hey 
+i'm running a design process for my startup. we are currently validating concepts.  
+we have done guerilla testing with 40 + persons on the street and have divided seven concepts into three. 
+these three concepts are adjacent in their formulation. the question is then: as we still are validating the concept, is it reasonable to make three different prototypes and test them individually or make one and test all the concepts in one?
+
+what do you think these buttons do? (spotify ios)
+https://i.redd.it/6aq1jepfm5od1.jpeg
+
+can't remember this website's name so i need yall help!!
+hey guys, currently doing a research and i remember seeing a website where it has bunch of geometry figures and each figure leads to a pop up window with a question. i 'believe' the website had to do with architecture or real estate field (i may be wrong). this website is fairly famous among the ui ux designers since they often come out on ui/ux book as well. i'm just having a serious brain freeze and can't remember it.
+attaching my 3 mins wireframe of the website from my memory. any guesses??  
+thank you very much!!
+edit : i found it yall its [https://onesharedhouse2030.com/intro/](https://onesharedhouse2030.com/intro/)
+https://preview.redd.it/xwmypdqrxrnd1.png?width=2558&format=png&auto=webp&s=6642e922c30fdf2fd62ef8ee2e3724c4d5e5922e
+
+which software has best chat ux design?
+i am designing a chat functionality for a complaint management system and a thought came to my mind that which software has best ux when it comes to chat function. i know every software has different use case and purpose but i think we can find one that nails in every aspects and is phenomenal to use.
+the ones i have used so far and how would rate them;
+* slack - good
+* discord - awesome
+* linear - good
+* instagram(desktop web) - awful
+* telegram(desktop) - decent
+* reddit - somewhere between decent and awful
+* twitter(desktop) - awful
+* youtube - decent
+* figma - good
+
+what to do when a product is undesirable
+i was assigned to a product a few months ago to provide ux consultation. i work enterprise and i am on a team of ux generalists that work collaboratively across the org with product teams. this is a very low priority project and i've explicitly been told to only do research on the product with users and not work on any actively projects that are being developed for the product as enhancements. through conducting user interviews it is very apparently that this product is not desirable and not used by the intended user, internal employees. yet the company continues pouring reasources and trying to put more bells and whistles on by talking to smes about what they want, not by finding out what users need. how do i break it to the team that the last 5 years of their work is not desirable by users and that users do not use their product?
+
+why do stakeholders refuse to invest in ux research and how to persuade them?
+here's a nice resource with a list of actual strategies from ux pros on how to turn research resistance into support: [https://blog.uxtweak.com/how-to-deal-with-stakeholders-resistance-to-research/](https://blog.uxtweak.com/how-to-deal-with-stakeholders-resistance-to-research/)
+very recommend it to anyone who's ever struggled to prove the need and value of research.
+
+tools for gathering insight
+hi, i'm working at a company that is developing a product that contains a lot of features and overall a very technical product. the user experience is a very chalengly part since there is so many features, buttons to click and much more. does anyone have any tool to gather insight for such a product?
+
+got a offer for a job in healthcare right as i'm starting a 8 month program in ux design, what do i do?
+edit: what i really want to know is it worth it to finish this course right now, considering the oversatuation in the job market? 
+hi everyone,
+i'm just finished my first week in a digital product design course (8 months). and i suddenly got offered a job in health care which is what i was doing previously.... it's a great opportunity to work for a big company but it's only 4 months long.
+i didn't hate the industry i was working in but it never felt right. but just the first week of the design course has been amazing. i feel like i've found my calling. this is something i can see myself doing and enjoying. 
+but with the job market being the way it is and being offered this job that could lead to something more permanent i don't know what to do. i want to take this job, because either way it's good for networking and connections. (it's a large international company that would for sure need ux designers it's not just healthcare focused.)
+honestly i'm just having a hard time letting go of ux design, it feels like i'm giving up on a dream.... the idea of not taking this opportunity now and then not being able to find a job after graduating from the design program scares me more than anything ... please give so advice... do you think it'll be ok for me to try again later in my career? 😔
+i was really looking forward to working as a ux designer/researcher, but non of what i'm reading about the job market is at all reassuring....
+edit: this is a post grad program. 
+also i'm just looking for some honest opinion so i can get some perspective to help with the decision
+
+ux designer vs ux engineer. what’s the difference?
+i’ve been stumbling upon some jobs with these titles. what’s the difference between the roles or are they essentially the same thing?
+
+miro conference
+i was curious if anyone here is planning on attending miro's canvas '24 event? from what i'm seeing from them they are making some pretty significant product announcements. i've actually come to this thread a few times in the past to gather tips on results visualization and other ux templates, but was curious what you'd hope to see them cover/announce?
+anyway, if any of you are interested [here is more info on it](https://mirohq.click/3xc6sqg). and if you're fairly active in their forum, perhaps i'll see you around!
+
+[request for feedback] revamping ux for a newly launched ev scooter brand - need suggestions and resources
+hey reddit,
+i’m currently working on a ux revamp for a newly launched **ev scooter brand**. the company is relatively new, and their main goal is to drive **test ride bookings** and eventually **conversions** through the website.
+# key considerations:
+* **mobile-first design**: most users will access the site on mobile, so i need to ensure easy navigation and a seamless experience, particularly with the **test ride booking** process.
+* **ctas and conversions**: a strong, clear cta that encourages test ride signups is essential.
+* **social proof**: the brand has customer testimonials on social media, but they need to be **integrated into the website** to build trust.
+* **competitor analysis**: i’ve been looking at websites for other ev scooter brands, focusing on clean design, modern layouts, and conversion optimization.
+# what i need:
+1. suggestions on **best practices** for the ux revamp and any tips on how to prioritize tasks.
+2. recommendations for **design resources** or references (websites, templates, tools) that are ideal for **mobile-first** and **conversion-focused** design.
+3. advice on **mobile usability improvements**—specifically for a website that heavily relies on booking forms or signups.
+4. ideas for how to effectively use **social proof** (testimonials) when the brand is still new and building credibility.
+any feedback or resources would be greatly appreciated!
+
+how can i make this experience bettter ?
+like assigning stuff to other stuff  , allowing products to only certain users , and adding products to groups as seen on the video  i think these kind of things are called pivot table
+i feel like those pop up pickers aren't the best 
+https://reddit.com/link/1f8pgnw/video/kj7zo4rqlrmd1/player
+i've been thinking for days and don't have a proper idea   
+if someone has an example , please share a link and image a video a live website , or even what to search for
+
+i’m currently in a boot camp. am i screwed?
+i keep seeing people talking about how hard it is to get a ux job now and how bad boot camps are. basically saying boot camps aren’t long enough for you to learn everything you need to get a job. i’m seeing experienced designers saying they can’t even get a job. now i’m feeling like i may have made a mistake. is this even gonna be worth it? i’m feeling very discouraged as of late and frankly pretty scared that all of this money and work is going to amount to nothing. does anyone have any advice or thoughts on what i can do to give my self a better chance of finding a job post boot camp.
+
+enhancing the affinity mapping process
+i'm working on an affinity mapping feature that allows ingesting large volumes of user feedback/reviews/interview notes. the user would upload the raw data files, and the output would be:
+* data points.
+* thematic grouping of similar data points.
+* synthesize findings.
+are there any other components to include in the output to enhance the ux research process? auto tags maybe?
+https://preview.redd.it/w08wem0fdqmd1.png?width=9181&format=png&auto=webp&s=e2cd4a7dbaaf12cfbc07a4bbea5dc7cef5a84166
+
+ux is oversaturated and i did not make it
+so, i went to general assembly for ux design in 2020, and after graduation i got involved with a startup that eventually went under after 2 years. i tried to get back into ux after this but had zero luck with hundreds of applications. i love design so a part of me feels heartbroken, i love tech and being creative but it almost feels hopeless getting a good job in the industry. my portfolio became more outdated as time went by and freelance work wasn't even happening. maybe going to a bootcamp was my first mistake. has anyone else had this experience?
+
+do you use keywords for secondary research?
+how often do you use keywords or seo as a part of your strategy when designing a website? i found it immensely useful when creating categories and menus to research keywords through google ads keyword planner.
+do you implement seo in your design and what's your process? i'm aware that it's not a designers job to do seo optimisation but doing things like proper title tag hierarchy feels like something good designers do.
+thanks in advance!
+
+need websites and/or apps that have room for improvement (redesign project subject)
+i am compiling a few different redesign project options for my design students to choose from.
+what websites or apps do you think would be a good subject for a simple (unsolicited) redesign project?
+they can be any kind of website or app as long as it has room for improvement—give me any that come to mind!
+
+youtube channels that teach about ux (not figma)
+i'm well experienced with figma quite a bit but i feel there's so much to learn more about ux that i don't know. how to research, carry out testing etc. are there any youtube channels or other sources that focus on this aspect of ux design?
+
+what to ask stakeholders to do proper research?
+i feel that i am struggling at the moment in a startup where i am working because the design department is not that matured and i am trying to change it but there are challenges because i am not really a ux research specialist.
+what are the best questions i could ask the stakeholders to:
+1. identify the the problem they want to solve
+2. comeup with better research questions
+3. meet their expectations
+4. kick off the meeting with solid objectives
+basically any advice would be helpful. thank you.
+
+research to include without user interviews?
+for context, i am doing b2b project but we don’t have access to users therefore we can’t do user interviews as source of insight.
+the problem is that the manager is kept on asking for research and doesn’t like the progress we are making  because there not enough research being done and everything is assumption 🤣
+what are the other type of ux research deliverables i could provide to meet the managers expectations, it’s challenging because of tight kpi we have to meet😩
+
+great interview question
+pick farmville 3 and come up with a recommendation on how to increase revenue from existing users in-game by 5% (not ads or partnerships)
+
+i’d designed uis for 12 years but didn’t understand ux until an experience at a restaurant.
+i started designing uis in photoshop and splicing them up into tables in dreamweaver when i was 15. i kept designing websites and eventually web apps, but could never bring my designs to life until i taught myself to develop web applications and started my career 10 years later.
+2 years into my career i was involved very closely with ux consistently but really struggled to grasp what ux actually was as opposed to just ui design. i don’t remember exactly why it was hard to grasp, because now that i am familiar with it it all seems so easy. regardless, yeah, conceptually, i struggled.
+i went to lunch with a ux guy one day and the whole time we complained about how the company forced the ux team to just implement crappy ui designs. then the check came.
+this was a restaurant called “public school.” it was all school themed, but classy as fuck.
+when the waiter came to the table and handed me a clipboard with a long strip of receipt paper clipped on, i instantly felt my pockets and looked around the table for a pen. i didn’t see one so i was like “do you have a pen i could use for this?”
+and he gently informed me that it was just the ticket… that i don’t need to sign until after i paid.
+boom. all the years of not grasping ux just ended right in that moment.
+i realized that i, the user, just err’d.
+i’d always heard of the ux book “don’t make me think” but never read it. but in this moment, that book came to mind as my understanding all fell into place.
+i acted without thinking, based purely on my learned behaviors, and it was wrong. i had to think to realize what the situation actually was.
+and this experience has fueled my involvement in and around ux teams for the 7 years since that err.
+
+skipping user testing: are we saving cost or compromising quality?
+are we sacrificing long-term success for short-term savings by skipping user testing?
+recently, i find myself wondering about the role and value of user testing. despite its clear benefits, like refining user experience and identifying pain points early, many organisations overlook this crucial step. my thoughts are that it comes down to issues with budget and time constraints.
+i'm keen to hear your thoughts on a few points:
+- do you believe the investment in user testing is justified by better user experiences and smoother workflows?
+- what are the main barriers that keep businesses from integrating user testing into their workflow?
+- for those who have integrated user testing, what tools or strategies have made the most difference for you?
+looking forward to your thoughts and experiences!
+
+passwordless sign in, sign up for car market place, need help
+hey guys,
+quick question, i'm working on a car marketplace, and observing the market, seems like the competitors i'm looking at have very poor onboarding.
+i am just looking for some opinions, i'm thinking only of offering auth via phone number, no password, user inserts phone number, clicks login, user gets otp, user is signed in.
+same flow when signing up.
+in your opinion, what are the pros and cons of this?
+i'm internally debating if i should abstract passwords and emails altogether and just go with passwordless phone authentication.
+
+hoping the mods allow this. maybe there's a shot at protecting even one person from this vile vile company, since their scheme is still going.
+shades (a gen z-targeted news app) posted an unpaid, remote ux internship on linkedin four weeks ago. you might have seen it, it has 1500+ applications. if you're thinking it's odd a job wouldn't close a posting if they've had it up for a month and have more applicants than they'll ever get through, with 100s more coming in each day, that's because it is. jeff grimes (co-founder) is sending applicants the same copy-paste message making them think they beat out others, but it's extremely probable all 1500+ people got/will get that message. it includes an interview form, which not only asks for ideas on where to find research participants, but also a *detailed* response of two things shades could improve about their app. literally mining free labor and ideas from thousands of people. gross. and of course, they end the form by encouraging applicants to leave a 5-star review on the app store.
+gets worse though. when you submit that form, you'll likely get an email/message from jeff saying you were selected to move forward again. which in this case means, you guessed it, another written form. the very first question on the form asks you to expand on the two ideas you previously shared and make them bigger and better. yeah. to add insult to injury, the form requires you to conduct an in-person interview with a stranger and take copious notes. the example notes given to follow were two pages long, single-spaced. we're already far beyond what any paid job would ask of an applicant. but there's more, because why wouldn't there be.
+if you completed all that, jeff's email says you *might* get a video interview, but based on my experience *plus* three friends i shared the job posting with, *plus* recent anecdotal comments from reddit users (iirc one had poor spelling and grammar, so the fact he got to round 3 among 1000+ applicants proves how much they really didn't give a f-ck), applicants are ghosted as soon as shades gets what they wanted, a.k.a. stolen ideas and precious user insights. there's no doubt people spent (and are still spending) several hours completing the forms and generating original ideas for these weasels. if all logic follows, shades now has a lifetime supply of these forms full of information and ideas, and never had to pay a cent. that's exploitation with a capital e.
+the nastiest part is that shades/jeff (i don't know how many other people even work there tbqh, but it's small) are preying on 100s if not 1000s of people who are hopeful and *really* believe they have a shot at this job because jeff keeps sending them to the next round. the knife cuts even deeper considering ux jobs are not easy to land, and i'm sure shades knows that many of their applicants are trying insanely hard to make a career for themselves in ux.
+**please, for the love of god, don't give this company free labor.** i think they're all set with their new stockpile of material. and they'll need it, because they clearly don't have a drop of creativity or originality amongst them. that whole app is probably built on stolen ideas.
+p.s.: manipulating applicants by advertising a position with no true intent to fill it, but still using it as bait to get hundreds of hours of free labor for your company should not be legal, am i crazy? there need to be real, concrete legal protections put in place for job applicants. it's gross that young people are being taken advantage of by these shameless exploiters because an unpaid internship is the best they can even get in this market. oh, and here's a fun tidbit! the actual internship requires interviewing a minimum of 80 people (no close friends or family) over 10 weeks, and taking detailed notes for each, of course. living the (unpaid) dream!
+**tldr:** shades news is shady, jeff grimes is grimey, and for the past month they've been using a ux intern posting to get free labor and creative work from applicants with no apparent intention of hiring. (**edit 8/28**: somebody made a good point that this all may have been to garner app traffic more than anything, which makes a lot of sense. again, i have no proof they're stealing/ripping off original work. but they are taking it for free! still sleazy.)
+
+experience of working for microsoft as ux designer
+i have a good 5 years of experience in ux design. have been working with service based companies. i have had a fair share of learning from them, specifically about project management. however i have a desire to work for product based company to understand the process. 
+so if any one of you can share your experience of how it is to work for microsoft, it will be a great read to cherish. 
+what i’m interested to know is the daily chores in ms as ux designer. what kind of meetings do you become a part of and what are the frequencies of them. what are the challenges put forth to take upon and how flexible is it tackle them at good pace.
+almost a daily journal kind of response where i can visualise being in your shoes. this will help me understand what being a designer at product company is like.
+
+what are the best form experiences for mobile?
+for context, i'm working on a kiosk app that's operated off of tablet and sometimes mobile devices. part of interacting with this kiosk involves filling out a form.
+with this comes a number of challenges such as users operating the device at arm's length, the on screen keyboard obscuring the view, as well as potential issues with hiding content on scroll. 
+i'm essentially just looking for the best experiences that involve forms on tablet or mobile devices. would also be open to kiosk experiences involving forms but this is a more niche product category and i've already done some benchmarking in this area. thank you!
+
+help with bottom navigation bar usability
+hi everyone,
+i'm working on a project where i have a bottom navigation bar with 5 items (screenshot 1). the issue i'm facing is with handling dynamic action buttons in the bottom bar.
+* in the "lista" tab, the button in the middle replaces one of the other icons, and this works fine (screenshot 2).
+* however, in the "site" tab, i also need to place an action button in the middle, but it ends up removing the "lista" option from the menu (screenshot 3). this swaps the order of the buttons, which affects usability.
+i'm not happy with how the order changes and how the items are being replaced. someone have any suggestions on how to improve the usability of this bottom bar?
+thanks in advance for any advice!
+[screenshot 1](https://preview.redd.it/v2c8d04lm1ld1.png?width=668&format=png&auto=webp&s=4dc703d8206864f38d3d4ae2519a42a4dfa5c8f8)
+[screenshot 2](https://preview.redd.it/n4uoo8hom1ld1.png?width=706&format=png&auto=webp&s=713a587d27cf0cb1db7f1cfea03e4c192a21a32e)
+[screenshot 3](https://preview.redd.it/vqfpt4cpm1ld1.png?width=702&format=png&auto=webp&s=28e625014a579f25422f971f8af2f19896abf854)
+
+test low-fi prototypes for single landing pages or just test design prototypes?
+if you guys are designing landing pages, do you test low-fidelity or high-fidelity prototypes, both or neither? 
+i'm asking because since these are single pages, there's not a huge amount of interaction that would need to be tested, like a full website or mobile application. i'm thinking just user testing something close to the final design would be more appropriate and a better use of our budget.
+
+i suck at ia. how do i improve?
+i have been doing ux for about 5 years and for some strange reason, information architecture seems like a very nebulous and complex thing to me. i don’t know if this a mental block or if ia is really complex to wrap one’s head around. i struggle to connect the relationships between objects at a hierarchical level (ia map) and the visual level (interaction design). i usually just skip ia and start testing through designs. 
+can anyone suggest some simple ways to learn and practice ia? tia!
+
+baymard ux site audit
+has anyone here ever participated in one of their site audits? i'm considering getting a quote for a full site audit. i'd love to hear opinions, pros cons, and your overall experience if you worked with them in the past.
+thanks!
+
+seeking ux recommendations with future feature expansion in mind - date/time/repeat/duration selection for todo app
+hi all, i’m facing a dilemma in my ux design for a todo app. should i prioritize making the flow more efficient with fewer steps to complete a common task?
+or, should i focus on a cleaner, less cluttered ui?
+currently, i have three ux approaches in mind to achieve the following goal:
+**goal: select tomorrow, 6 pm.**
+# ux a
+https://i.redd.it/78f958e2hckd1.gif
+* step 1 : tap on date row
+* step 2 : tap on tomorrow
+* step 3 : tap on time row
+* step 4 : tap on 6pm
+* step 5 : tap on save
+# ux b
+https://i.redd.it/zybz34e3hckd1.gif
+* step 1 : tap on tomorrow
+* step 2 : tap on time on date/time segment control
+* step 3 : tap on 6pm
+* step 4 : tap on save
+# ux c
+https://i.redd.it/6qimxjr4hckd1.gif
+* step 1 : tap on tomorrow
+* step 2 : tap on 6pm
+* step 3 : tap on save
+which ux approach would you recommend, and why? please keep in mind that in the near future, i will need to expand it to support "repeat" and "duration" features.
+thank you.
+
+when is it appropriate to not use incentives?
+i’m working on tree testing, and are currently recruiting through two different ways:
+- a cohort of research participants we return to regularly for different tests across the org (this is a pilot program we’re experimenting with, about 25 people total who participate in up to 2 hours of research a month and receive a predetermined hourly compensation)
+- optimal workshop’s participant recruitment tool (black box in terms of compensation — we know how much it costs to recruit participants but not how much of that goes toward the participant’s incentive)
+we’re also discussing adding a banner to our website that would contain a short message like “help improve our website. participate in user research” and link to our treejack test. i’ve seen govuk do that before for a tree test with 3 tasks, and wasn’t offered an incentive for the test. 
+i work in government and i’m not sure what the standard is for having publicly available unmoderated tests.
+i view incentives for unmoderated testing as a way to drive response rates, and not necessarily a tool to compensate participants for their time. so in my head incentives for unmoderated testing is different than a research incentive for an hour long usability test. 
+i’m not sure if this is totally true though, or where this distinction breaks down. 
+- is it okay to do surveys without incentives, but not unmoderated testing like tree tests or first click tests? 
+- if we include any incentive for any of our recruitment sources, do we need to include an incentive for all recruitment sources? 
+- if we’re using recruitment tools that don’t let us adjust how much a participant is compensated, is it okay if some people’s compensation is different from other people’s if they come from different recruitment sources?
+- is it okay to not use incentives for shorter tests (a tree test with 3 questions) but need incentives for longer tests (a tree test with 10 questions)? or should the decision be based solely on response rates and dropoff?
+what’s the best practice for some of these things?
+
+stumbled across this
+so i was researching for my recent project that involves redesigning an insurance site and while checking all the top sites for ideas i came across this cute feature :') (p.s. - this is my first post on reddit. also, sorry if this post doesn't belong here)
+
+usability test participants
+i just recently finished the careerfoundry bootcamp a couple months ago, so i'm very fresh in the ux professional world. i was able to get a pro bono project for a local restaurant website redesign. i'm trying to get participants for my usability test on the high fidelity prototypes, but am struggling with how to find people to do it. i've posted in every social channel, foodie groups, design buddies discord, careerfoundry slack channel, but no one has completed it. i don't have money to spend on sites that provide you participants, so what would you guys recommend?
+
+is saas the wrong place to worry about usability?
+i work for a saas company that never does any research or testing. 90% of the features we build are requested by large customers. but there's no one measuring whether or not they're even being used. or how easy they are to use. or if they solve anyone's problem other than the 1 customer who requested the feature.  
+the overall product is a bit of a nightmare to use, in my opinion. as the ux writer it's left up to me to explain how things work. half the time i can see an alternative way to do things, but as the writer i'm just ignored or overruled, and then left trying to explain why x does y (or why it doesn't do z like you'd expect).  
+the problem is, we get plenty of negative feedback from customers reiterating the problems i've pointed out in the first place.   
+but, this is the first saas company i've worked for. so, is this just how saas companies usually run? do we just put out new features and wait for the customers to tell us they're hard to use and then fix them later?   
+is there anything i can do as the writer to try and improve the usability when we have no budget for research and testing? or should i just stop caring about usability and focus on getting features shipped?
+
+creating a survey to assess ui/ux skills/interest of a team.
+i'm an intern at a company and one of my tasks is to craft a survey to assess the current perceived expertise and interest in ui/ux skills for the team that i'm a part of. i haven't much experience in the field, and i'm still upskilling, so, i've been racking my brain trying to understand which factors to consider while making the survey. as for the team, it's an it team that makes consumer-facing web pages. we do not have a specific design team. i would appreciate it very much if anyone could advice me on where to start, and how to go about the task. i do need much guidance, just point me in a good direction, if possible. willing to take any help i can get at this point!
+
+came across this good visual representation of defining ux & design.
+https://i.redd.it/so2k9xtqybjd1.jpeg
+
+need examples of websites with great appointments ux
+specifically focused on the ux of rescheduling or canceling appointments
+
+advice for getting back into ux after completing my certificate 6 years ago.
+hey all! i wanted an opinion on how best to go about finding work in my situation.
+in 2019 i graduated with a certificate in ux after completing a 12 week bootcamp and applied for jobs but got caught in the wave of the pandemic and never ended up finding any work. fast forward to six years later, 2024, i lost all motivation to get back into looking for ux jobs and have been trudging through with warehouse/factory work. 
+i recently enrolled in the google ux certificate and have been doing that in my free time. i've heard that while it is good for learning theory, that on its own won't exactly land you a job as it doesn't provide any practical experience. in the end i got halfway through but haven't ended up finishing it for that reason. 
+i'm seriously considering quitting my job and taking up a 12-week bootcamp to refresh my knowledge and practical skills in ux and i honestly think that it'll be my best bet at getting job ready.
+that said, i've also been advised that even though it has been 6 years, i still have the skills for ux. all i'd need to do is refresh my knowledge via the google ux certificate, and then start applying for jobs. while that definitely appeals to me, i still won't have had any sort of recent practical experience to supplement that. my resume has my bootcamp experience from 2019 and even though i still use it to apply for ux roles, i'm not too sure if its helping at all. i've also been getting reacquainted with figma and have been trying to get some newer works into my portfolio using client generators like fakeclients. 
+i'm even looking into doing a couple personal projects for practical experience, but i'm not sure how to go about it.
+i've put through so many applications on indeed, seek and jora for internships and junior ux roles (when i can find them), and i'm not even sure if i'm doing the right thing by applying for only these kinds of roles? should i also be applying for mid level and senior positions just to get my numbers up? where even is the best place to find graduate roles?? are there any similar roles that i should be applying for that'll serve as good experience in applying for a ux role?
+what would the best course of action be for me? should i just go all in again, do another bootcamp and re-learn everything from scratch, or should i keep trying to use my existing (but kinda dated) experience as a base to refresh and then apply for more jobs?
+i feel so despondent and worthless to be completely honest. i'll be turning 26 this year and it feels like i've truly messed up by leaving things this long. any advice would be greatly appreciated. 
+tldr; did a ux bootcamp in 2019 and the pandemic hit so i couldn't find any ux jobs. want to get back into it now and wanted to know how best to do it.
+
+stripe switches, ux question
+do someone knows why stripe has two sizes for its switch component? i thought it was because the big one has an immediate action, but even the smaller one is for immediate actions so i'm very curious about what was the ux reason they decide to do this?
+the smaller one is 24x14
+https://preview.redd.it/g50jbt6av4jd1.png?width=814&format=png&auto=webp&s=914966d7083bcce80745a623c0ac00b6e96d5c15
+the big one is 34x18
+https://preview.redd.it/b18hjr2cv4jd1.png?width=1449&format=png&auto=webp&s=75224c595a62ce55225694c76ffe7dec1dd26e05
+
+how’s the work life balance as uxr?
+hey do you have a lot of meetings? how many hours do you work everyday? which industry do you work in? thank you for sharing!
+
+weirdest ux assignment ever.
+https://preview.redd.it/3k8bp24i8zid1.png?width=682&format=png&auto=webp&s=dde43d489661947f5731a6b7ae507dc5871cc656
+this has to be the weirdest ux assignment i have ever got. it seems very drastic to come up with this kind of assignment to test my skills.
+
+what are the most important concepts or theories for new ux students?
+i am curious, what should an intro class about ideas or concepts, aimed towards new  students, should focus on?
+
+need help on how to research for our product
+i’m working on a product that we’re releasing in three steps, all of which clients can view on the dashboard of our app:
+1.	step 1: analytics only: in the first step, clients can see information about how their users are behaving on their store - directly on the dashboard. they can understand how certain actions (or inactions) are affecting their sales, but the new feature isn’t active yet.
+2.	step 2: a/b testing: next, we test the new feature with half of the users. clients can see the results on the dashboard, comparing how well the feature works for those who have it versus those who don’t.
+3.	step 3: full launch: finally, the feature is rolled out to everyone. on the dashboard, clients can now see all the data, such as how many users interacted with the feature, how many restored, and how many sales it helped make.
+can you suggest me what questions should i be asking myself to design this?
+
+career advice
+i'm a ui/ux designer by profession, working in the field now for 2 years. i wanted advice on further education. my strengths are primarily in ux design  research and strategy. but i'm not getting such roles in the field. what would be an appropriate move to upskill myself, so that i can work in such focused roles?
+
+ux researchers – how do you manage working with ui designers?
+i made the switch from ui to ux a few years ago and i’m having shame fueled flashbacks to just how difficult i could be to work with, especially now i’m in a pure ux role and i have to work closely with someone who is pure ui. he’s very challenging to work with. he has to argue with everything that i suggest, all the work he does is consistently 80% finished meaning i have to spend way more time than should be necessary qaing his work, then getting passive aggressive comments in figma for pointing out shoddy work (i’m always cordial and to the point, never angry).
+i was not great as a ui designer. i found it hard to strike that balance between pushing creativity and colouring in wireframes. i governed buggy design systems like a doberman which made it really hard for the product designers to do their job. i was rude to developers and showed them i could do their job using inspect. so arrogant.
+are all ui designers like this?
+
+a/b testing image attachments
+based on the image below, how many photos would you expect to be attached to the message?
+feel free to share your thoughts or theories in the comments, and include any sources if you have them.
+i've done some benchmark tests and it seems that 5 should be the right answer. however, i'm getting some pushback from colleagues.
+
+thoughts on useberry?
+hi everyone,
+my company is currently planning a user study and we are considering using useberry as our testing platform. after comparing pricing with other platforms like usertesting, maze, and userlytics, it seems like useberry offers a very cost-effective option—$79/month for up to 300 responses, which is significantly cheaper than the others.
+however, before committing, i wanted to reach out to this community to get some feedback:
+• have you used useberry for user testing?
+• how was your experience with the platform? (any particular pros and cons that stood out to you?)
+• how does it compare to other platforms you’ve used, in terms of ease of use, data quality, and overall value?
+any insights, tips, or personal experiences would be greatly appreciated! thanks in advance for your help.
+
+now youtube have this comment search like tiktok
+for me it is helpful and engaging like tiktok. how do you feel about it?
+
+why does temu interrupt customers?
+when using temu, the app will randomly spam you with “bonus points” where they give you “exclusive deals” or whatever. 
+they take anywhere from 10-45 seconds and there’s no way to stop them. 
+what i don’t get is why they do this? it adds friction between the customer and actually shopping on the app, which is what i’d assume they want. in fact i’ve legit quit the app altogether and didn’t buy anything because they spammed my screen with “deal” ads for their own app 
+really weird
+
+a simple system for basic a/b testing / feedback from users?
+hi, i work at a company that is ramping up agile dev rapidly (from 3/4 products to more like 20) - we've got tons of new devs, but only a very small ux/design team (currently me). i need a system that will allow devs who want to do ad hoc a/b testing or collect other simple feedback on ideas to put a request for feedback into a system and have the system automate comms with a mailing list, collect input from users, compile them in a summary and deliver it after a certain period of time. am i dreaming, or is there such a system somewhere? is this your system? how can i license it?
+
+user interview questions
+i work at a startup. the company has build an app that lets users complete deadline based tasks and earn money. right now we have only tele-calling tasks. so basically companies requiring tele-calling services for their sales, logistics management etc outsource to us and we crowd source tele-callers by our app and make them do the calling via our app itself.
+my pm has asked me to connect to 3-4 top tele-callers working on our app for user interview. the problem is there is no speicifed goal for the interview, i don’t know what ques i can ask the users, what insights i should be looking for etc. pm says it can be a general purpose interview to get user feedback etc.
+do you have any ideas on how to tackle such user interviews where goals are not specified
+
+another test: only shows 1 comment but says number of likes and comments at top.
+i wonder what the test is here. personally at first glance, it makes me not want to click to engage with comments. i loved seeing other ppls opinions. (of course it’s a new change tho so bias involved on my part).
+perhaps showing the number of likes and comments this way is more noticeable and if it has more, ppl will be more willing to see. idk.
+the other way made me much more inclined to bc it’d tease the other comments n i didn’t care about the total amount (which was still there, just smaller)
+also takes up less vertical real estate. hmm.. what are your thoughts on the reasoning behind this?
+
+what key aspects do you consider when reasearching design systems?
+i’m in the process of exploring and comparing different leading design systems for our next project. i would love to hear from you about the key aspects you focus on when evaluating and choosing a design system.
+for example, components, which comparative data are important, quantity？ category？
+
+what is this?
+what is the name of this black box that pops up when you select a text?
+i am a backend developer but like to play with fullstack projects in my spare time.
+i am creating a functionality similar to this black box, but curious on what it’s called.
+
+question about user flow
+is it okay for a user flow to loop? i'm currently working on 1 but i can think of ways of it to loop as the goal of the flow is kind of open-ended, so to speak.
+https://preview.redd.it/y7u8fpz7fzgd1.png?width=1028&format=png&auto=webp&s=89f24946a6f5a4e9aea6b1db86503220431a5f27
+
+best b2b saas product to learn best practice when designing for enterprise?
+are there other b2b products (saas) that you think provide good ux for enterprise? designing for b2b is a bit different due to limited access to user therefore i have to rely on patterns and secondary research.
+are there other alternative to salesforce that i could use for free trial without providing my cc details?
+i've tried salesforce and it seems like that their ux isn't the most efficient and a bit out date or that's the best practices when designing for b2b?
+the form below is from sf. not sure if their ux is efficient if you have to constantly make tons of click and select. they could make priority and status as checkbox. the uneven whitespace consuming a lot of space, the ui could be more compact 😑
+https://preview.redd.it/tirzztla5xgd1.png?width=1942&format=png&auto=webp&s=2cd263d2ed6c8e6525a989a0a8a580583f881f23
+
+high fidelity mockup invites user bias?
+i recently had an interesting conversation with a peer of mine of when to show high fidelity mockups. in this case, they were adamant that a high fidelity mockups (several figma screens) would lead to bias when shown to users. their justification was that "industry research has shown that showing high fidelity mockups too early on leads to biased responses". 
+however, we had already:
+- reviewed & approved the prd (product requirements), which included the user flow
+- reviews & approved the technical design plan/specifications
+- engineers had already been working on backend implementation
+we had not determined what the ui would look like. the team internally had approved the user flow, but had not validated it with users directly. 
+is it really too early to be working on figma screens at this stage? if anything, i thought we were too late.
+
+suggestions on alternative forms of research
+has anyone ever tried an auto-only version of user feedback where someone responds with a voice memo or something and had success? 
+i'm looking for ways to go about research that are low friction as many of the current users do not respond to surveys or get on calls often......
+would love any suggestions
+
+i have a couple of questions about stuff like usability testing and user interviews.
+people always mention you do usability testing after developing a prototype or you do user interviews, but they never explain how. are the tools and info usually supplied by the company you work for or do you have to go out of your way, pay people from your own pocket, pay for the tools to test them with and then schedule appointments with testers?
+like for user interviews how does that work? is there usually an internal list of people you can just call up and say hey we want to do an interview with you about a product or do you just have to go out and randomly find people on the street?
+when you reach the phase after you create a prototype of the design on figma is there industry standard tools your supposed to download or buy to test its usability or is it usually done internally with the company tools?
+
+can i put a physical product design in portfolio?
+i am building my portfolio right now and i did a design challenge that did not allow us to make mobile/web ui and challenged us think outside the box. i made a physical product solution. the research process was all the same. should i still put it on my portfolio if it's not a mobile/web design?
+
+need help finding cheap platform to recruit participants
+haven't had much luck with the reddit sample page or discord and was unable to sign up for usertesting.com since it only applies to businesses or educators.
+any alternatives?
+
+thinking-centered design?
+anyone else notice a trend of designs that is heading towards this 'thinking-centered design' direction?
+by tcd, i mean softwares that are designed in such a way to help with our thinking. an example that immediately comes to mind is figma slides, where there are 2 modes, the canvas for ideation and the presentation mode for ... presentation.
+i have been seeing the patterns across frameworks and real life?, like hcd, double diamond, 'code' in building a second brain or just the idea of hunting in general where there are two distinct phases, one of discovery and searching and the other of lazer focus.
+with our traditional webapps and webpages etc, it is much more linear in fashion and helps with the second part of the process when we are drilling down into something, but limits the initial discovery portion. or there are things like infinite whiteboards due to the expansive nature, they help out with research and discovery but doesnt really help when it comes time to focus.
+this trend seems to also be occuring in cybersecurity? where e.g. wiz there are more visual representations being used to convey information, that is closer aligned to our way of thinking.
+is this already a thing that exists? i would think it is a subset of uxd since optimizing for thinking still is in fact improving the ux but yea.
+
+low ux maturity company - opportunity to change
+hey everyone.  
+i work in a startup as the only designer. i do anything from ux & ui to print design and social media, but i love product design and would like to focus on that more. as the title said, the company i work at has low ux maturity; we don't do any user research and my decisions are guided by the other team members (we're a small team of around 10), so i feel like i could be doing my job better and learning proper ux techniques (freshly graduated from a graphic design bachelor).
+i have been given a new assignment by the ceo to design an alternative version of our app that would target a different audience (medical instead of sport). this is a great opportunity for me to do some in-depth ux work for once and possibly a great piece for my portfolio, instead of just proposing the first design i come up with myself with no testing like i always do haha
+i want to take my time with this and do it properly, so my question to everyone here:  
+how can i convince my ceo to let me do proper user research (and where do i even source potential users myself??). any tips in regards to this process? thanks everyone!
+
+user-uploaded inappropriate content to shared database?
+hi everyone,
+i'm working on a project that involves allowing users to upload their own artwork into our platform. this artwork would then be visible in a shared database that other customers can then see and pull from.
+our team is concerned about the potential for inappropriate images being uploaded. right now, we do manually do it for them which takes time and our user's find it annoying.
+i’m reaching out to see to see how some of you may have handled similar a issue. specifically, i’m looking for advice on:
+1. what systems or tools did you use to mitigate the problem?
+2. the cost of whatever solution you used
+general insights or recommendations would be greatly appreciated!
+
+user journey map - need resources to learn future state ujm - for a product that doesnt exist yet
+hello there, i am working on my first portfolio project and i am building an app with some new features. i want to build future state user journey map(s) but i have not come across any good learning resources which can teach me about this. 
+please drop any great resources to learn future state ujm or just user journey mapping(not customer journey mapping).
+tia :)
+
+banking/fintech savings pots case studies
+hey all, does anyone have or know where i can get any case studies around savings pots for fintech companies or retail banks?
+i'm looking for any studies around how people sub-divide their savings into smaller, specific amounts (pots) e.g. for a holiday, saving for a house, a car etc. you get the idea. 
+anything on or round this subject is going to be gold dust.
+been looking for a few hours not and thought i'd try and reach out to you wonderful people. not a lot seems to exist so any help rendered would be greatly appreciated.
+
+is the use of the drawer ok ?
+hello, i am working on a quite complexe interface, dans i am trying to use a drawer on this one, for me the drawer is perfect in this case, beacause all of the info in the drawer is secondary... what happens is you click on the table and it opens the drawer, where you have tabs to navigate.
+but i need to know if i am using it right...
+can you give me feedback on my screen ?
+ps : i am not english i but some words in english so you have some context, i might have left some spelling mistakes...
+https://preview.redd.it/fwhvt0xr8hed1.png?width=1440&format=png&auto=webp&s=133de4583cda023a4e8a3b82fda31a792c8841fa
+
+user testing: do you omit users who don't follow instructions and click anywhere?
+am in the process of my first official usability testing, unmoderated, using maze and real users, yay!
+the client was responsible getting real users but even the users they got fit the criteria we gave them (who had some familiarity with the app, as 1 user stumbled on something that existed in the app forever)
+2 users are pretty useless i want to remove since they didn't complete all the tasks and abandoned. they also, as would be expected, just clicked on anything and everything to see what would respond to just finish the task, they also did not speak out loud as was instructed.
+would you remove those 2 users from the test as they aren't really contributing to the insight and feedback?
+i have another user who completed everything quite easily and well, had screenshared and video shared but did not say a single word and had no expression on their face. does this count for anything?
+
+anyone know any ux staffing agencies?
+hi everyone! 
+i’m a marketing coordinator and am doing some competitive research on some ux staffing agencies there are out there! i’d love your help to see if you guys have any ux staffing agencies that come up at the top of your mind? also, if anyone knows any training/networking platforms that are offered within the industry of ux or service design? this would help a ton!
+
+retail kiosk ui
+im looking for retail kiosk designs that i can study but im having troubles in locating samples such as mcdonalds or kfc's design. i understand that this is a new field. do you guys have any sources that i can look into?
+
+card sort activity
+hello! i'm not in the ux world, but thought i would see if you all would have any solutions on how to visualize data results from a card sorting activity. the card sorting activity allowed the participant to place a card into more than one category and that is where i'm having trouble in analyzing the data visually. does anyone have any idea of how to analyze data from a card sorting activity where the user can place the card in multiple categories?
+
+feedback button location
+https://i.redd.it/e274yjekm3ed1.png
+
+if i have budget/time constraints, would microsoft clarity live sessions be a good substitute for userbility tests in the early stages?
+so for a little background/context, i took a job in warehousing for a company i’d like to eventually do some ux work for and over the last 6 months have gotten quite friendly with our project manager and head of e-commerce.
+both  are keen to see me progress and have given me access to design assets and analytics to work on any ux problem i find to work on my spare time/quiet time during work hours. 
+i’m finishing up a heuristic evaluation and working through my ux audit to figure my next steps, but due to time/budget constraints doing usability tests might be out of the question… 
+would using microsoft clarity live sessions be a good substitute for this? atleast in the earlier stages to get them to agree to more help/support and show them what i can do.
+any suggestion is welcomed!
+
+which one is better aesthetically?
+https://www.reddit.com/gallery/1e98hgm
+
+does your team design with people with disabilities ? do you hire someone for recruitment?
+i’ve had friends use fable, but wondering if you have used them? do you think it’s necessary? or is automated good enough?
+
+what is “discovery” to you?
+hey all,
+we all know the double diamond. 
+keen to know if someone said to you that we were in the ‘discovery’ stage of the design process, where does the double diamond fit into this? 
+do you interpret this as the first diamond or would the entire double diamond through to solution design fit into “discovery’?
+secondly in this instance, what does ‘delivery’ mean to you?
+
+inspiring interfaces
+i was told by my company to look for interfaces that are really well made, inspirational desings that just work really well. i come to you for help. which desings you find inspiring? it can be from any industry, on any form of device. 
+i go first - rivian infotainment
+
+how to increase share-ability of a product?
+hi everyone,
+i'm working on making my product more shareable and aiming for a viral coefficient of more than 1. i'm looking for insights and experiences on how others have successfully achieved this. any tips, strategies, or resources you can share would be greatly appreciated!
+thanks in advance!
+
+trust seals on ecomm....still a thing?
+just wondering what everyone's take on them is. do they still add value in the eyes of the user?
+[https://www.crazyegg.com/blog/trust-seal-ecommerce/](https://www.crazyegg.com/blog/trust-seal-ecommerce/)
+
+automotive infotainment trends?
+i'm a student and i'll be working on a ux problem for a sponsored project in this coming semester. i'm watching a few videos to get familiar with current automotive infotainment ui, and it seems to me that using a touchscreen to control *everything* will go out of style in favor of older established methods. my intuition is that compressing some actions into dials, knobs, and more physical instrument panels is safer and more readily legible to most people.
+my question is, is that good intuition?
+where do vehicle controls seem to be going?
+are there controls that are going to stay on touchscreens now that they've gone there, and what are they?
+of particular interest to me is the implementation of huds in vws, gestural controls, and voice user interface. anyone that can shed some light on real industrial shifts would be greatly anticipated. thanks!
+
+how much of your process includes working with quantitative data?
+as a designer i'm always interested in using data in my process to inform decisions, but honestly there hasn't been that many teams who actually used it on an ongoing process. is this also true in your experience? how much of your day to day work includes studying quant data or big data and designing against it?
+
+validation: product manager vs. product designer
+i work for a small company (aka 1 pm and 1 ux) so we're pretty early on in defining our user research and validation methods. my question to all of you is: how to do define in your own jobs, the validation a product manager does vs. a product designer does? future product vs. existing product? all methods or even software tools you use are welcome.
+
+what do you guys think about the role of sound in ux design?
+in terms of influence and how much it can disrupt or improve user experience and what are some of your favorite products that have good sound ux
+
+i would like to know the use cases of using voice feature in day to day life
+i'm just fascinated to see some people who use voice in their job for documentation. but i would like to know where else voice feature can help. how creatively voice feature can be used to streamline their day to day process.
+
+need advice for learning how to conduct data driven user research
+hi, i’m trying to improve on my research skills by using analytics. i have a lot of background on conducting qualitative user research but i want to improve.
+our company is currently using ga4, hotjar and growth book. i’ve worked in with google analytics before but only at a very basic level. all of the tools are overwhelming, so i’m not sure where or how to get started.
+do you have any recommendations on how to get started or review again? 
+what is your experience with analytics/ data driven user research?
+
+degree vs certificates vs self made
+considering there is no ux specific degrees, how many of you have degrees vs. certificates or a camp vs. you taught yourself and jumped into the field on your own? if you have a degree what was your major?
+[view poll](https://www.reddit.com/poll/1e1koug)
+
+what are some of the pain points in login and signup in mobile interface
+want to smoothen the process of login and signup for users.
+1) what are some of the pain points and problems users face in this screens on the mobile interface?
+2) how can you improve ux in these sections of the app?
+3) improvements which can be done in onboarding / signup ?
+
+design focussed ats?
+it’s deeply ironic that the software used to hire a skilled workforce whose specialism  is improving software is in itself deeply flawed. 
+i decided to do some tests and found that there is a high chance a cv will be rejected based on some alarming reasons in no way related to a candidates skill or experience. for example:
+one cv scored low because of no identifiable bullet points. it very clearly did.
+another scored poorly based on what it called improper date formatting for the work experience.  the dates were there and readable.
+other reasons for scoring low came down to formatting, weak adjectives, non regular section headings….
+in my assessment the tested cvs were well designed, and thoughtfully executed, the weaknesses were if at all mainly found in the content itself.
+how messed up is it that a group of people more predisposed to crafting a well laid out (cos this is how we were taught) document can be rejected for those very reasons.
+using non standard glyphs, fonts and format is how we as designers show that we have a high level of executional quality and are detailed oriented in order to stand out, but there’s no point putting in that effort anymore. 
+completely pisses me off that i’ve seen product directors land executive positions and their cvs look as though someone with a barely working knowledge of windows vista (possibly relying on clippy for ai input) put it together - times new roman, maybe calibri if they’re feeling extra saucy, all centre aligned with about 60 words per line. you know the deal.
+it seems that makers of the software cater for the widest possible market who don’t put effort in to their cvs and inadvertently discriminate the segment of workers that do. or am i mad?
+
+best ways to display order min max on website
+hi,
+i’m trying to figure out the best ways to inform shoppers they are under / over min max on website. 
+if there are any examples please share.
+
+is it a ux/ui designer's responsibility to track and manage seo/analytics?
+i'm a ux designer and have been made to manage and track the seo and analytics for three of the websites we own. right now, i also have to build a whole new dashboard to track the metrics and every month i'm supposed to pull data and then input them into the dashboard as well.
+i'm just wondering how much of this is my responsibility even though i know that seo and analytics is helpful and important for ux. especially with ga4 being kinda hard to use and for someone who does not have any analytics experience or background, i am really loathing this responsibility ):
+
+what’s a proven system to transform user feedback to tasks?
+i'm a solo designer in a startup and we just implemented a feedback collection system. so far it's been working really well for us, we've captured dozens of feedback within 1 month, allowing me to filter out feedback that aren't actionable.
+the next part however is a bit of a grey area. is there a proven framework or system out there on how you convert feedback into tasks or tickets for maximum organization and productivity? sorry for asking this, being a one-man design team can be really quite overwhelming.
+
+all ux researchers. i want to know about your research proces, do you use any framework for your research?
+research can get ugly quickly if you haven't had a well-defined structure before. so i want to know about how you manage your research data both qualitative and quantitative. and what works well for you.
+
+any logical reason for this?
+there is no “search” option on this platform 🤯🤯
+so to watch “chacha vidhayak hai hamare” i logged on to minitv by amazon but, i’d scroll and find it as there is no search function on that platform which irritates but inam curious how can someone skip it? is there a business decision to it? anybody has any idea?
+i am still not sure how prime wasn’t good platform for this anymore and what is the strategy behind minitv by amazon.
+
+need help
+as someone in the us, where can i go to recruit user-testing content creators in japan, austria, and south korea? my company wants me to recruit content creators but i have no idea where to start as i only speak english.
+
+trying to find a video: 1980's ux research demo where someone rips up a floppy disk
+this was a youtube link posted either here or /r/userexperience or r/programming years ago where someone is doing a video essay style demo/short film of a research experiment they ran on their accounting software. i can't remember if it was 70's or 80's. they set up a lab with a room of computers, cameras, and a studio room to watch/record the participants. the participants are given a massive booklet with the instructions to run the program. and at some point late in the video one participant who doesn't know what a floppy disk is tears it apart. i think the runtime was about 30min, the first half was a demo maybe and the second half focused on the hci research.  that's all i can remember from the video but if anyone can find it i would be eternally grateful!
+edit: i found it! https://www.youtube.com/watch?v=tnrkvbouk14
+datamaster ease of use: a documentation case study (1982) - presented by chaz cone at ibm
+
+jobs to be done: can someone explain the big differences and pros/cons vs user stories?
+i've tried reading about jobs to be done and can't find a clear definition on what it is and why it's useful.
+some articles make it sound like it's just about wording your requirements as "when _____ , i want to _____ , so i can _____ ." instead of the regular user story way of "as a _, i want to _, so i can _".
+what am i missing?
+to be completely honest, most articles on it use 100s of vague words to say nothing very useful and make it sound like jtbd is only a slight reframing of user stories that will have marginal difference. happy to be proven wrong and it might be the articles i found, but putting it politely a lot of articles set off red flags for me of it being a kind of cargo cult practice (this comment is specifically aimed at people that can't explain what it is). it's not rocket science, it should be explainable in a simple and actionable way.
+---
+example from: https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27
+&gt; user story:as a moderator, i want to create a new game by entering a name and an optional description, so that i can start inviting estimators.
+&gt; job story: when i’m ready to have estimators bid on my game, i want to create a game in a format estimators can understand, so that the estimators can find my game and know what they are about to bid on.
+just write a better user story? "as a moderator, i want to create a game in a format estimators can understand, so the estimators can find my game and know what to bid on.". who says user stories can't have a "when" in them? if we want to require that user stories have a "when" or another field in them, do we need to write a whole book about it?
+if you're bad at writing user stories, you're going to be bad at writing job stories as well. user stories are just the start of requirements gathering too, it will get fleshed out later. i don't see what the magic here is that jtbd is meant to help with.
+---
+the idea of "hiring" an app or a physical product to do a job doesn't feel intuitive to me at all either, it's not a good analogy to me. i don't see what this framing gives over the traditional "as a, i want to, so i can". "i bought this thing to do x to make my life easier" make perfect sense, the job analogy is just weird confusing wordplay to me.  
+explaining the jtbd analogy to clients sounds really goofy and alienating as well. requirements gathering with non-technical clients is hard enough already, i'm not going to introduce even a little jargon like this unless it has a big upside.
+
+ai icons - sparkle or no sparkle
+hi,
+i've seem some anecdotal writing on the prevalence of using the sparkle icon to indicate "ai". but i don't see any definitive research on the recognizability of it.
+does any body have insights/research on the recognizability of the sparkle icon vs other ai icons?
+i'm trying to decide between a design that fits the brand better or something more universally recognizable.  
+[examples in the industry](https://preview.redd.it/75e7ls9kzfxc1.png?width=933&format=png&auto=webp&s=3166f19eb2205aad8592434937141817dff4f1bc)
+
+similar literature/research around mbux sound drive?
+working on my thesis at the moment, and doing something similar to what mercedes mbux sound drive does. i was wondering if they produced some academic research but can't find anything i guess it's all under nda. i am also struggling to gather research around the topic since it's not one thing to pin down but many different things i.e.: infotainment, sound design, driving experience.  
+anyone has some tips of how i can brake down this topic / know what research was the mbux sound drive based on?   
+thanks a lot
+
+how do you present your design research project in a portfolio? what do the companies want to see or expect in the portfolio? writing a case study or showing it on behance? need your help
+i have done extensive design research study be it field study, ethnography, service design (on sustainability), understanding communities etc. i have used maps, tools and methods to gather and analyse data. i have tried not to add any sort of ui/screen solutions to see what other possibilities can exist. but they aren't my main focus. i wanted to emphasize more on research and insights. how can i go about it? need your help.if you have come across any design research based portfolios do share.
+
+how would you prototype ai chat concepts?
+you're a designer on a chat product team for a ecommerce website. for chat, think intercom (those chat guys in the bottom right corner). for the ecom site, think amazon or chewy. this means your ui doesn't have much of a layout. it cumulatively "builds up" (message bubbles) based on user interaction. 
+your product has bot flows and generative ai. bot interactions are based on flow charts you design, and ai interactions are based on prompts you design. this all takes place within the chat ui you design.
+in your stack you have figma with its limited prototyping capabilities, and a local branch of the code repo, and vscode.
+your capabilities are you're very well-versed with figma. you know *a little* front-end code (web), but you're not good and your devs are very busy. also, you don't have tools like voiceflow/dialogflow, and don't have the budget to get them.
+how would you prototype and test ai prompts or bot flows? whether through figma plugins, other tools (free or trial), code, or wizard of oz testing. what would you use, how would you go about it?
+
+setting up user research at an early-stage saas
+i recently joined a saas company with the icp being a developer/engineer. since it's an early-stage company, the culture around user research is just kickstarting. although we do have a discovery process in place, we struggle to get qualitative feedback.
+what we use is mostly a mix of email campaigns and in-app messaging, prompting our users to share their opinions or participate in a short survey -- but we normally get only \~1-2% response rate. we tried incentives a bit (gift cards etc.), but since we're getting so few responses, i also get a push-back for spending budget on incentivizing users.
+one idea i have is to create a "research hub" with members of our users interested in developing the product with us. but this would for sure require some form of incentive.
+the goal is to have a cadence around gathering qualitative user feedback, a source of information that can be segmented and reached as easily as possible.
+how did you go about this at your company?
+
+ai that transform texto from an interview into a mapped process
+i'm trying to find an ai that can take my transcriptions from user interviews and turn them into a mapping of the process of that user. for example i work with companies that have industrial processes that are very specific, so i need do map every single process for every single client. i want an ai that can read the text and transform it into a journey.
+
+suggestions for adding unique twist to traditional login screen?
+i am designing an app currently and want to add some twists to add to the mundane action, i want to make seamless as possible and still interesting.
+
+ai-led user interviews.
+what do you think about user interviews mediated by ais? i haven't seen much discussion about this, but there are already some startups creating products for ai-led user interviews, including real-time conversations. user interviews are one of the most time-consuming activities in the ux process, and i think this development will have a huge impact on ux jobs and functions. it's already challenging to see widespread implementation of research in most parts of the market. i believe these tools have the potential to include more user feedback and insights in the process, but at the same time, specific ux research positions may disappear or change significantly in scope if these tools deliver on their promises.
+
+how far do i go with the documentation/presentations?
+hello :) i'm a junior ui/ux freelance designer and i've been asked to "redo the ux" for my client's (agency) client. i initially thought i had to redo almost *everything* related to ux, down to the goals. i don't have a lot of contact with the agency's client because my client handles all meetings (i think because i'm not experienced enough). my client gave me his client's feedback, their staging app, and a miro board with his thought process. he told me to go through the research phase, add suggestions, evaluate the feedback, compare with the competitor, and create wireframes. 
+i recently did a lot of research regarding ux because i didn't feel like i had enough knowledge. school didn't teach me a lot of ui/ux because they focused more on graphic design and game design, and the company i was an intern for before had me doing marketing design. so i figured i should go through research and follow that. this research is obviously structured for a new project so i studied all about problem statements, internal stakeholder interviews, creating personas, etc. 
+considering this isn't a new project, i clearly didn't need to revamp everything since the clients already know their customers and have some feedback. but -- especially for my sake because i'm very organised -- i wanted to start with the problem statement to confirm with my client that i understood him and that there's a consensus on the goals. 
+i provided the problem, the objective, the opportunities, and the solutions. i kept it very vague because this was just the first step and i didn't want to get lost in the details. 
+so i then sent him the document and asked if we could do a quick survey with no more than 5 customers just to get to know them. ux requires a lot of user knowledge and i didn't feel like i knew the customers/users enough to practice the "empathy" principle of ux. he asked for a meeting and told me:
+"yes, this is good. and i like your organisation, i have praised it before. but this is your first job in which the clients are paying for and they don't want it to take too long. i know their goals and if i were to present this to them, they wouldn't feel like anything productive has been made. the document looks nice and organised, but this would be more helpful to look back on later on. i want you to break down what i presented on miro and challenge my thought process, and to create wireframes". 
+i asked if they had a ux flow and he said they didn't. i said "alright, no problem, i'll try to figure it out using the staging app" but he didn't look too pleased using time to create a ux flow. my goal was to understand what's going on because their ux was that bad that i felt lost in the app. and in order to figure out how to fix it, i need to know it. 
+a day after the meeting he sent me a photo of the book he was reading on ux that stated we don't need a detailed report because it's not worth the time and effort. for teams, there's no time for written reports". i didn't argue with him and thanked him for the message.
+my question is, would i really be wasting time making sure that we have a statement documenting a consensus on the goals, that we have user personas, and ux flows? 
+my intention was to save time for later because i know that when stakeholders don't agree on the goals and strategies, things need to get redone and reevaluate over and over. i experienced it in the company i was an intern for. and my client just planted this project on me so i have little to no knowledge about his client's company or goals. i felt lost on hoe to proceed and where to start and how far into revamping do i go. 
+wireframes take a lot of time and i know that having to constantly change layouts and flows will take time, effort and money. i don't want to then be blamed for taking too long to launch the platform. 
+what i've done since that meeting is spend a lot of hours researching to challenge, back up, or add on to what he presented on miro. i researched qr codes, how to streamline the onboarding process, and the industry in general (how similar apps work). i did something similar to him which is creating trees of boxes with sticky notes using minimal text so that the clients can visualise the thought process.
+
+choosing and listening to call recordings between credit card users and customer care representatives using call analytics and mapping down the observations.
+i work for an american financial corporation as a contractor as a ux designer and i work on various functionalities of their customer care portal. the direct users are customer care representatives and the indirect users are credit card who have contacted the customer care representatives.  
+i have no access to the indirect users for user research to understand their needs and study behaviors.  i however, have access to the recordings of the calls between the customer care reps and the credit card users. there are probably thousands of call recordings and i can filter them based on country, use keywords to search for relevant conversations (ex- if i want to listen to conversations related to transaction queries, i can use keywords to filter out the conversations to narrow down the same).  
+i am working on a key feature where the customer care representative clears queries related to transactions. i can't conduct user interviews at this moment due to lack of time. all i have is p.o.d screens and i need to redesign the journey using the new design language adapted by the corporation. i can conduct ux audit of the existing screens journey and screens but user  study will give me more information.  
+how many calls i need to listen and what process i need to follow to highlight the pain points of the users and the way it affects the business? there are literally thousands call recordings available. i need to listen to them to understand the conversations related to the feature. i have just a week left with me to submit the first draft. there are calls which last for just 4 minutes (including the ivr) and a few calls that last 40 mins. how do i choose the calls and which process should i use to map down my observations? i am a solo designer working on the project and i am lost.
+
+benchmarking and competitive analysis for enterprise software
+i work on a b2b enterprise software for airlines & airports. we do have competitors but how to i explore their existing experience to benchmark against when the only way to demo their product is to connect to an agent looking to sell thier software? i have asked the pms on my team if they has access to any competitors products that i could explore and they just close the door and say that they cannot get access to any demo software because we are direct competitors. 
+in general i am also finding it tough to benchmark against enterprise systems out there. 
+i feel it’s vital to at least see what our competitors and similar type products are doing, not so much to copy them but to simply explore the offerings and general experience of like solutions. how did they solve similar problems? etc. 
+there seems to be so much focus on b2c when i am looking for patterns etc. (mobbin, designpatterns.com etc) we work with very large sets of data and users have very different needs than a lot of saas products that focus on individual consumers or small business and are typically responsive style designs. 
+enterprise software designers, please help me out ! 🙏
+
+desktop only webpages examples
+i was wondering if anyone knew of any websites that have been developed for a desktop experience only. if you go to the url on a mobile, you have a landing page with a message similar to: "this website has been designed for a desktop experience, please try again on a desktop" - or similar.   
+i know i have seen a couple of examples but for the life of me.... i can't remember what they were. i am doing to research. any suggestions are welcome. thanks!
+
+how do you guys get feedback on your designs?
+from what i've learnt from years of customer feedback at startups, is that most people lie. i'm technical but have decided to learn figma, how do you guys get good feedback for your designs?
+&#x200b;
+
+what do we need to "unlearn"?
+hello wonderful ux people,
+i'm currently working on a short internal presentation in which i reflect on how our field has changed in the broadest sense. i'm particularly interested in which "paradigms" or "principles" have changed so fundamentally that we should "unlearn" existing patterns.
+one example, which comes more from marketing theory, is the separation between b2b and b2c business relationships and their manifestation on the web. due to organisational separations, there used to be separated b2b and b2c websites; our customers tried to create "order" by making a clear allocation to one of both groups as early as possible in the process. in reality, however, things look different: b2c (end) customers are often well informed, researching in "professional" sources; on the other hand, b2b customers also move around in social media environments and want to be inspired — even in their free time. this suggests making them "joint" offers that differentiate as far as possible in the customer journey, leading to new challenges in ux-design (this is just an example — i don't want to discuss this particular issue..)
+**what examples can you think of? what things do we need to unlearn? what do our clients need to re-think?**
+i'm happy about your insights and some inspiration!
+
+should product owners  validate prototype with users?
+we're under resourced on the ux team and the senior vp of product wants product owners to go out and test prototypes with users, one validation has come back and it's been a disaster to say the least. i'm against product owners validating designs that should be conducted by ux research what are your thoughts and are you experiencing any issues in your businesses with validation?
+
+gathering user feedback from an interview session?
+we have launched our product a few weeks ago and i'm doing an interview session with a few users asking for feedback on our product - mainly gathering feedback on the product's user experience and what we can improve on. since this is my first time doing something like this, i'd like some advice on: 
+* how i should conduct this to make the most out of the session?
+* what are some do/don'ts when it comes to framing questions?
+any other advice would be great! thanks :)
+
+advice on ux research for the lgbtqia+ community - e-commerce ux project
+hello everyone, i am working on a ux project to create better e-commerce experiences and value for the lgbtqia+ community.
+(1) if you know of any previously conducted research, please share any links.
+alternatively,
+(2) if i were to conduct a primary research on this, what would be the channels or mediums to approach? please suggest.
+
+user testing platform for recruiting and screening us kids?
+i'm looking for a platform that will allow us to screen and recruit kids in the us. we need to screen by geographic location and demographics (e.g., age, race, gender, language, special ed. accommodations, etc.).  the platorm needs to allow moderated and unmoderated studies, with study setup and administration, data capture and analysis, and it needs to allow participants and moderators to access testing materials (e.g., web apps, clickable mockups, static wireframes, etc.).
+cost is not much of an issues but quality of respondents is critical. we also need a plug and play solution - we don't have the staf to build out own. can anyone recomment a platform that might work for all of this? and any vagur isuea of cost? are we looking at thousands per year, or tens of thousands, for example?
+thanks so much - really would appreciate any insights.
+
+indications ux research courses
+i want to take courses in research, i already have experience but i'd like to get up to speed in the area of metrics, data analysis... any good, cost-effective courses? 
+it can be online or in person in spain :)
+
+useless decks
+i’ve been seeing a lot of useless slide decks lately with questionable research. i’ve been wondering why ux jobs have been disappearing and it seems to me that a lot of the profession has been infected with consultant speak, artefacts and general bullshit that doesn’t contribute to real work getting done. it’s part of the overall destruction of agile. lots of useless work and people slowing everything down so they can have workshops/meetings/alignment. where are the people who have experience enough to just know something is going to work decently? some level of inherent knowledge? sure it’s good to test what you’re doing with users but don’t overdo it especially when your outcomes are dubious. seen so much dubious research lately i thought maybe we should not bother. just build stuff quickly and optimise after launch.
+
+lessons learned about appropriate messaging from my fitbit while experiencing tachycardia (extended really fast heart beat)
+tl;dr 
+my fitbit cheered me on for being “in the zone” as my heart experienced abnormally high heart rate. 
+i had a long bout of really accelerated heart rate (normally upper 60's, but was 160-170+) for an extended time a few days ago.   my fitbit recorded it all, and there's a timeline of it in the screen shots below.
+now to the ux messaging part.
+during this, my fitbit congratulated me multiple times about how i was "in the zone" and doing a great job!   i found it pretty amusing during the event, however also a good lesson about ux.
+i'm sure one has to be really careful about messaging health-related things, but in this case it kind of backfired.  totally safe to tell someone "good job you must be exercising!" not so safe to do so if they aren't.  it knew i wasn't running a marathon as my steps weren't going up, and it knew i was basically inactive in general.   
+honestly i'm not sure how one would handle this if one specifically did not want to move into the realm of medical advice.  you can't just say, "look i'm just a watch, but your heart seems kind of fast and you're not moving much.  i'm not here to give you advice, but you might want to google 'tachycardia'"
+ps
+i did go to the er, and it was supraventricular tachycardia (svt).  they had to do a "chemical cardioversion" to fix it.  this essentially stopped my heart for about 6 seconds - the equivalent of "have you tried turning it off and then back on again?"  i also ordered an apple watch which can and will alert you to irregular heartbeats.
+pps
+i have a versa 2 fitbit that's a few years old.  there are probably newer models that can effectively notify the user.
+https://preview.redd.it/i5yc7z39kotc1.png?width=592&format=png&auto=webp&s=c15f5ac04426780e8cbae6ce502e73498b782273
+https://preview.redd.it/bxoo5ahbkotc1.png?width=612&format=png&auto=webp&s=474a8d28f01cadd7406d20d6f442ca9e72bf49a1
+
+ux exploratory research: how do you know when you’re on to something?
+in ux research i’ve done in the past, ive sort of shown people things and theyve been mildly interested or generally positive. usability testing i’ve found to be way easier and straightforward, because thats just reducing fuck-ups and misclicks in the flow.
+does anyone have any examples of when user interviews have gone really positively, and demonstrated significant evidence that a particular design direction might be best suited?
+
+what are your methods for enhancing the research portion of your personal projects when you don't have the resources for it?
+*by not having resources, i mean the time, money, reach for conducting interviews/surveys, etc.* 
+how do you justify your design decisions/direction without the  proper research? i mean, i can add something like how i interviewed/surveyed 10-20 people, but it feels insufficient
+
+how do you fit in images provided by client to match the color and feel of your ui design ?
+so i’m kinda confused when i’m stuck with, making a clean ui design and subtle use of colors and typography. all of a sudden client gives few pictures which have lots of colors in it and different feel and mood gets mixed up from the original clean and minimal design. how do experienced designers handle using client imagery and blend it with theme of website ?
+
+how do i access app designs without installing them?
+so i've been applying to jobs recently and have got a few assignments back. one thing common in these assignments is that they want me to check a certain app for reference but the problem with that is i have to install and register myself into these apps every time. is there any resource where i can just check the ui and ux of the application without the hassle of having to install and register myself??
+
+resources on the impact of tactility / physical buttons vs. screens and best practices?
+i'm currently working on two projects that involve tactility as a significant part of the ux - things like dials / sliders, and increasing tactility to touch-based ui to improve functionality and user mindfulness/awareness. i've looked for some resources on these topics but haven't found anything very useful in regards to how this tactility, especially that of physical buttons, impacts user experience.
+i've found a few articles on the subject, but i'd really like some user interviews or hard data that speak more specifically on how users felt while using the products, if they remembered the flow of screens/functions, things like that. have any of you found helpful resources on these topics?
+thanks in advance!
+
+delineating user research
+-background
+i’m conducting ux research for a padel tennis court institution with a relative open scope.
+there is the physical padel tennis facility and there are its digital services; its homepage and a third party booking service.
+-aim
+the aim is to explore how the overall experience could be improved, e.g., providing more relevant information on their website, simplifying the booking experience, as well as extending the service with padel tournaments and better coaches. 
+from the conducted comparative analysis of similar padel tennis institutions i’ve extracted features both in terms of how their digital service is designed as well as types of services offered. 
+-question
+how do i delineate the research to focus on a specific set of improvement areas as opposed to trying to encompass everything that could be improved. 
+as i’m progressing i feel that the project is embodying both service design as well as ux/ui aspects.
+(i’m looking for advice on specific methods and thought processes to help clarify this) 
+thx for serious answers
+
+an idea to help designers practice design
+hey everyone! i’m currently trying to validate/build an idea i had to help fellow designers build up their visual design skills through real-world projects. basically using real brand guidelines and assets. i just want to see if it’s something the community would actually want. any feedback is greatly appreciated. thanks!
+
+hello, looking for tips on adding social media sharing to my app. any advice?
+hi, i'm working on an app and i'm wondering how the backend process for sharing to social media works. i want to add this feature to my app, where users can click 'share,' choose a social media platform, and then link to an image post with a caption for easy posting. do i need a third-party application or special links/codes?
+
+information architecture: basic question
+hello everyone,
+i'm working on an information architecture project for my master's degree. currently, we are conducting content research for the project and using the heuristic evaluation methodology to analyze the website's content. during my studies in human-computer interaction, we employed heuristics alongside scenarios with a specific user and tasks to evaluate the websites/apps from a user-focused perspective.  now, in this information architecture course, the context is different. we are using the abby covert method but we are not sure if we need to create a task or scenario before doing the evaluation? how should we prepare for the heuristic evaluation for the information architecture on a website? should we create a scenario then?
+and now that i'm making questions, what are the best tools to start user research when you don't have a lot of time? is it use cases and personas enough?
+thank you for your time!
+
+user testing tools
+i work in marketing but getting more involved in the ux and cro side of things and i’m looking for some suggestions for user testing tools. what tools are you guys currently using?
+
+how (why??) to find appropriate people overseas to conduct research??
+i'm a design student trying to do some research for a project related to yoga. i've prepared a questionnaire and want to get answers from people who practice yoga. i can think of obvious ways to find people from my local city like go to yoga schools, communities, etc. so i think it shouldn't be much of a problem.
+but i would like to reach out to people from other countries as well, so i can have an understanding of how things are outside of my country.
+i tried sharing on reddit, but most communities here don't allow surveys to be posted, probably for very good reason (i wouldn't want to have spams of individual thesis surveys if i was a mod either, i think they don't really add to collective value).
+i also found a site call poll pool which has a system of coins for filling surveys. it looked too niche for me, and i think the people engaging with that website is not significant either, so it'll not be a good option to find regular people interested in yoga over there.
+&#x200b;
+this has lead me to think about the point of my survey even more. throughout my design classes, i've been taught to start with research, so without much thought the first thing i made was a list of relevant questions and designed a form for it. but now that i think about it, i feel like the answers to those questions are not going to define my product, i can't hope that people going to type descriptive answers to tell me the why behind their problems. the answers will just be a validation test for my assumptions and hypothesises about people's yoga experience.
+so should i stop not sleeping thinking about how to do the perfect research, and just get on with it, gather the responses i can, and go ahead with making the product. then conduct further research as i encounter more problems and questions along the way??
+i'm lost here, any help would be appreciated.
+
+behance
+could you comment on my new crypto app design? 
+[https://www.behance.net/gallery/195258793/crypto-app](https://www.behance.net/gallery/195258793/crypto-app)
+
+which one is better?
+i have attached two design options featuring a disclaimer card. each option has 3 sub options in it featuring different positions of the disclaimer card on the screen. which one has the best ux according to you? or let me know if you have any other suggestions  
+context:  i am designing a job hunt app onboarding screen. on one screen there is a question - 'do you own a laptop? : yes or no' wherein i have to add a disclaimer in the same screen saying ' we provide opportunities even if you don't have a laptop'
+https://preview.redd.it/c1ir1kki3urc1.png?width=1191&format=png&auto=webp&s=be1d3472cb4dbee3b363220c72dde7201cc72263
+https://preview.redd.it/vcrfbiki3urc1.png?width=1182&format=png&auto=webp&s=13c7c6a369fe757eb077973aa582447fadf4e427
+
+how to announce about what’s new within the app
+hi everyone, i am a pm in a fintech startup. 
+we have tons of existing features and releasing new ones at every two weeks. but i feel like announcing way of those features is not enough. some of my friends using our app and they have no idea that some features are exist. so i thought a permanent ‘what’s new?’ section on the app’s homepage, which keep up-to-date users on every release. also old feature announcements will be there historically.
+i often look and try new features on the apps i use for work and daily things, but couldn’t find a good example what i mentioned above.
+so i quesitoned whether this is a necessary thing or just me to want to see new features on apps that i use? 
+what do you guys think? and if know any usage of ‘what’s new?’ in an app, please share with me.
+
+card sorting: how to understand user decision making when they sort cards the option “other”
+hi everyone, i am working on a ux project to improve the website navigation bar.
+my objectives are:
+- understanding users logic when they sort  the cards
+- validating the current orders of items in the navigation bar
+i use useberry for my card sorting, i provide users a group “other” if they are not sure which group they should put the item in. its around 30 cards and 6 groups
+i have 4 follow up questions, one of those will ask them what item do they sort in “other” and why. however, i am sure that users will not remember what did they put in that group.
+how can i do to make my card sorting work?
+it would be nice if you can recommend me some sources to read about card sorting and things about group “others” in card sorting
+thank you so muchhh
+🙇‍♀️ also very sorry for such a long post 🙇‍♀️
+
+don't forget the touchpad users. if you have "swipe left" in mobile, have it for touchpad too.
+this is a good measurement for me. it is a rare thing but usually, high quality products has it. mobbin, apple, instagram has it but reddit does not have it so it is also very often missed by the big companies.
+
+showing hotspots in maze?
+hello, 
+i was wondering whether it is possible to make a usability testing on platform maze, while the hotspots are visible for participants?  i know it should be possible, but i do not know how this thing works in the background and how i can achieve this.
+i tried rewriting the link to the figma prototype, but it's still not working. i also tried turning them on and off, still not working. do you guys have any idea what i could do to make it work?  
+thanks for your ideas!
+
+design question - front end dev
+a developer i am working with has laid out a list of items he requires from a ux design professional to get the project to a point where he can take over. one of those items is for wireframes to include html and css files using tailwind's css framework.
+is that a normal request for ux designer? 
+i have no technical experience and want to make sure that i am not rejecting designers because of a service they are not expected to fulfill. 
+thank you for reading my post! 
+best
+&#x200b;
+&#x200b;
+&#x200b;
+
+usability testing
+so i’m a fairly new designer, been in my role for about a year and four months now. this is my first project with usability testing, and idk if it’s just me, but i find it draining. between me and another designer, were doing 14 usability tests per round (we have 3 design rounds) our minimum is 12, but for this first round we’re gonna do 14 until our sprint ends early next week. is that too much typically? i enjoy iterating, but not so much doing usability tests. any thoughts ?
+
+how to test a tool like webflow?
+i’ve been working on a project, which has many features just as in webflow editor, but with different scope. so the tool going to be very interactive, which is mean, almost each click influencing the appearance of an object. i need help on this, how to test  these types of features? what tool or method would you reccommend for this? thank’s in advance
+
+can someone help me interpret contrast values?
+according to these contrast calculators, the below right option (black text on the turquoise-ish color background) offers a far better contrast value. not sure if its my eyes or the macbook display, but to me the white one feels more expected and logical, the black one feels unnatural. 
+https://preview.redd.it/k1ni0edci2pc1.png?width=2070&format=png&auto=webp&s=05310276d6764aef1504d60fea9d7f4b8e55f635
+i noticed this with other colors too:
+https://preview.redd.it/kn1hnx3oj2pc1.png?width=1842&format=png&auto=webp&s=7995bd2f2d3f7fee4c93ff6440eed011604eee93
+now i'm just confused, maybe i'm just not aware of something, maybe its just some psychological interpretation for me. i know in this case i could just adjust the background color to have the white text work better, but i'm just generally interested why the contrast calculators are so much in favor of the black text (in terms of the objective numbers) or its just purely an issue with my eyes/interpretation.
+
+open source design?
+hello, i'm currently doing some research for the potentials of open source design in the field. similar to how open source works in developer fields, in the sense that there is a greater sense of community involvement when people are working on projects together. if anyone has any insight on how this could work, it would be greatly appreciated! even if you just want to say it's a dumb idea lol
+
+should i use singular or plural verb form for tooltip?
+esl dev here, i'm having an argument with my ba over grammar 🙄 i have a toggle for dark mode and my ba put a tooltip that says "enable dark mode". i think it should be "enables dark mode". which one is correct?
+
+do gesture based interfaces like google's "predictive back gesture" violate the "recognition rather than recall" heuristic.
+google recently added to its devices the "predictive back gesture" which removes/overrides the static system navigation. this is similar to what ios had back then where users had to swipe up to pullup the control panel which was insanely frustrating as in both options users never know the action actually exists. i personally think its pretty bad ux.
+
+step indicators - numbered vs categories
+anyone have any recent research on step indicators or done any recent redesigns with them?
+more traditional wisdom was that it helped to number steps.
+more recent mass market designs (like checkout on amazon and other major retailers) seem to forego numbered steps in favor of high level categories like "shipping" / "payment".
+the latter seems like it would be much more flexible if any of the categories has a dynamic number of sub-steps.
+
+is a/b testing everything necessary?
+we've been optimizing web design recently (primarily widget redesigns) and i feel i have to test literally everything. sure, testing new design is great practice and should be done regularly, but is testing 100% necessary when you know the previous design is far less superior in terms of ux than the new design?
+given the amount of traffic we get, many a/b tests need a solid month to gather substantial insight, hence why i bring this up - not to mention superiors and other departments asking for timelines. we also haven't dabbled in offsite testing yet, but would this be the viable way to just test everything quicker?
+curious to hear anyone's thoughts around their a/b testing methods. thank you!
+
+books on empathy for designers to understand their users better
+as a designer always advocating to empathize with users, i fail to transcend the same feeling to the product team. i keep talking to users during the research interviews and try to communicate their needs to the product team. but the product team most often does what they really want to do and cherry picks insights that aligns with their vision. none of them have ever spoken to user directly and cannot empathize with them. are there any book that i can refer and share ways in which the product team can be more empathetic to user needs while making decisions?
+
+so this article talks about how perceived value can be affected by a delay? yet don't make the delay more than 400ms?
+https://lawsofux.com/doherty-threshold/
+
+for anyone that creates moodboards for their work, what features do you wish you had that would make it easier, faster or even more fun?
+any functions or settings that you would request if you could?
+
+software for "card sorting" for a process
+hi all,
+so i need to map out a procurement process. the problem is that this process is not the same for all customers. some will require some steps (like approval for the expense) and some won't. so what i need is software that i can use to send out links to the participants of the research, have them drag'n'drop cards with actions (premade by me) that they find relevant in a sequence (i.e. timeline).
+on the back end of this excersise i'd like to have a process tree with relative weight of each step. or at least a csv that i can work on in excel
+
+so is this saying that users will use things that look more pleasing than not? asking for my own brain's misinterpretation quirk
+https://lawsofux.com/aesthetic-usability-effect/
+
+icon recognizability
+are there any statistics on how long it takes for users to recognize a new icon?
+i've heard it's really long, but i can't find any research to support it.

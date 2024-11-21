@@ -1,0 +1,40 @@
+don’t join product design if …
+the question is decidedly broad: looking for your immediate input and thoughts. how would you finish the sentence based on your experience? a bit of context on where you are coming from and your rationale helps a lot of course.
+
+documenting a year long project, where i’m involved in every step?
+so it’s the season to update my portfolio again, except this time i’ve been rather productive at work for the past couple years - a lot had been done.
+but here’s where i kinda need help or advices. i’m in a fairly small ux team - under 5 pax, that means a lot of times we are very involved in every step of the way in our work.
+let’s say for example if i’m involved in designing, delivering, testing and maintaining a mobile app, how would one go about documenting this? do i include everything in my case study? or just enough for showcasing and exclude the story/details?
+i believe in presenting case studies in a way of storytelling even though sometimes they may not be in the conventional format, but at the rate i’m going it’s going to be a very long read. 
+thoughts?
+
+might get laid off. what to do?
+i have been working in a start up and designed 4 products from scratch single-handedly,from research to final screens but all the projects got shelved mid development because my boss is simply fickle minded and felt that they won't generate revenue. i am currently on maternity leave and will be going back next week. after a review call,i got to know that every project i was working on has been closed off the way i left it and he has moved on to projects that will scale better, thereby eliminating my role in the company. he has given me three months to see where i fit in but i doubt it will be of value to me on the long run. how do i write my resume and portfolio to not showcase that i have been on a dead end job the last two years 😅
+
+my experience applying for summer 2024 internships: data + what i learnt
+i was inspired by [this post](https://www.reddit.com/r/uxdesign/comments/1c8fvr9/finally_landed_a_design_role_a_year_after_layoffs/).
+i haven't seen many (ux, product, graphic) design students talking about applying for summer 2024 internships, so i wanted to share my experience and see how it went for others. i also wanted to share as many details as possible (without exposing myself!), because transparency is great and unfortunately it seems like there's not a lot of data!
+stats: small canadian university (west coast), 3rd year graphic design student, one prior internship that was literally at my university
+[sankey diagram](https://imgur.com/dwkqt14) charting how it went
+* i started applying early january 2024 and stopped late march 2024 (when i got my offer confirmed). i applied primarily to canadian positions (locally and nationally).
+* i found most jobs through linkedin and indeed (and would follow the link to the company's career portal and apply through there). my design program has a required internship component but career services is basically useless.
+* it did seem like there were much less internships this season, especially compared to summer 2022; i feel like on average there was only about 5-10 new design intern postings per week in canada, and that number dropped significantly by mid-late february.
+* what i wanted the most was some kind of design internship where i'd be working in the digital design space (product, ux).
+more specific details:
+- government of canada summer student job: hiring manager reached out -&gt; told them i was no longer looking due to accepting another offer
+- another government of canada summer student job: hiring manager reached out -&gt; did an interview -&gt; withdrew from process due to accepting another offer
+- geocomply: assessment (quizzes + one-way video interview)  -&gt; not selected
+- siemens: withdrew my application 
+- a senior designer was planning to take me on as a design intern with their team for the summer, but due to some company stuff, it didn't end up working out :(
+- a referral to amd resulted in a rejection a month later 
+- the only referral/application that worked out was one from a professor i'm close with; i was connected with a local design agency, who interviewed me, offered me an independent contractor gig in february (i was working beside school), and in late march, decided to keep me for the summer (eta: the position is remote, paid $22 cad/hr)
+- [here's the notion](https://stellar-alarm-bc9.notion.site/6e888ba9523c48a7874390e714e035bc?v=13d1a30a462247eb8462cca6c4b0bb9a&pvs=4) i was using to track what jobs i was applying to (and their job descriptions for if i ever moved on to the interview stage, which i did not 🥲), here's my [resume and portfolio](https://imgur.com/a/79ljijp) for reference
+**so, what did i learn?**
+* i suppose it's true that all it takes is one yes.
+* connections really do matter; if it wasn't for my professor, i wouldn't have an internship this summer.
+* local design groups, in my experience, either don't really like students, or are quite cliquey. i tried joining and being active in some of them (just trying to get to know people, not demanding a job or anything lol), and my experience wasn't that great. in one of them, a notable designer was actually quite passive-aggressive with me. 💀
+*  online design groups don't really seem relevant for design students in degree programs either. they seem more geared towards bootcamp students or career transitioners.
+* design orgs (in canada, we have the rgd) are not very helpful either. it's not very advantageous to apply to the same x number of internships that every other student in canada was applying to.
+* ripplematch is kind of useless, i feel like it's more useful for american students.
+* trying to connect with recruiters/hiring managers on linkedin after applying to an internship makes no difference — i was ignored in all cases, but i don't blame them, their dms may be getting flooded by students.
+i honestly have no idea what to expect with regards to junior designer positions once i get my degree (will there be more openings? will there be less? is it worth going to the states?). what i do know, though, is that i have a lot to grow and develop in order to become competitive for opportunities after grad.

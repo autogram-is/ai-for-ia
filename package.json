@@ -24,31 +24,26 @@
   "scripts": {
     "docker:up": "docker compose up -d",
     "docker:down": "docker compose down",
-
+    "db:setup": "npm run db:schema;npm run db:migrate;npm run db:populate",
     "db:schema": "npx drizzle-kit generate",
     "db:migrate": "npx drizzle-kit push",
     "db:populate": "tsx src/scripts/initialize.ts",
-
     "nlp:analyze": "tsx src/scripts/nlp.ts",
-
+    "nlp:wordcloud": "tsx src/scripts/nlp-wordcloud.ts",
     "vector:embed": "tsx src/scripts/embed.ts",
     "vector:locate": "tsx src/scripts/locate.ts",
     "vector:docsearch": "tsx src/scripts/retrieval.ts",
     "vector:cluster": "tsx src/scripts/cluster.ts",
     "vector:project": "tsx src/scripts/position.ts",
-
     "prompt:categorize": "tsx src/scripts/prompt.ts",
     "prompt:describe-clusters": "tsx src/scripts/describe.ts",
-
     "report:accuracy": "tsx src/scripts/compare.ts",
     "report:clusters": "tsx src/scripts/report-clusters.ts",
     "report:movement": "tsx src/scripts/report-movement.ts",
-
     "test:tokenize": "tsx src/scripts/nlp-tokenize.ts",
     "test:ollama": "tsx src/scripts/ollama-check.ts",
     "test:epsilon": "tsx src/scripts/test-epsilon.ts",
     "test:prompt": "tsx src/scripts/test-prompts.ts",
-
     "build": "shx rm -rf dist; pkgroll --minify",
     "format": "prettier --config prettier.config.js 'src/**/*' --write",
     "lint": "eslint src/**/*",
@@ -83,7 +78,6 @@
     "@electric-sql/pglite": "^0.2.12",
     "@google/generative-ai": "^0.19.0",
     "@keckelt/tsne": "^1.0.2",
-    "@nlpjs/basic": "^4.27.0",
     "@sindresorhus/is": "^7.0.1",
     "@types/cli-progress": "^3.11.6",
     "@types/pg": "^8.11.10",
@@ -106,7 +100,6 @@
     "openai": "^4.61.1",
     "p-memoize": "^7.1.1",
     "pg": "^8.13.1",
-    "postgres": "^3.4.5",
     "sparkly": "^6.0.0",
     "tasuku": "^2.0.1",
     "wink-distance": "^2.0.2",

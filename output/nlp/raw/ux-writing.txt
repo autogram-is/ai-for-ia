@@ -1,0 +1,130 @@
+error messages: tips for organizing all messages across various flows?
+hi all, i'm a content strategist and i'm looking for **suggestions for how to gather and organize error messages**. currently, everyone on our content team spends so much time writing error messages from scratch, leading to inconsistency. any processes or tools that have worked well for you and your team? maybe it's as simple as starting a shared excel spreadsheet but i'm curious if you have any other best practices to share. thank you!
+
+ux writer/content designer workplace respect rating
+using the scale of 1 - 4 below, comment with how you’ll rate the respect you get as a ux writer/content designer at work.  
+————————————
+reply format
+rating: 
+industry: 
+context (if any):
+————————————
+scale
+1 - do i even exist? i am only invited when the work is done. 
+2 - i am invited but told to stay in “my lane”. 
+3 - respected but not always included. i have to remind them content is the design.
+4 - i am always included and well respected. ⭐️
+#uxcontentdesigner #contentdesign #workplaceculture #uxwriting
+
+rewards icon in microsoft design
+if you have noticed the rewards icon in microsoft design, it looks like upside down profile icon. i can’t get my head around that. every time i see it, even in peripheral vision it seems off. like upside down profile icon.
+do you also perceive it in the same way? please share your opinion on it.
+
+displaying info on global web app based on ip address - need to request access or no? and other ethical q's
+question is exactly in the post title. it's a global web app with millions of users. we're displaying information based on geolocation (ip address.) can we do this without asking permission to request access to location? is it legal? thoughts on user experience? (i have my assumptions.)
+a second part of this question is: we're displaying prices based on ip address. but actual prices are based on selected location, so prices might change.
+my team does not want us to have any fine print. not even a very brief piece of text stating prices are based on location and may vary. they do not think it is dishonest or deceptive even though they know prices might be higher than first displayed.
+i will probably lose this battle, but wanted to gather thoughts to check if my instinct and understanding of this is correct. thoughts?
+
+uk content design salaries insight: civil servant vs private sector
+hi all,
+i'm an seo content designer for the uk government. i earn about £48,000. 
+any insight into how that salary compares to equivalent private sector roles? both tech roles (google, apple, meta etc) and non tech. 
+i have about 5 years experience as a content designer: over 1 year in a busy central gov department, and 4 years previously in a less busy gov role. i have several years experience before that in comms/marketing. 
+many thanks!
+
+thoughts on using "see" and other similar sight-related words?
+as a content strategist, accessibility is always top of mind. one thing that comes up frequently is whether or not it's ok to use words like "see." for example, in a cta like "see your account summary" on a financial website or app. generally, i've learned to avoid "see" as it may offend vision-impaired users. but then i read stuff like this, from a [vision-impaired blogger](https://veroniiiica.com/my-view-on-the-word-see-and-other-disability-language/): 
+*"while i’m sure there are some people out there who dislike the word “see”, the word itself is not considered offensive to people living with vision loss, including those who are blind or that have low vision. in fact, many people with vision loss use words like see, look, watch, view, and other words that describe visual information, even if they are not necessarily getting information through sight alone."*
+i'm curious what your company's / design team's stance is on sight-related words - do you have a strict guideline one way or the other? any real-life ui examples would be great, too.
+
+how would you design/phrase this differently?
+i'm not a copy writer/designer, but a developer, and this is landing page of a website builder i'm working on.
+what i wanted to convey here is that a landing page is a tool in how you convince your customer
+the 1st thing you need to do is to convince their 'feeling brain'. the colors, the textures, the way things move etc.
+the 2nd thing you need to do is to convince their 'thinking brain'. that is, the reasoning behind the purchase. the value. the numbers.
+and i tried to make the visitors understand that different sections correlate w/ different parts of the brain, and this is why there's a general structure they should follow. (that's why the sections are in steps).
+as a first time visitor to the site - do you think you'd understand that? how would you change that so it's clearer?
+\*\*\*for some reason the image i inserted is not attached to the post (i tried doing it twice) - this is the actual website - [here](https://beaverrr.com/) -
+and the relevant section is the one with the **feeling brain** + **thinking brain**
+
+whether to include diagrams in getting started guides
+i'm currently learning how other smart home products handle their getting started guides in the hopes of shaping my employer's getting started guides. however, i'm still at a bit of a loss on deciding whether to keep an action step as a bullet point vs. including a diagram, especially the plan is to let the app's instruction do the heavy lifting. 
+how would you advise on whether to include or exclude diagrams on different action steps in order to avoid making the getting started guide look too overwhelming? does it depend on how the customer base would react?
+
+interview question about stakeholder management
+hi y’all, i got this question during my last interview. i didn’t get the job, but just for the future i’d love to know what interviewers want to hear.
+“how do you manage stakeholders? how do you convince them to make the changes you propose?”
+
+deletion confirmation
+hey peeps. 
+i was having a chat with a colleague about deleting items and bulk clearing fields in a form. he asked what about how should we confirm the deletion. (not how we confirm the intention - we have a pattern for that and it is a pretty common confirmation popup dialog) how does the system confirm to the user that the action has gone thru. 
+i was arguing that the fact that the content from the fields or the file in question being no longer present is *enough* of a confirmation of that distructive action taking place. he was proposing a green success toast message with a "deletetion successful" type message - and the team agrees that this (out of 3 types of visual confirmations) is the way.
+is it something that i am missing here? because i still feel that less is more in this case. why bother with an extra message?
+
+i wrote a c0ver letter for pizzahut
+i know hrs are not reading c0ver letters these days, and writing a letter like this might be an action that only moves me, but i really want to share the rekindled memories i experienced while applying for j0bs in the us.  
+here is a part of my letter:
+fifteen years ago, as a young child in a remote town in china, pizza from pizza hut was the ultimate reward for good behavior. whenever i received good grades, completed a piano performance, or celebrated a birthday, my mom would ask friends to bring pizza from the nearest city. pizza, as the most vivid carrier of western life, created a window for me to feel and experience the outside world. i still remember being amazed by the ostrich meat on the pizza and how we complimented the juicy hawaiian pizza. years later, the internet informed me that pineapple is not a regular topping for pizza, but in my memory, traditional pizza should definitely be served with pineapple.
+
+what ai tools do you use? specifically for copy
+hey! so this is a real question - i totally understand i could just pay for chatgpt or any of the algorithms, but i'm curious if anyone has the same needs/experience as me. i'm a freelance/agency owner and i have a well-written design questionnaire that i use when onboarding clients. i typically reduce their answers into a good script for chatgpt to analyze. i give it business name, details, etc. and then work with it to write the copy for sections of the app/landing page/website. i'm curious if anyone uses any specific ai tools to do something similar.. i also would love to just be able to feed the tool a whole design questionnaire or bulk of text and it will remember it and use it to write copy with me the whole time i'm designing/building. 
+bonus points if the tool understand good ux practices.. i'm just hoping there's something out there, worth a shot in the reddit dark i thought. 
+if not, would this be a good tool to build? 
+thoughts?
+
+title case vs sentence case for buttons
+which of the two is better to use for buttons?  
+if you have done some research to back up your choice, please share
+
+what do you include in so called "documentation"?
+i had a phone call with a hiring manager, he kept on mentioning he is looking for a designer that could document well a project. and to be honest i only know how to document a process that i'll put in my case studies 🥲
+here are the things i feel worth knowing especially for junior and mid-level designers
+*  what are the cases where the team needed a specific document such as persona, user flow, information architecture?
+* what are  your tools to leverage and share this documentation with your team?
+* what documentation should i provide to a specific teammate?
+* are there good design books about ux documentation?
+
+vocabulary question
+i'm looking for a phrase i can use to search for some potential consultants. the phrase would describe a ux audit, but not anything digital - just auditing in-person interactions between customers and our staff / buildings / resources.  the website is actually not something we're worried about at all.  we're a non-profit looking to improve our customer service experience, so we need some benchmarks set and then potentially recurring assessments every couple years so we know we're improving and meeting our goals. 
+what is this called?  when i search for anything like customer experience, ux audit, or even heuristic evaluation, it all seems focused on digital tools. we need to know how well our customers are wayfinding within our buildings, getting questions answered by staff, and generally experiencing their time in our facilities. 
+thank you for any ideas!  as a former coding monkey, i feel totally lost on this project.
+
+button microcopy for failed transaction message. suggestions?
+i'm working on an e-commerce solution and we have a message for when a transaction has failed. the message is a dialog box that says we were not able to process the payment and to review information and try again. button closes the dialog box and places them back on the payment page.
+button label said "back to payment" but i was asked to change it because stakeholders thought users might think of it like the browser back button. (which there is not stopping someone from using.)
+suggestions from stakeholders were:
+- retry payment (i felt this could be misleading)
+- review payment details
+- okay
+- close
+i don't really like any of these as they don't say exactly what this button does. i have scoured the web and consulted copilot. but i keep coming back to "back to payment". or maybe "return to payment" would address stakeholder concerns.
+any thoughts on what the best button label should be?
+and no, no usability testing. but we're running an experiment so we can always adjust if needed.
+
+trying to write engaging saas product tutorial names
+i have a lot of related tutorials in a trial environment and am trying to work out how to name them in a way that’s engaging, explanatory, and not too long. anyone have any advice?
+
+a game for your amusement r/uxd
+i have been rummaging around on linkedin lately and thought of a game that pokes a little fun at the corporate climbers among us.  
+feel free to post other terms that you think match the set （φωφ）  
+-- *perhaps i will update the game with top suggestions*  :)
+https://preview.redd.it/am0az1bwlbsc1.png?width=1080&format=png&auto=webp&s=375df68f6756ee956f992bab9ac1cf7bcb379c97
+
+drupalcon barcelona 2024 users and editors submissions
+please submit session proposals to the users and editors track at this url. lots of interesting ideas out there that people want to hear about. drupal needs better ux for sure. we all know that!
+
+back to home or go to home
+hello,
+requirement is after a form is filled out and they get a success message they want a link option to home. the page directing to the form was from a privacy page.  
+at the moment it says back to home but wouldn't go to home make more sense? am i overthinking?
+
+what books / documented projects exist for high level operating system design with regards to ux?
+i'm trying to read up on any "prior art" for an operating system project i might (or not) initiate. there is a cornucopia of information about low level tech stuff, but has anyone tried to do a high level design of an entire computer operating system from the user's point of view, and come up with anything worth reading?
+i know of the original macintosh design book and of project oberon. both were great in their time i'm sure, but they are 40+ years outdated and feel weird and primitive.
+then there are things like ibm carbon which feels like it is about mitigating the absolute sh!tshow that is the modern web. they were not trying to think about how to create a good intuitive system from the ground up.
+
+examples of content model / headless cms documentation?
+there’s lots of public design system documentation, but i haven’t ever stumbled on content model documentation. 
+my work is updating our main site to a headless cms. i’m not totally sure what that means or what would let us do. i know from listening to content podcasts that it should give a lot of new options for doing content design at scale, but i haven’t seen any examples of how that works in practice. 
+would love any examples of how content models are documented and shared!
