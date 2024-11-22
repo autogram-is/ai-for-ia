@@ -4,12 +4,12 @@
     "text": "2D projection of text embeddings",
     "color": "white"
   },
-  "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/tsne-clusters/mxbai-query.json" },
+  "data": { "url": "../tsne-clusters/mxbai-query.json" },
   "height": 600,
   "width": 600,
   "mark": { "type": "circle" },
     "config": {
-    "background": "black",
+    "background": "#16223A",
     "axis": {
       "gridColor": "white",
       "tickColor": "white",

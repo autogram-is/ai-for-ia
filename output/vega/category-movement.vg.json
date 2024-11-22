@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "input",
-      "url": "../movement/proposed/cluster-minilm.json"
+      "url": "../movement/proposed/prompt-gpt-4o-mini.json"
     },
     {
       "name": "stacks",
