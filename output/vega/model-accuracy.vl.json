@@ -1,11 +1,15 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "LLM document categorization: Accuracy vs. Time",
+  "title": {
+    "text": "Document Categorization: Accuracy vs. Time",
+    "color": "white"
+  },
   "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/model-accuracy.csv" },
   "height": 400,
   "width": 600,
   "config": {
-    "background": "#16223A",
+    "background": "black",
+    
     "axis": {
       "gridColor": "white",
       "tickColor": "white",

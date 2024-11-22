@@ -1,10 +1,29 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "2D projection of text embeddings",
-  "data": { "url": "../tsne-clusters/oai-text-mini.json" },
+  "title": {
+    "text": "2D projection of text embeddings",
+    "color": "white"
+  },
+  "data": { "url": "https://raw.githubusercontent.com/eaton/rosenfeld/refs/heads/main/output/tsne-clusters/mxbai-query.json" },
   "height": 600,
   "width": 600,
   "mark": { "type": "circle" },
+    "config": {
+    "background": "black",
+    "axis": {
+      "gridColor": "white",
+      "tickColor": "white",
+      "gridOpacity": 0.2,
+      "labelColor": "white",
+      "titleColor": "white"
+    },
+    "legend": {
+      "labelColor": "white",
+      "titleColor": "white"
+    },
+    "view": {"stroke": "transparent"},
+    "text": {"fontSize": 13, "fill": "#FFF"}
+  },
   "params": [
     {
       "name": "toggleTopic",
@@ -15,11 +34,11 @@
   "encoding": {
     "x": {"field": "pos.0", "title": null, "type": "quantitative", "axis": null },
     "y": {"field": "pos.1", "title": null, "type": "quantitative", "axis": null },
-    "color": { "title": "Topic", "field": "new.title", "type": "nominal"},
     "opacity": {
       "condition": { "param": "toggleTopic", "value": 0.9 },
       "value": 0.1
     },
+    "color": { "title": "Topic", "field": "new.title", "type": "nominal"},
     "size": {
       "field": "score", "legend": null, "bin": true
     },
