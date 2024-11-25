@@ -105,6 +105,7 @@
     "wink-distance": "^2.0.2",
     "wink-embeddings-sg-100d": "^1.1.0",
     "wink-eng-lite-web-model": "^1.8.0",
+    "wink-naive-bayes-text-classifier": "^2.2.1",
     "wink-nlp": "^2.3.0",
     "zod": "^3.23.8"
   },
