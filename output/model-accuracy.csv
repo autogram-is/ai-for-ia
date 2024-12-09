@@ -50,7 +50,9 @@ Hermes3 70b,Prompt,Llama,1800,624,5,113.74,,34.7
 Hermes3 8b,Proximity,Llama,1800,263,0,10.37,,14.6
 Hermes3 8b,Prompt,Llama,1800,582,6,13.84,,32.3
 Llama 3.1 70b,Proximity,Llama,1800,268,0,92.71,,14.9
+Llama 3.3 70b,Proximity,Llama,1800,292,0,0,,16.0
 Llama 3.1 70b,Prompt,Llama,1800,714,4,110.38,,39.7
+Llama 3.3 70b,Prompt,Llama,1800,675,3,0,,37.5
 Llama 3.1 8b,Proximity,Llama,1800,255,0,10.44,,14.2
 Llama 3.2 1b,Proximity,Llama,1800,311,0,3.30,,17.3
 Llama 3.1 8b,Prompt,Llama,1800,600,29,13.35,,33.3

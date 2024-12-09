@@ -9,10 +9,10 @@ import { Progress, ProgressStyles } from '../util/progress-bar.js';
 // High-scoring models: ['gpt-4o-mini', 'qwen25-large', 'llama31-large', 'gemini-small, 'gemma2']
 
 let models = await getModels({
-  ids: ['gemma2', 'llama31-large', 'qwen25-large', 'gpt-4o-mini', 'gemini-small']
+  ids: ['llama33-large']
 });
 
-const variant = 'proposed';
+const variant = 'existing';
 
 const overall = new Progress({
   total: models.length,

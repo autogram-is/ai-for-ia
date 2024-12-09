@@ -6,7 +6,7 @@ import { getModels } from '../util/get-models.js';
 import { Progress, ProgressStyles } from '../util/progress-bar.js';
 
 const models = await getModels({
-  ids: ['oai-text-mini', 'google-text', 'mxbai-query', 'minilm']
+  ids: ['llama33-large']
 });
 
 const overview = new Progress({

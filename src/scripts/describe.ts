@@ -8,7 +8,7 @@ import chalk from 'chalk';
 
 const model = await getModel('gemma2-large');
 const prompt = await getPrompt('describe-cluster');
-const labels = await getLabels({ variant: 'kmeans' });
+const labels = await getLabels({ variant: 'kmeans', 'model': 'llama33-large' });
 
 const bar = new Progress({
   total: labels.length,

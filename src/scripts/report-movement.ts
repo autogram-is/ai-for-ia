@@ -2,7 +2,7 @@ import { visualizeMovement } from "../reports/sankey-compare.js";
 import jetpack from "fs-jetpack";
 
 let dir = jetpack.dir('output/movement/proposed');
-for (const model of ['oai-text-mini', 'google-text', 'mxbai-query', 'minilm', 'smollm2', 'phi35']) {
+for (const model of ['llama33-large', 'llama31-large']) {
   // Proximity
   let data = await visualizeMovement({ model, technique: 'proximity', variant: 'proposed' });
   dir.write('proximity-' + model + '.json', getData(data), { jsonIndent: 0});
@@ -13,7 +13,7 @@ for (const model of ['oai-text-mini', 'google-text', 'mxbai-query', 'minilm', 's
 }
 
 // Prompting
-for (const model of ['gemma2', 'llama31-large', 'qwen25-large', 'gpt-4o-mini', 'gemini-small']) {
+for (const model of ['llama33-large', 'llama31-large']) {
   const data = await visualizeMovement({ model, technique: 'prompt', variant: 'proposed' });
   dir.write('prompt-' + model + '.json', getData(data), { jsonIndent: 0});
 }

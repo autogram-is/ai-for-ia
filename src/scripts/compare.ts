@@ -5,7 +5,7 @@ import { Progress } from '../util';
 import { getModels } from '../util/get-models.js';
 
 const models = await getModels({
-  embed: true
+  ids: ['llama33-large']
 });
 
 const progress = new Progress({ total: models.length });
@@ -18,7 +18,7 @@ await task('Compare labeling results', async ({ task, setStatus }) => {
     await task(model.label, async ({ setStatus, setOutput }) => {
       const prox = await compareLabelSets({
         model: model.id,
-        technique: 'proximity',
+        technique: 'prompt',
         variant: 'existing',
       });
       if (prox.posts.length === 0) return;

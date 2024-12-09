@@ -16,6 +16,7 @@ export const models = pgTable('models', {
   tier: varchar().notNull(),
   provider: varchar().notNull(),
   model: varchar().notNull(),
+  family: varchar(),
   variant: varchar(),
   embed: boolean().notNull().default(false),
   generate: boolean().notNull().default(false),

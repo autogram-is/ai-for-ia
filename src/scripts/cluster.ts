@@ -6,7 +6,7 @@ import { getModels } from '../util/get-models.js';
 import { Progress, ProgressStyles } from '../util/progress-bar.js';
 
 const models = await getModels({
-  embed: true
+  ids: ['llama33-large']
 });
 
 await task(

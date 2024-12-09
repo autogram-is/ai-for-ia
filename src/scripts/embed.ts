@@ -8,7 +8,7 @@ import { getPosts } from '../util/get-posts.js';
 import { Progress, ProgressStyles } from '../util/progress-bar.js';
 
 const models = await getModels({
-  ids: ['gemma2-large', 'qwen25-mega']
+  ids: ['llama33-large']
 });
 
 const documents: Record<string, string> = {};

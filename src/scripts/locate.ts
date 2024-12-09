@@ -6,7 +6,7 @@ import { Progress, ProgressStyles } from '../util/progress-bar.js';
 import { dist } from './global-distance.js';
 
 const models = await getModels({
-  embed: true
+  ids: ['llama33-large']
 });
 
 const bar = new Progress({

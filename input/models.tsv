@@ -36,6 +36,7 @@ llama31	normal	Llama	Llama 3.1 8b	ollama	llama3.1	8b-instruct-q4_K_M	1	1	0	0	0
 llama31-large	large	Llama	Llama 3.1 70b	ollama	llama3.1	70b-instruct-q4_K_M	1	1	0	0	0			
 llama32-mini	mini	Llama	Llama 3.2 1b	ollama	llama3.2	1b	1	1	0	0	0			
 llama32-small	small	Llama	Llama 3.2 3b	ollama	llama3.2	3b	1	1	0	0	0			
+llama33-large	large	Llama	Llama 3.3 70b	ollama	llama3.3	70b	1	1	1	0	0			
 minicpm-v	normal	Qwen	MiniCPM-V	ollama	minicpm-v	8b-2.6-fp16	1	1	0	1	0			
 minilm	normal	Bert	MiniLM	ollama	all-minilm	33m	1	0	0	0	0			
 mistral-nemo	normal	Llama	Mistral Nemo	ollama	mistral-nemo	12b-instruct-2407-q4_K_M	1	1	0	0	0			
@@ -57,12 +58,13 @@ oai-text-mini	normal	GPT	OpenAI Text-Embedding-3 Small	openai	text-embedding-3-s
 paraphrase	normal	Bert	Paraphrase	ollama	paraphrase-multilingual		1	0	0	0	0			
 phi35	normal	Phi	Phi 3.5	ollama	phi3.5	3.8b-mini-instruct-q4_K_M	1	1	0	0	0			
 qwen25	normal	Qwen	Qwen 2.5 7b	ollama	qwen2.5	7b	1	1	0	0	0			
+marco-o1	normal	Qwen	Marco-o1	ollama	marco-o1	7b	1	1	0	0	1			Optimized for reasoning workflow
 qwen25-large	large	Qwen	Qwen 2.5 32b	ollama	qwen2.5	32b	1	1	0	0	0			
 qwen25-mega	large	Qwen	Qwen 2.5 72b	ollama	qwen2.5	72b	1	1	0	0	0			
 qwen25-mini	mini	Qwen	Qwen 2.5 .5b	ollama	qwen2.5	0.5b	1	1	0	0	0			
 qwen25-small	small	Qwen	Qwen 2.5 1.5b	ollama	qwen2.5	1.5b	1	1	0	0	0			
 reader-lm	small	Qwen	Reader LM	ollama	reader-lm	1.5b	0	0	0	0	1			HTML to Markdown conversion
-reflection	large	llama	Reflection	ollama	reflection	70b-q4_K_M	1	1	0	0	0			
+reflection	large	Llama	Reflection	ollama	reflection	70b-q4_K_M	1	1	0	0	0			
 shield-gemma	normal	Gemma	ShieldGemma 9b	ollama	shieldgemma	9b	0	0	0	0	1			Classifies messages as safe or unsafe
 shield-gemma-small	small	Gemma	ShieldGemma 2b	ollama	shieldgemma	2b	0	0	0	0	1			Classifies messages as safe or unsafe
 smollm	normal	Llama	Smollm 1.7b	ollama	smollm	1.7b	1	1	0	0	0			
